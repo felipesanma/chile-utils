@@ -1,0 +1,65 @@
+[
+  {
+    "id": "juzgado_letras",
+    "nombre": "Juzgado de Letras",
+    "competencias": [
+      "civil",
+      "cobranza"
+    ]
+  },
+  {
+    "id": "juzgado_garantia",
+    "nombre": "Juzgado de Garantía",
+    "competencias": [
+      "penal"
+    ]
+  },
+  {
+    "id": "juzgado_letras_garantia",
+    "nombre": "Juzgado de Letras y Garantía",
+    "competencias": [
+      "civil",
+      "cobranza",
+      "familia",
+      "penal",
+      "laboral"
+    ]
+  },
+  {
+    "id": "tribunal_oral_penal",
+    "nombre": "Tribunal de Juicio Oral en lo Penal",
+    "competencias": [
+      "penal"
+    ]
+  },
+  {
+    "id": "juzgado_familia",
+    "nombre": "Juzgado de Familia",
+    "competencias": [
+      "familia"
+    ]
+  },
+  {
+    "id": "juzgado_laboral",
+    "nombre": "Juzgado de Letras del Trabajo",
+    "competencias": [
+      "laboral",
+      "cobranza"
+    ]
+  },
+  {
+    "id": "juzgado_cobranza_previsional",
+    "nombre": "Juzgado de Cobranza Laboral y Previsional",
+    "competencias": [
+      "cobranza",
+      "laboral"
+    ]
+  },
+  {
+    "id": "centro_medidas_cautelares",
+    "nombre": "Centro de Medidas Cautelares",
+    "competencias": [
+      "familia"
+    ]
+  }
+]

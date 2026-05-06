@@ -1,0 +1,4881 @@
+[
+  {
+    "codigo": 2,
+    "nombre": "1º Juzgado de Letras de Arica",
+    "slug": "1-juzgado-de-letras-de-arica",
+    "corteCodigo": 10,
+    "corteNombre": "C.A. de Arica",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 3,
+    "nombre": "2º Juzgado de Letras de Arica",
+    "slug": "2-juzgado-de-letras-de-arica",
+    "corteCodigo": 10,
+    "corteNombre": "C.A. de Arica",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 4,
+    "nombre": "3º Juzgado de Letras de Arica",
+    "slug": "3-juzgado-de-letras-de-arica",
+    "corteCodigo": 10,
+    "corteNombre": "C.A. de Arica",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 988,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Arica",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-arica",
+    "corteCodigo": 10,
+    "corteNombre": "C.A. de Arica",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 992,
+    "nombre": "Juzgado de Garantía de Arica",
+    "slug": "juzgado-de-garantia-de-arica",
+    "corteCodigo": 10,
+    "corteNombre": "C.A. de Arica",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1252,
+    "nombre": "Juzgado de Familia de Arica",
+    "slug": "juzgado-de-familia-de-arica",
+    "corteCodigo": 10,
+    "corteNombre": "C.A. de Arica",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1333,
+    "nombre": "Juzgado de Letras del Trabajo de Arica",
+    "slug": "juzgado-de-letras-del-trabajo-de-arica",
+    "corteCodigo": 10,
+    "corteNombre": "C.A. de Arica",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 6,
+    "nombre": "Juzgado de Letras y Garantía de Pozo Almonte",
+    "slug": "juzgado-de-letras-y-garantia-de-pozo-almonte",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 9,
+    "nombre": "1º Juzgado de Letras de Iquique",
+    "slug": "1-juzgado-de-letras-de-iquique",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 10,
+    "nombre": "2º Juzgado de Letras de Iquique",
+    "slug": "2-juzgado-de-letras-de-iquique",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 11,
+    "nombre": "3º Juzgado de Letras de Iquique",
+    "slug": "3-juzgado-de-letras-de-iquique",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 989,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Iquique",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-iquique",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 993,
+    "nombre": "Juzgado de Garantía de Iquique",
+    "slug": "juzgado-de-garantia-de-iquique",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1253,
+    "nombre": "Juzgado de Familia de Iquique",
+    "slug": "juzgado-de-familia-de-iquique",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1334,
+    "nombre": "Juzgado de Letras del Trabajo de Iquique",
+    "slug": "juzgado-de-letras-del-trabajo-de-iquique",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1500,
+    "nombre": "Juzgado de Letras y Garantía de Alto Hospicio",
+    "slug": "juzgado-de-letras-y-garantia-de-alto-hospicio",
+    "corteCodigo": 11,
+    "corteNombre": "C.A. de Iquique",
+    "competencias": [
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 13,
+    "nombre": "Juzgado de Letras de Tocopilla",
+    "slug": "juzgado-de-letras-de-tocopilla",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 14,
+    "nombre": "Juzgado de Letras y Garantía de María Elena",
+    "slug": "juzgado-de-letras-y-garantia-de-maria-elena",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 16,
+    "nombre": "1º Juzgado de Letras de Calama",
+    "slug": "1-juzgado-de-letras-de-calama",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 17,
+    "nombre": "2º Juzgado de Letras de Calama",
+    "slug": "2-juzgado-de-letras-de-calama",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 26,
+    "nombre": "Juzgado de Letras y Garantía de Taltal",
+    "slug": "juzgado-de-letras-y-garantia-de-taltal",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 658,
+    "nombre": "3º Juzgado de Letras de Calama",
+    "slug": "3-juzgado-de-letras-de-calama",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 948,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Calama",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-calama",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 949,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Antofagasta",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-antofagasta",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 950,
+    "nombre": "Juzgado de Garantía de Tocopilla",
+    "slug": "juzgado-de-garantia-de-tocopilla",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 951,
+    "nombre": "Juzgado de Garantía de Calama",
+    "slug": "juzgado-de-garantia-de-calama",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 952,
+    "nombre": "Juzgado de Garantía de Antofagasta",
+    "slug": "juzgado-de-garantia-de-antofagasta",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1041,
+    "nombre": "1º Juzgado de Letras Civil de Antofagasta",
+    "slug": "1-juzgado-de-letras-civil-de-antofagasta",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 1042,
+    "nombre": "2º Juzgado de Letras Civil de Antofagasta",
+    "slug": "2-juzgado-de-letras-civil-de-antofagasta",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 1043,
+    "nombre": "3º Juzgado de Letras Civil de Antofagasta",
+    "slug": "3-juzgado-de-letras-civil-de-antofagasta",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 1044,
+    "nombre": "4º Juzgado de Letras Civil de Antofagasta",
+    "slug": "4-juzgado-de-letras-civil-de-antofagasta",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 1254,
+    "nombre": "Juzgado de Familia de Antofagasta",
+    "slug": "juzgado-de-familia-de-antofagasta",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1255,
+    "nombre": "Juzgado de Familia de Calama",
+    "slug": "juzgado-de-familia-de-calama",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1335,
+    "nombre": "Juzgado de Letras del Trabajo de Antofagasta",
+    "slug": "juzgado-de-letras-del-trabajo-de-antofagasta",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1357,
+    "nombre": "Juzgado de Letras del Trabajo de Calama",
+    "slug": "juzgado-de-letras-del-trabajo-de-calama",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1501,
+    "nombre": "Juzgado de Letras y Garantía de Mejillones",
+    "slug": "juzgado-de-letras-y-garantia-de-mejillones",
+    "corteCodigo": 15,
+    "corteNombre": "C.A. de Antofagasta",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 27,
+    "nombre": "Juzgado de Letras y Garantía de Chañaral",
+    "slug": "juzgado-de-letras-y-garantia-de-chanaral",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 29,
+    "nombre": "Juzgado de Letras de Diego de Almagro",
+    "slug": "juzgado-de-letras-de-diego-de-almagro",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 31,
+    "nombre": "1º Juzgado de Letras de Copiapó",
+    "slug": "1-juzgado-de-letras-de-copiapo",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 32,
+    "nombre": "2º Juzgado de Letras de Copiapó",
+    "slug": "2-juzgado-de-letras-de-copiapo",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 33,
+    "nombre": "3º Juzgado de Letras de Copiapó",
+    "slug": "3-juzgado-de-letras-de-copiapo",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 34,
+    "nombre": "Juzgado de Letras y Garantía de Freirina",
+    "slug": "juzgado-de-letras-y-garantia-de-freirina",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 36,
+    "nombre": "1º Juzgado de Letras de Vallenar",
+    "slug": "1-juzgado-de-letras-de-vallenar",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 37,
+    "nombre": "2º Juzgado de Letras de Vallenar",
+    "slug": "2-juzgado-de-letras-de-vallenar",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 386,
+    "nombre": "Juzgado de Letras y Garantía de Caldera",
+    "slug": "juzgado-de-letras-y-garantia-de-caldera",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 926,
+    "nombre": "4º Juzgado de Letras de Copiapó",
+    "slug": "4-juzgado-de-letras-de-copiapo",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 953,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Copiapó",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-copiapo",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 954,
+    "nombre": "Juzgado de Garantía de Diego de Almagro",
+    "slug": "juzgado-de-garantia-de-diego-de-almagro",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 955,
+    "nombre": "Juzgado de Garantía de Copiapó",
+    "slug": "juzgado-de-garantia-de-copiapo",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 956,
+    "nombre": "Juzgado de Garantía de Vallenar",
+    "slug": "juzgado-de-garantia-de-vallenar",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1256,
+    "nombre": "Juzgado de Familia de Copiapó",
+    "slug": "juzgado-de-familia-de-copiapo",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1257,
+    "nombre": "Juzgado de Familia de Vallenar",
+    "slug": "juzgado-de-familia-de-vallenar",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1336,
+    "nombre": "Juzgado de Letras del Trabajo de Copiapó",
+    "slug": "juzgado-de-letras-del-trabajo-de-copiapo",
+    "corteCodigo": 20,
+    "corteNombre": "C.A. de Copiapó",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 40,
+    "nombre": "1º Juzgado de Letras de la Serena",
+    "slug": "1-juzgado-de-letras-de-la-serena",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 41,
+    "nombre": "2º Juzgado de Letras de la Serena",
+    "slug": "2-juzgado-de-letras-de-la-serena",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 42,
+    "nombre": "3º Juzgado de Letras de la Serena",
+    "slug": "3-juzgado-de-letras-de-la-serena",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 43,
+    "nombre": "1º Juzgado de Letras de Coquimbo",
+    "slug": "1-juzgado-de-letras-de-coquimbo",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 44,
+    "nombre": "2º Juzgado de Letras de Coquimbo",
+    "slug": "2-juzgado-de-letras-de-coquimbo",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 45,
+    "nombre": "3º Juzgado de Letras de Coquimbo",
+    "slug": "3-juzgado-de-letras-de-coquimbo",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 46,
+    "nombre": "Juzgado de Letras de Vicuña",
+    "slug": "juzgado-de-letras-de-vicuna",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 47,
+    "nombre": "Juzgado de Letras y Garantía de Andacollo",
+    "slug": "juzgado-de-letras-y-garantia-de-andacollo",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 48,
+    "nombre": "1º Juzgado de Letras de Ovalle",
+    "slug": "1-juzgado-de-letras-de-ovalle",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 49,
+    "nombre": "2º Juzgado de Letras de Ovalle",
+    "slug": "2-juzgado-de-letras-de-ovalle",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 50,
+    "nombre": "3º Juzgado de Letras de Ovalle",
+    "slug": "3-juzgado-de-letras-de-ovalle",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 51,
+    "nombre": "Juzgado de Letras y Garantía de Combarbalá",
+    "slug": "juzgado-de-letras-y-garantia-de-combarbala",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 52,
+    "nombre": "Juzgado de Letras de Illapel",
+    "slug": "juzgado-de-letras-de-illapel",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 53,
+    "nombre": "Juzgado de Letras y Garantía de Los Vilos",
+    "slug": "juzgado-de-letras-y-garantia-de-los-vilos",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 927,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de La Serena",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-la-serena",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 928,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Ovalle",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-ovalle",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 929,
+    "nombre": "Juzgado de Garantía de La Serena",
+    "slug": "juzgado-de-garantia-de-la-serena",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 930,
+    "nombre": "Juzgado de Garantía de Coquimbo",
+    "slug": "juzgado-de-garantia-de-coquimbo",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 931,
+    "nombre": "Juzgado de Garantía de Vicuña",
+    "slug": "juzgado-de-garantia-de-vicuna",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 932,
+    "nombre": "Juzgado de Garantía de Ovalle",
+    "slug": "juzgado-de-garantia-de-ovalle",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 933,
+    "nombre": "Juzgado de Garantía de Illapel",
+    "slug": "juzgado-de-garantia-de-illapel",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1258,
+    "nombre": "Juzgado de Familia de Coquimbo",
+    "slug": "juzgado-de-familia-de-coquimbo",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1259,
+    "nombre": "Juzgado de Familia de La Serena",
+    "slug": "juzgado-de-familia-de-la-serena",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1260,
+    "nombre": "Juzgado de Familia de Ovalle",
+    "slug": "juzgado-de-familia-de-ovalle",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1337,
+    "nombre": "Juzgado de Letras del Trabajo de La Serena",
+    "slug": "juzgado-de-letras-del-trabajo-de-la-serena",
+    "corteCodigo": 25,
+    "corteNombre": "C.A. de La Serena",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 54,
+    "nombre": "1º Juzgado Civil de Valparaíso",
+    "slug": "1-juzgado-civil-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 55,
+    "nombre": "2º Juzgado Civil de Valparaíso",
+    "slug": "2-juzgado-civil-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 56,
+    "nombre": "3º Juzgado Civil de Valparaíso",
+    "slug": "3-juzgado-civil-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 57,
+    "nombre": "1º Juzgado Civil de Viña del Mar",
+    "slug": "1-juzgado-civil-de-vina-del-mar",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 58,
+    "nombre": "2º Juzgado Civil de Viña del Mar",
+    "slug": "2-juzgado-civil-de-vina-del-mar",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 59,
+    "nombre": "4º Juzgado Civil de Valparaíso",
+    "slug": "4-juzgado-civil-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 60,
+    "nombre": "5º Juzgado Civil de Valparaíso",
+    "slug": "5-juzgado-civil-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 61,
+    "nombre": "3º Juzgado Civil de Viña del Mar",
+    "slug": "3-juzgado-civil-de-vina-del-mar",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 83,
+    "nombre": "1º Juzgado de Letras de Quilpué",
+    "slug": "1-juzgado-de-letras-de-quilpue",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 84,
+    "nombre": "2º Juzgado de Letras de Quilpué",
+    "slug": "2-juzgado-de-letras-de-quilpue",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 85,
+    "nombre": "Juzgado de Letras de Villa Alemana",
+    "slug": "juzgado-de-letras-de-villa-alemana",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 86,
+    "nombre": "Juzgado de Letras de Casablanca",
+    "slug": "juzgado-de-letras-de-casablanca",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 87,
+    "nombre": "Juzgado de Letras de La Ligua",
+    "slug": "juzgado-de-letras-de-la-ligua",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 88,
+    "nombre": "Juzgado de Letras y Garantía de Petorca",
+    "slug": "juzgado-de-letras-y-garantia-de-petorca",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 89,
+    "nombre": "1º Juzgado de Letras de Los Andes",
+    "slug": "1-juzgado-de-letras-de-los-andes",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 90,
+    "nombre": "2º Juzgado de Letras de Los Andes",
+    "slug": "2-juzgado-de-letras-de-los-andes",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 92,
+    "nombre": "1º Juzgado de Letras de San Felipe",
+    "slug": "1-juzgado-de-letras-de-san-felipe",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 94,
+    "nombre": "Juzgado de Letras y Garantía de Putaendo",
+    "slug": "juzgado-de-letras-y-garantia-de-putaendo",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 96,
+    "nombre": "1º Juzgado de Letras de Quillota",
+    "slug": "1-juzgado-de-letras-de-quillota",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 97,
+    "nombre": "2º Juzgado de Letras de Quillota",
+    "slug": "2-juzgado-de-letras-de-quillota",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 98,
+    "nombre": "Juzgado de Letras de Calera",
+    "slug": "juzgado-de-letras-de-calera",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 99,
+    "nombre": "Juzgado de Letras de Limache",
+    "slug": "juzgado-de-letras-de-limache",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 101,
+    "nombre": "1º Juzgado de Letras de San Antonio",
+    "slug": "1-juzgado-de-letras-de-san-antonio",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 102,
+    "nombre": "2º Juzgado de Letras de San Antonio",
+    "slug": "2-juzgado-de-letras-de-san-antonio",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 103,
+    "nombre": "Juzgado de Letras y Garantía de Isla de Pascua",
+    "slug": "juzgado-de-letras-y-garantia-de-isla-de-pascua",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 660,
+    "nombre": "Juzgado de Letras y Garantía de Quintero",
+    "slug": "juzgado-de-letras-y-garantia-de-quintero",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1045,
+    "nombre": "Juzgado de Garantía de Valparaíso",
+    "slug": "juzgado-de-garantia-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1046,
+    "nombre": "Juzgado de Garantía de Viña del Mar",
+    "slug": "juzgado-de-garantia-de-vina-del-mar",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1047,
+    "nombre": "Juzgado de Garantía de Quilpué",
+    "slug": "juzgado-de-garantia-de-quilpue",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1048,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal Viña del Mar",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-vina-del-mar",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1049,
+    "nombre": "Juzgado de Garantía de San Antonio",
+    "slug": "juzgado-de-garantia-de-san-antonio",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1050,
+    "nombre": "Juzgado de Garantía de Casablanca",
+    "slug": "juzgado-de-garantia-de-casablanca",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1051,
+    "nombre": "Juzgado de Garantía de La Ligua",
+    "slug": "juzgado-de-garantia-de-la-ligua",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1052,
+    "nombre": "Juzgado de Garantía de San Felipe",
+    "slug": "juzgado-de-garantia-de-san-felipe",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1053,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Quillota",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-quillota",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1054,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Valparaíso",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1055,
+    "nombre": "Juzgado de Garantía de Limache",
+    "slug": "juzgado-de-garantia-de-limache",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1056,
+    "nombre": "Juzgado de Garantía de La Calera",
+    "slug": "juzgado-de-garantia-de-la-calera",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1057,
+    "nombre": "Juzgado de Garantía de Quillota",
+    "slug": "juzgado-de-garantia-de-quillota",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1058,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Los Andes",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-los-andes",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1059,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de San Felipe",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-san-felipe",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1060,
+    "nombre": "Juzgado de Garantía de Los Andes",
+    "slug": "juzgado-de-garantia-de-los-andes",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1061,
+    "nombre": "Juzgado de Garantía de Villa Alemana",
+    "slug": "juzgado-de-garantia-de-villa-alemana",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1062,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal San Antonio",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-san-antonio",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1261,
+    "nombre": "Juzgado de Familia de Casablanca",
+    "slug": "juzgado-de-familia-de-casablanca",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1262,
+    "nombre": "Juzgado de Familia de La Ligua",
+    "slug": "juzgado-de-familia-de-la-ligua",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1263,
+    "nombre": "Juzgado de Familia de Limache",
+    "slug": "juzgado-de-familia-de-limache",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1264,
+    "nombre": "Juzgado de Familia de Los Andes",
+    "slug": "juzgado-de-familia-de-los-andes",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1265,
+    "nombre": "Juzgado de Familia de Quillota",
+    "slug": "juzgado-de-familia-de-quillota",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1266,
+    "nombre": "Juzgado de Familia de Quilpué",
+    "slug": "juzgado-de-familia-de-quilpue",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1267,
+    "nombre": "Juzgado de Familia de San Antonio",
+    "slug": "juzgado-de-familia-de-san-antonio",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1268,
+    "nombre": "Juzgado de Familia de San Felipe",
+    "slug": "juzgado-de-familia-de-san-felipe",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1269,
+    "nombre": "Juzgado de Familia de Valparaíso",
+    "slug": "juzgado-de-familia-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1270,
+    "nombre": "Juzgado de Familia de Villa Alemana",
+    "slug": "juzgado-de-familia-de-villa-alemana",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1271,
+    "nombre": "Juzgado de Familia de Viña del Mar",
+    "slug": "juzgado-de-familia-de-vina-del-mar",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1331,
+    "nombre": "Juzgado de Cobranza Laboral y Previsional de Valparaíso",
+    "slug": "juzgado-de-cobranza-laboral-y-previsional-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Cobranza"
+    ]
+  },
+  {
+    "codigo": 1338,
+    "nombre": "Juzgado de Letras del Trabajo de Valparaíso",
+    "slug": "juzgado-de-letras-del-trabajo-de-valparaiso",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1358,
+    "nombre": "Juzgado de Letras del Trabajo de San Felipe",
+    "slug": "juzgado-de-letras-del-trabajo-de-san-felipe",
+    "corteCodigo": 30,
+    "corteNombre": "C.A. de Valparaíso",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 110,
+    "nombre": "1º Juzgado Civil de Rancagua",
+    "slug": "1-juzgado-civil-de-rancagua",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 111,
+    "nombre": "1º Juzgado de Letras de Rengo",
+    "slug": "1-juzgado-de-letras-de-rengo",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 113,
+    "nombre": "Juzgado de Letras de San Vicente",
+    "slug": "juzgado-de-letras-de-san-vicente",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 114,
+    "nombre": "1º Juzgado de Letras y Garantía de Peumo",
+    "slug": "1-juzgado-de-letras-y-garantia-de-peumo",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 115,
+    "nombre": "1º Juzgado de Letras de San Fernando",
+    "slug": "1-juzgado-de-letras-de-san-fernando",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 116,
+    "nombre": "2º Juzgado de Letras de San Fernando",
+    "slug": "2-juzgado-de-letras-de-san-fernando",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 117,
+    "nombre": "1º Juzgado de Letras de Santa Cruz",
+    "slug": "1-juzgado-de-letras-de-santa-cruz",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 119,
+    "nombre": "Juzgado de Letras y Garantía de Pichilemu",
+    "slug": "juzgado-de-letras-y-garantia-de-pichilemu",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 969,
+    "nombre": "2º Juzgado Civil de Rancagua",
+    "slug": "2-juzgado-civil-de-rancagua",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 1063,
+    "nombre": "Juzgado de Garantía de San Fernando",
+    "slug": "juzgado-de-garantia-de-san-fernando",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1064,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Santa Cruz",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-santa-cruz",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1065,
+    "nombre": "Juzgado de Garantía de Santa Cruz",
+    "slug": "juzgado-de-garantia-de-santa-cruz",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1067,
+    "nombre": "Juzgado de Garantía de Rengo",
+    "slug": "juzgado-de-garantia-de-rengo",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1068,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal San Fernando",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-san-fernando",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1069,
+    "nombre": "Juzgado de Garantía de Graneros",
+    "slug": "juzgado-de-garantia-de-graneros",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1070,
+    "nombre": "Juzgado de Garantía de Rancagua",
+    "slug": "juzgado-de-garantia-de-rancagua",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1071,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Rancagua",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-rancagua",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1097,
+    "nombre": "Juzgado de Garantía de San Vicente de Tagua-Tagua",
+    "slug": "juzgado-de-garantia-de-san-vicente-de-tagua-tagua",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1150,
+    "nombre": "Juzgado de Letras y Garantía de Litueche",
+    "slug": "juzgado-de-letras-y-garantia-de-litueche",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1151,
+    "nombre": "Juzgado de Letras y Garantía de Peralillo",
+    "slug": "juzgado-de-letras-y-garantia-de-peralillo",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1272,
+    "nombre": "Juzgado de Familia de Rancagua",
+    "slug": "juzgado-de-familia-de-rancagua",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1273,
+    "nombre": "Juzgado de Familia de Rengo",
+    "slug": "juzgado-de-familia-de-rengo",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1274,
+    "nombre": "Juzgado de Familia de San Fernando",
+    "slug": "juzgado-de-familia-de-san-fernando",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1275,
+    "nombre": "Juzgado de Familia de Santa Cruz",
+    "slug": "juzgado-de-familia-de-santa-cruz",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1339,
+    "nombre": "Juzgado de Letras del Trabajo de Rancagua",
+    "slug": "juzgado-de-letras-del-trabajo-de-rancagua",
+    "corteCodigo": 35,
+    "corteNombre": "C.A. de Rancagua",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 122,
+    "nombre": "1º Juzgado de Letras de Talca",
+    "slug": "1-juzgado-de-letras-de-talca",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 123,
+    "nombre": "2º Juzgado de Letras de Talca",
+    "slug": "2-juzgado-de-letras-de-talca",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 124,
+    "nombre": "3º Juzgado de Letras de Talca",
+    "slug": "3-juzgado-de-letras-de-talca",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 125,
+    "nombre": "4º Juzgado de Letras de Talca",
+    "slug": "4-juzgado-de-letras-de-talca",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 126,
+    "nombre": "Juzgado de Letras de Constitución",
+    "slug": "juzgado-de-letras-de-constitucion",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 127,
+    "nombre": "Juzgado de Letras y Garantía de Curepto",
+    "slug": "juzgado-de-letras-y-garantia-de-curepto",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 129,
+    "nombre": "1º Juzgado de Letras de Curicó",
+    "slug": "1-juzgado-de-letras-de-curico",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 130,
+    "nombre": "2º Juzgado de Letras de Curicó",
+    "slug": "2-juzgado-de-letras-de-curico",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 132,
+    "nombre": "Juzgado de Letras y Garantía de Licantén",
+    "slug": "juzgado-de-letras-y-garantia-de-licanten",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 133,
+    "nombre": "Juzgado de Letras de Molina",
+    "slug": "juzgado-de-letras-de-molina",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 135,
+    "nombre": "1º Juzgado de Letras de Linares",
+    "slug": "1-juzgado-de-letras-de-linares",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 136,
+    "nombre": "2º Juzgado de Letras de Linares",
+    "slug": "2-juzgado-de-letras-de-linares",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 138,
+    "nombre": "Juzgado de Letras de San Javier",
+    "slug": "juzgado-de-letras-de-san-javier",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 139,
+    "nombre": "Juzgado de Letras de Cauquenes",
+    "slug": "juzgado-de-letras-de-cauquenes",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 140,
+    "nombre": "Juzgado de Letras y Garantía de Chanco",
+    "slug": "juzgado-de-letras-y-garantia-de-chanco",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 141,
+    "nombre": "Juzgado de Letras de Parral",
+    "slug": "juzgado-de-letras-de-parral",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 957,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Curicó",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-curico",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 958,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Talca",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-talca",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 959,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Linares",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-linares",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 960,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Cauquenes",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-cauquenes",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 961,
+    "nombre": "Juzgado de Garantía de Curicó",
+    "slug": "juzgado-de-garantia-de-curico",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 962,
+    "nombre": "Juzgado de Garantía de Molina",
+    "slug": "juzgado-de-garantia-de-molina",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 963,
+    "nombre": "Juzgado de Garantía de Constitución",
+    "slug": "juzgado-de-garantia-de-constitucion",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 964,
+    "nombre": "Juzgado de Garantía de Talca",
+    "slug": "juzgado-de-garantia-de-talca",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 965,
+    "nombre": "Juzgado de Garantía de San Javier",
+    "slug": "juzgado-de-garantia-de-san-javier",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 966,
+    "nombre": "Juzgado de Garantía de Cauquenes",
+    "slug": "juzgado-de-garantia-de-cauquenes",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 967,
+    "nombre": "Juzgado de Garantía de Linares",
+    "slug": "juzgado-de-garantia-de-linares",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 968,
+    "nombre": "Juzgado de Garantía de Parral",
+    "slug": "juzgado-de-garantia-de-parral",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1276,
+    "nombre": "Juzgado de Familia de Constitución",
+    "slug": "juzgado-de-familia-de-constitucion",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1277,
+    "nombre": "Juzgado de Familia de Curicó",
+    "slug": "juzgado-de-familia-de-curico",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1278,
+    "nombre": "Juzgado de Familia de Linares",
+    "slug": "juzgado-de-familia-de-linares",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1279,
+    "nombre": "Juzgado de Familia de Parral",
+    "slug": "juzgado-de-familia-de-parral",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1280,
+    "nombre": "Juzgado de Familia de Talca",
+    "slug": "juzgado-de-familia-de-talca",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1340,
+    "nombre": "Juzgado de Letras del Trabajo de Curicó",
+    "slug": "juzgado-de-letras-del-trabajo-de-curico",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1341,
+    "nombre": "Juzgado de Letras del Trabajo de Talca",
+    "slug": "juzgado-de-letras-del-trabajo-de-talca",
+    "corteCodigo": 40,
+    "corteNombre": "C.A. de Talca",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 145,
+    "nombre": "1º Juzgado Civil de Chillán",
+    "slug": "1-juzgado-civil-de-chillan",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 146,
+    "nombre": "2º Juzgado Civil de Chillán",
+    "slug": "2-juzgado-civil-de-chillan",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 147,
+    "nombre": "1º Juzgado de Letras de San Carlos",
+    "slug": "1-juzgado-de-letras-de-san-carlos",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 149,
+    "nombre": "Juzgado de Letras de Yungay",
+    "slug": "juzgado-de-letras-de-yungay",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 150,
+    "nombre": "Juzgado de Letras y Garantía de Bulnes",
+    "slug": "juzgado-de-letras-y-garantia-de-bulnes",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 151,
+    "nombre": "Juzgado de Letras y Garantía de Coelemu",
+    "slug": "juzgado-de-letras-y-garantia-de-coelemu",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 152,
+    "nombre": "Juzgado de Letras y Garantía de Quirihue",
+    "slug": "juzgado-de-letras-y-garantia-de-quirihue",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1072,
+    "nombre": "Juzgado de Garantía de Chillán",
+    "slug": "juzgado-de-garantia-de-chillan",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1073,
+    "nombre": "Juzgado de Garantía de Yungay",
+    "slug": "juzgado-de-garantia-de-yungay",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1074,
+    "nombre": "Juzgado de Garantía de San Carlos",
+    "slug": "juzgado-de-garantia-de-san-carlos",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1093,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Chillán",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-chillan",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1281,
+    "nombre": "Juzgado de Familia de Chillán",
+    "slug": "juzgado-de-familia-de-chillan",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1342,
+    "nombre": "Juzgado de Letras del Trabajo de Chillán",
+    "slug": "juzgado-de-letras-del-trabajo-de-chillan",
+    "corteCodigo": 45,
+    "corteNombre": "C.A. de Chillán",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 154,
+    "nombre": "1º Juzgado de Letras de Los Ángeles",
+    "slug": "1-juzgado-de-letras-de-los-angeles",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 155,
+    "nombre": "2º Juzgado de Letras de Los Ángeles",
+    "slug": "2-juzgado-de-letras-de-los-angeles",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 157,
+    "nombre": "Juzgado de Letras y Garantía de Mulchén",
+    "slug": "juzgado-de-letras-y-garantia-de-mulchen",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 158,
+    "nombre": "Juzgado de Letras y Garantía de Nacimiento",
+    "slug": "juzgado-de-letras-y-garantia-de-nacimiento",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 159,
+    "nombre": "Juzgado de Letras y Garantía de Laja",
+    "slug": "juzgado-de-letras-y-garantia-de-laja",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 160,
+    "nombre": "Juzgado de Letras y Garantía de Yumbel",
+    "slug": "juzgado-de-letras-y-garantia-de-yumbel",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 161,
+    "nombre": "1º Juzgado Civil de Concepción",
+    "slug": "1-juzgado-civil-de-concepcion",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 162,
+    "nombre": "2º Juzgado Civil de Concepción",
+    "slug": "2-juzgado-civil-de-concepcion",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 163,
+    "nombre": "3º Juzgado Civil de Concepción",
+    "slug": "3-juzgado-civil-de-concepcion",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 179,
+    "nombre": "1º Juzgado Civil de Talcahuano",
+    "slug": "1-juzgado-civil-de-talcahuano",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 180,
+    "nombre": "2º Juzgado Civil de Talcahuano",
+    "slug": "2-juzgado-civil-de-talcahuano",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 187,
+    "nombre": "Juzgado de Letras de Tomé",
+    "slug": "juzgado-de-letras-de-tome",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 188,
+    "nombre": "Juzgado de Letras y Garantía de Florida",
+    "slug": "juzgado-de-letras-y-garantia-de-florida",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 189,
+    "nombre": "Juzgado de Letras y Garantía de Santa Juana",
+    "slug": "juzgado-de-letras-y-garantia-de-santa-juana",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 190,
+    "nombre": "Juzgado de Letras y Garantía de Lota",
+    "slug": "juzgado-de-letras-y-garantia-de-lota",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 191,
+    "nombre": "1º Juzgado de Letras de Coronel",
+    "slug": "1-juzgado-de-letras-de-coronel",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 192,
+    "nombre": "2º Juzgado de Letras de Coronel",
+    "slug": "2-juzgado-de-letras-de-coronel",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 193,
+    "nombre": "Juzgado de Letras y Garantía de Lebu",
+    "slug": "juzgado-de-letras-y-garantia-de-lebu",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 194,
+    "nombre": "Juzgado de Letras de Arauco",
+    "slug": "juzgado-de-letras-de-arauco",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 195,
+    "nombre": "Juzgado de Letras y Garantía de Curanilahue",
+    "slug": "juzgado-de-letras-y-garantia-de-curanilahue",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 196,
+    "nombre": "Juzgado de Letras de Cañete",
+    "slug": "juzgado-de-letras-de-canete",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 385,
+    "nombre": "Juzgado de Letras y Garantía de Santa Bárbara",
+    "slug": "juzgado-de-letras-y-garantia-de-santa-barbara",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1075,
+    "nombre": "Juzgado de Garantía de San Pedro de La Paz",
+    "slug": "juzgado-de-garantia-de-san-pedro-de-la-paz",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1076,
+    "nombre": "Juzgado de Garantía de Cañete",
+    "slug": "juzgado-de-garantia-de-canete",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1077,
+    "nombre": "Juzgado de Garantía de Arauco",
+    "slug": "juzgado-de-garantia-de-arauco",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1078,
+    "nombre": "Juzgado de Garantía de Coronel",
+    "slug": "juzgado-de-garantia-de-coronel",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1079,
+    "nombre": "Juzgado de Garantía de Tomé",
+    "slug": "juzgado-de-garantia-de-tome",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1080,
+    "nombre": "Juzgado de Garantía de Talcahuano",
+    "slug": "juzgado-de-garantia-de-talcahuano",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1081,
+    "nombre": "Juzgado de Garantía de Chiguayante",
+    "slug": "juzgado-de-garantia-de-chiguayante",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1082,
+    "nombre": "Juzgado de Garantía de Concepción",
+    "slug": "juzgado-de-garantia-de-concepcion",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1083,
+    "nombre": "Juzgado de Garantía de Los Ángeles",
+    "slug": "juzgado-de-garantia-de-los-angeles",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1094,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Concepción",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-concepcion",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1152,
+    "nombre": "Juzgado de Letras y Garantía de Cabrero",
+    "slug": "juzgado-de-letras-y-garantia-de-cabrero",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1282,
+    "nombre": "Juzgado de Familia de Concepción",
+    "slug": "juzgado-de-familia-de-concepcion",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1283,
+    "nombre": "Juzgado de Familia de Coronel",
+    "slug": "juzgado-de-familia-de-coronel",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1284,
+    "nombre": "Juzgado de Familia de Los Ángeles",
+    "slug": "juzgado-de-familia-de-los-angeles",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1285,
+    "nombre": "Juzgado de Familia de Talcahuano",
+    "slug": "juzgado-de-familia-de-talcahuano",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1286,
+    "nombre": "Juzgado de Familia de Tomé",
+    "slug": "juzgado-de-familia-de-tome",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1287,
+    "nombre": "Juzgado de Familia de Yumbel",
+    "slug": "juzgado-de-familia-de-yumbel",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1325,
+    "nombre": "Tribunal Oral en Lo Penal de Los Ángeles",
+    "slug": "tribunal-oral-en-lo-penal-de-los-angeles",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1326,
+    "nombre": "Tribunal Oral en Lo Penal de Cañete",
+    "slug": "tribunal-oral-en-lo-penal-de-canete",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1332,
+    "nombre": "Juzgado de Cobranza Laboral y Previsional de Concepción",
+    "slug": "juzgado-de-cobranza-laboral-y-previsional-de-concepcion",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Cobranza"
+    ]
+  },
+  {
+    "codigo": 1343,
+    "nombre": "Juzgado de Letras del Trabajo de Concepción",
+    "slug": "juzgado-de-letras-del-trabajo-de-concepcion",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1359,
+    "nombre": "Juzgado de Letras del Trabajo de Los Ángeles",
+    "slug": "juzgado-de-letras-del-trabajo-de-los-angeles",
+    "corteCodigo": 46,
+    "corteNombre": "C.A. de Concepción",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 197,
+    "nombre": "1º Juzgado Civil de Temuco",
+    "slug": "1-juzgado-civil-de-temuco",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 198,
+    "nombre": "2º Juzgado Civil de Temuco",
+    "slug": "2-juzgado-civil-de-temuco",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 204,
+    "nombre": "1º Juzgado de Letras de Angol",
+    "slug": "1-juzgado-de-letras-de-angol",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 206,
+    "nombre": "Juzgado de Letras y Garantía de Collipulli",
+    "slug": "juzgado-de-letras-y-garantia-de-collipulli",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 207,
+    "nombre": "Juzgado de Letras y Garantía de Traiguén",
+    "slug": "juzgado-de-letras-y-garantia-de-traiguen",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 208,
+    "nombre": "Juzgado de Letras de Victoria",
+    "slug": "juzgado-de-letras-de-victoria",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 209,
+    "nombre": "Juzgado de Letras y Garantía de Curacautin",
+    "slug": "juzgado-de-letras-y-garantia-de-curacautin",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 210,
+    "nombre": "Juzgado de Letras de Loncoche",
+    "slug": "juzgado-de-letras-de-loncoche",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 211,
+    "nombre": "Juzgado de Letras de Pitrufquén",
+    "slug": "juzgado-de-letras-de-pitrufquen",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 212,
+    "nombre": "Juzgado de Letras de Villarrica",
+    "slug": "juzgado-de-letras-de-villarrica",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 213,
+    "nombre": "Juzgado de Letras de Nueva Imperial",
+    "slug": "juzgado-de-letras-de-nueva-imperial",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 214,
+    "nombre": "Juzgado de Letras y Garantía de Pucón",
+    "slug": "juzgado-de-letras-y-garantia-de-pucon",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 215,
+    "nombre": "Juzgado de Letras de Lautaro",
+    "slug": "juzgado-de-letras-de-lautaro",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 216,
+    "nombre": "Juzgado de Letras y Garantía de Carahue",
+    "slug": "juzgado-de-letras-y-garantia-de-carahue",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 406,
+    "nombre": "3º Juzgado Civil de Temuco",
+    "slug": "3-juzgado-civil-de-temuco",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 934,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Temuco",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-temuco",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 935,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Angol",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-angol",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 936,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Villarrica",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-villarrica",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 937,
+    "nombre": "Juzgado de Garantía de Temuco",
+    "slug": "juzgado-de-garantia-de-temuco",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 938,
+    "nombre": "Juzgado de Garantía de Pitrufquén",
+    "slug": "juzgado-de-garantia-de-pitrufquen",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 939,
+    "nombre": "Juzgado de Garantía de Villarrica",
+    "slug": "juzgado-de-garantia-de-villarrica",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 940,
+    "nombre": "Juzgado de Garantía de Angol",
+    "slug": "juzgado-de-garantia-de-angol",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 941,
+    "nombre": "Juzgado de Garantía de Victoria",
+    "slug": "juzgado-de-garantia-de-victoria",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 942,
+    "nombre": "Juzgado de Garantía de Nueva Imperial",
+    "slug": "juzgado-de-garantia-de-nueva-imperial",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 943,
+    "nombre": "Juzgado de Garantía de Lautaro",
+    "slug": "juzgado-de-garantia-de-lautaro",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 944,
+    "nombre": "Juzgado de Garantía de Loncoche",
+    "slug": "juzgado-de-garantia-de-loncoche",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 946,
+    "nombre": "Juzgado de Letras y Garantía de Toltén",
+    "slug": "juzgado-de-letras-y-garantia-de-tolten",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 947,
+    "nombre": "Juzgado de Letras y Garantía de Purén",
+    "slug": "juzgado-de-letras-y-garantia-de-puren",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1288,
+    "nombre": "Juzgado de Familia de Angol",
+    "slug": "juzgado-de-familia-de-angol",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1289,
+    "nombre": "Juzgado de Familia de Temuco",
+    "slug": "juzgado-de-familia-de-temuco",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1344,
+    "nombre": "Juzgado de Letras del Trabajo de Temuco",
+    "slug": "juzgado-de-letras-del-trabajo-de-temuco",
+    "corteCodigo": 50,
+    "corteNombre": "C.A. de Temuco",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 220,
+    "nombre": "1º Juzgado Civil de Valdivia",
+    "slug": "1-juzgado-civil-de-valdivia",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 221,
+    "nombre": "2º Juzgado Civil de Valdivia",
+    "slug": "2-juzgado-civil-de-valdivia",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 222,
+    "nombre": "Juzgado de Letras de Mariquina",
+    "slug": "juzgado-de-letras-de-mariquina",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 223,
+    "nombre": "Juzgado de Letras y Garantía de Paillaco",
+    "slug": "juzgado-de-letras-y-garantia-de-paillaco",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 224,
+    "nombre": "Juzgado de Letras de Los Lagos",
+    "slug": "juzgado-de-letras-de-los-lagos",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 225,
+    "nombre": "Juzgado de Letras y Garantía de Panguipulli",
+    "slug": "juzgado-de-letras-y-garantia-de-panguipulli",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 226,
+    "nombre": "Juzgado de Letras y Garantía de La Unión",
+    "slug": "juzgado-de-letras-y-garantia-de-la-union",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 227,
+    "nombre": "Juzgado de Letras y Garantía de Rio Bueno",
+    "slug": "juzgado-de-letras-y-garantia-de-rio-bueno",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 229,
+    "nombre": "1º Juzgado de Letras de Osorno",
+    "slug": "1-juzgado-de-letras-de-osorno",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 230,
+    "nombre": "2º Juzgado de Letras de Osorno",
+    "slug": "2-juzgado-de-letras-de-osorno",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 233,
+    "nombre": "Juzgado de Letras de Rio Negro",
+    "slug": "juzgado-de-letras-de-rio-negro",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Civil",
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1084,
+    "nombre": "Juzgado de Garantía de Valdivia",
+    "slug": "juzgado-de-garantia-de-valdivia",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1085,
+    "nombre": "Juzgado de Garantía de Mariquina",
+    "slug": "juzgado-de-garantia-de-mariquina",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1086,
+    "nombre": "Juzgado de Garantía de Los Lagos",
+    "slug": "juzgado-de-garantia-de-los-lagos",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1087,
+    "nombre": "Juzgado de Garantía de Río Negro",
+    "slug": "juzgado-de-garantia-de-rio-negro",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1088,
+    "nombre": "Juzgado de Garantía de Osorno",
+    "slug": "juzgado-de-garantia-de-osorno",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1095,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Valdivia",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-valdivia",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1251,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Osorno",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-osorno",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1290,
+    "nombre": "Juzgado de Familia de Osorno",
+    "slug": "juzgado-de-familia-de-osorno",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1291,
+    "nombre": "Juzgado de Familia de Valdivia",
+    "slug": "juzgado-de-familia-de-valdivia",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1345,
+    "nombre": "Juzgado de Letras del Trabajo de Valdivia",
+    "slug": "juzgado-de-letras-del-trabajo-de-valdivia",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1360,
+    "nombre": "Juzgado de Letras del Trabajo de Osorno",
+    "slug": "juzgado-de-letras-del-trabajo-de-osorno",
+    "corteCodigo": 55,
+    "corteNombre": "C.A. de Valdivia",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 237,
+    "nombre": "1º Juzgado Civil de Puerto Montt",
+    "slug": "1-juzgado-civil-de-puerto-montt",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 238,
+    "nombre": "1º Juzgado de Letras de Puerto Varas",
+    "slug": "1-juzgado-de-letras-de-puerto-varas",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 240,
+    "nombre": "Juzgado de Letras y Garantía de Calbuco",
+    "slug": "juzgado-de-letras-y-garantia-de-calbuco",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 241,
+    "nombre": "Juzgado de Letras y Garantía de Maullín",
+    "slug": "juzgado-de-letras-y-garantia-de-maullin",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 242,
+    "nombre": "Juzgado de Letras de Castro",
+    "slug": "juzgado-de-letras-de-castro",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 243,
+    "nombre": "Juzgado de Letras de Ancud",
+    "slug": "juzgado-de-letras-de-ancud",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 244,
+    "nombre": "Juzgado de Letras y Garantía de Achao",
+    "slug": "juzgado-de-letras-y-garantia-de-achao",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 245,
+    "nombre": "Juzgado de Letras y Garantía de Chaitén",
+    "slug": "juzgado-de-letras-y-garantia-de-chaiten",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 659,
+    "nombre": "Juzgado de Letras y Garantía de Los Muermos",
+    "slug": "juzgado-de-letras-y-garantia-de-los-muermos",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 662,
+    "nombre": "Juzgado de Letras y Garantía de Quellón",
+    "slug": "juzgado-de-letras-y-garantia-de-quellon",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Familia",
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1012,
+    "nombre": "2º Juzgado Civil de Puerto Montt",
+    "slug": "2-juzgado-civil-de-puerto-montt",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 1013,
+    "nombre": "Juzgado de Letras y Garantía de Hualaihue",
+    "slug": "juzgado-de-letras-y-garantia-de-hualaihue",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1089,
+    "nombre": "Juzgado de Garantía de Castro",
+    "slug": "juzgado-de-garantia-de-castro",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1090,
+    "nombre": "Juzgado de Garantía de Puerto Montt",
+    "slug": "juzgado-de-garantia-de-puerto-montt",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1091,
+    "nombre": "Juzgado de Garantía de Puerto Varas",
+    "slug": "juzgado-de-garantia-de-puerto-varas",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1092,
+    "nombre": "Juzgado de Garantía de Ancud",
+    "slug": "juzgado-de-garantia-de-ancud",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1096,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal Puerto Montt",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-puerto-montt",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1292,
+    "nombre": "Juzgado de Familia de Ancud",
+    "slug": "juzgado-de-familia-de-ancud",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1293,
+    "nombre": "Juzgado de Familia de Castro",
+    "slug": "juzgado-de-familia-de-castro",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1294,
+    "nombre": "Juzgado de Familia de Puerto Montt",
+    "slug": "juzgado-de-familia-de-puerto-montt",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1295,
+    "nombre": "Juzgado de Familia de Puerto Varas",
+    "slug": "juzgado-de-familia-de-puerto-varas",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1328,
+    "nombre": "Tribunal Oral en Lo Penal de Castro",
+    "slug": "tribunal-oral-en-lo-penal-de-castro",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1346,
+    "nombre": "Juzgado de Letras del Trabajo de Puerto Montt",
+    "slug": "juzgado-de-letras-del-trabajo-de-puerto-montt",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1361,
+    "nombre": "Juzgado de Letras del Trabajo de Castro",
+    "slug": "juzgado-de-letras-del-trabajo-de-castro",
+    "corteCodigo": 56,
+    "corteNombre": "C.A. de Puerto Montt",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 246,
+    "nombre": "1º Juzgado de Letras de Coyhaique",
+    "slug": "1-juzgado-de-letras-de-coyhaique",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 248,
+    "nombre": "Juzgado de Letras y Garantía de Puerto Aysén",
+    "slug": "juzgado-de-letras-y-garantia-de-puerto-aysen",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 249,
+    "nombre": "Juzgado de Letras y Garantía de Chile Chico",
+    "slug": "juzgado-de-letras-y-garantia-de-chile-chico",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 250,
+    "nombre": "Juzgado de Letras y Garantía de Cochrane",
+    "slug": "juzgado-de-letras-y-garantia-de-cochrane",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 990,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Coyhaique",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-coyhaique",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 994,
+    "nombre": "Juzgado de Garantía de Coyhaique",
+    "slug": "juzgado-de-garantia-de-coyhaique",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 996,
+    "nombre": "Juzgado de Letras y Garantía de Puerto Cisnes",
+    "slug": "juzgado-de-letras-y-garantia-de-puerto-cisnes",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1296,
+    "nombre": "Juzgado de Familia de Coyhaique",
+    "slug": "juzgado-de-familia-de-coyhaique",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1362,
+    "nombre": "Juzgado de Letras del Trabajo de Coyhaique",
+    "slug": "juzgado-de-letras-del-trabajo-de-coyhaique",
+    "corteCodigo": 60,
+    "corteNombre": "C.A. de Coyhaique",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 253,
+    "nombre": "1º Juzgado de Letras de Punta Arenas",
+    "slug": "1-juzgado-de-letras-de-punta-arenas",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 254,
+    "nombre": "2º Juzgado de Letras de Punta Arenas",
+    "slug": "2-juzgado-de-letras-de-punta-arenas",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 255,
+    "nombre": "3º Juzgado de Letras de Punta Arenas",
+    "slug": "3-juzgado-de-letras-de-punta-arenas",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 257,
+    "nombre": "Juzgado de Letras y Garantía de Puerto Natales",
+    "slug": "juzgado-de-letras-y-garantia-de-puerto-natales",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 258,
+    "nombre": "Juzgado de Letras y Garantía de Porvenir",
+    "slug": "juzgado-de-letras-y-garantia-de-porvenir",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 991,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal Punta Arenas",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-punta-arenas",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 995,
+    "nombre": "Juzgado de Garantía de Punta Arenas",
+    "slug": "juzgado-de-garantia-de-punta-arenas",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1297,
+    "nombre": "Juzgado de Familia de Punta Arenas",
+    "slug": "juzgado-de-familia-de-punta-arenas",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1347,
+    "nombre": "Juzgado de Letras del Trabajo de Punta Arenas",
+    "slug": "juzgado-de-letras-del-trabajo-de-punta-arenas",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1502,
+    "nombre": "Juzgado de Letras y Garantía de Cabo de Hornos",
+    "slug": "juzgado-de-letras-y-garantia-de-cabo-de-hornos",
+    "corteCodigo": 61,
+    "corteNombre": "C.A. de Punta Arenas",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Familia",
+      "Penal",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 259,
+    "nombre": "1º Juzgado Civil de Santiago",
+    "slug": "1-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 260,
+    "nombre": "2º Juzgado Civil de Santiago",
+    "slug": "2-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 261,
+    "nombre": "3º Juzgado Civil de Santiago",
+    "slug": "3-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 262,
+    "nombre": "4º Juzgado Civil de Santiago",
+    "slug": "4-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 263,
+    "nombre": "5º Juzgado Civil de Santiago",
+    "slug": "5-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 264,
+    "nombre": "6º Juzgado Civil de Santiago",
+    "slug": "6-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 265,
+    "nombre": "7º Juzgado Civil de Santiago",
+    "slug": "7-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 266,
+    "nombre": "8º Juzgado Civil de Santiago",
+    "slug": "8-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 267,
+    "nombre": "9º Juzgado Civil de Santiago",
+    "slug": "9-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 268,
+    "nombre": "10º Juzgado Civil de Santiago",
+    "slug": "10-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 269,
+    "nombre": "11º Juzgado Civil de Santiago",
+    "slug": "11-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 270,
+    "nombre": "12º Juzgado Civil de Santiago",
+    "slug": "12-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 271,
+    "nombre": "13º Juzgado Civil de Santiago",
+    "slug": "13-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 272,
+    "nombre": "14º Juzgado Civil de Santiago",
+    "slug": "14-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 273,
+    "nombre": "15º Juzgado Civil de Santiago",
+    "slug": "15-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 274,
+    "nombre": "16º Juzgado Civil de Santiago",
+    "slug": "16-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 275,
+    "nombre": "17º Juzgado Civil de Santiago",
+    "slug": "17-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 276,
+    "nombre": "18º Juzgado Civil de Santiago",
+    "slug": "18-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 277,
+    "nombre": "19º Juzgado Civil de Santiago",
+    "slug": "19-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 278,
+    "nombre": "20º Juzgado Civil de Santiago",
+    "slug": "20-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 279,
+    "nombre": "21º Juzgado Civil de Santiago",
+    "slug": "21-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 280,
+    "nombre": "22º Juzgado Civil de Santiago",
+    "slug": "22-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 281,
+    "nombre": "23º Juzgado Civil de Santiago",
+    "slug": "23-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 282,
+    "nombre": "24º Juzgado Civil de Santiago",
+    "slug": "24-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 283,
+    "nombre": "25º Juzgado Civil de Santiago",
+    "slug": "25-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 284,
+    "nombre": "26º Juzgado Civil de Santiago",
+    "slug": "26-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 285,
+    "nombre": "27º Juzgado Civil de Santiago",
+    "slug": "27-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 286,
+    "nombre": "28º Juzgado Civil de Santiago",
+    "slug": "28-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 287,
+    "nombre": "29º Juzgado Civil de Santiago",
+    "slug": "29-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 288,
+    "nombre": "30º Juzgado Civil de Santiago",
+    "slug": "30-juzgado-civil-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 387,
+    "nombre": "Juzgado de Letras de Colina",
+    "slug": "juzgado-de-letras-de-colina",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1220,
+    "nombre": "1º Juzgado de Garantía de Santiago",
+    "slug": "1-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1221,
+    "nombre": "2º Juzgado de Garantía de Santiago",
+    "slug": "2-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1222,
+    "nombre": "3º Juzgado de Garantía de Santiago",
+    "slug": "3-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1223,
+    "nombre": "4º Juzgado de Garantía de Santiago",
+    "slug": "4-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1224,
+    "nombre": "5º Juzgado de Garantía de Santiago",
+    "slug": "5-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1225,
+    "nombre": "6º Juzgado de Garantía de Santiago",
+    "slug": "6-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1226,
+    "nombre": "7º Juzgado de Garantía de Santiago",
+    "slug": "7-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1227,
+    "nombre": "8º Juzgado de Garantía de Santiago",
+    "slug": "8-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1228,
+    "nombre": "9º Juzgado de Garantía de Santiago",
+    "slug": "9-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1232,
+    "nombre": "13º Juzgado de Garantía de Santiago",
+    "slug": "13-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1233,
+    "nombre": "14º Juzgado de Garantía de Santiago",
+    "slug": "14-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1235,
+    "nombre": "Juzgado de Garantía de Colina",
+    "slug": "juzgado-de-garantia-de-colina",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1244,
+    "nombre": "1º Tribunal de Juicio Oral en Lo Penal de Santiago",
+    "slug": "1-tribunal-de-juicio-oral-en-lo-penal-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1245,
+    "nombre": "2º Tribunal de Juicio Oral en Lo Penal de Santiago",
+    "slug": "2-tribunal-de-juicio-oral-en-lo-penal-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1246,
+    "nombre": "3º Tribunal de Juicio Oral en Lo Penal de Santiago",
+    "slug": "3-tribunal-de-juicio-oral-en-lo-penal-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1247,
+    "nombre": "4º Tribunal de Juicio Oral en Lo Penal de Santiago",
+    "slug": "4-tribunal-de-juicio-oral-en-lo-penal-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1248,
+    "nombre": "5º Tribunal de Juicio Oral en Lo Penal de Santiago",
+    "slug": "5-tribunal-de-juicio-oral-en-lo-penal-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1250,
+    "nombre": "7º Tribunal de Juicio Oral en Lo Penal de Santiago",
+    "slug": "7-tribunal-de-juicio-oral-en-lo-penal-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1298,
+    "nombre": "1º Juzgado de Familia de Santiago",
+    "slug": "1-juzgado-de-familia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1299,
+    "nombre": "2º Juzgado de Familia de Santiago",
+    "slug": "2-juzgado-de-familia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1300,
+    "nombre": "3º Juzgado de Familia de Santiago",
+    "slug": "3-juzgado-de-familia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1301,
+    "nombre": "4º Juzgado de Familia de Santiago",
+    "slug": "4-juzgado-de-familia-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1302,
+    "nombre": "Juzgado de Familia de Colina",
+    "slug": "juzgado-de-familia-de-colina",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1303,
+    "nombre": "Juzgado de Familia de Pudahuel",
+    "slug": "juzgado-de-familia-de-pudahuel",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1321,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal Colina",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-colina",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1329,
+    "nombre": "Juzgado de Cobranza Laboral y Previsional de Santiago",
+    "slug": "juzgado-de-cobranza-laboral-y-previsional-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Cobranza"
+    ]
+  },
+  {
+    "codigo": 1348,
+    "nombre": "1º Juzgado de Letras del Trabajo de Santiago",
+    "slug": "1-juzgado-de-letras-del-trabajo-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1349,
+    "nombre": "2º Juzgado de Letras del Trabajo de Santiago",
+    "slug": "2-juzgado-de-letras-del-trabajo-de-santiago",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1385,
+    "nombre": "Centro de Medidas Cautelares",
+    "slug": "centro-de-medidas-cautelares",
+    "corteCodigo": 90,
+    "corteNombre": "C.A. de Santiago",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 343,
+    "nombre": "1º Juzgado Civil de San Miguel",
+    "slug": "1-juzgado-civil-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 344,
+    "nombre": "2º Juzgado Civil de San Miguel",
+    "slug": "2-juzgado-civil-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 345,
+    "nombre": "3º Juzgado Civil de San Miguel",
+    "slug": "3-juzgado-civil-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 364,
+    "nombre": "1º Juzgado Civil de Puente Alto",
+    "slug": "1-juzgado-civil-de-puente-alto",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 373,
+    "nombre": "1º Juzgado de Letras de Talagante",
+    "slug": "1-juzgado-de-letras-de-talagante",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 374,
+    "nombre": "2º Juzgado de Letras de Talagante",
+    "slug": "2-juzgado-de-letras-de-talagante",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 375,
+    "nombre": "1º Juzgado de Letras de Melipilla",
+    "slug": "1-juzgado-de-letras-de-melipilla",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 377,
+    "nombre": "1º Juzgado de Letras de Buin",
+    "slug": "1-juzgado-de-letras-de-buin",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 378,
+    "nombre": "2º Juzgado de Letras de Buin",
+    "slug": "2-juzgado-de-letras-de-buin",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 388,
+    "nombre": "Juzgado de Letras de Peñaflor",
+    "slug": "juzgado-de-letras-de-penaflor",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil",
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 390,
+    "nombre": "4º Juzgado Civil de San Miguel",
+    "slug": "4-juzgado-civil-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 400,
+    "nombre": "1º Juzgado de Letras de San Bernardo",
+    "slug": "1-juzgado-de-letras-de-san-bernardo",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 401,
+    "nombre": "2º Juzgado de Letras de San Bernardo",
+    "slug": "2-juzgado-de-letras-de-san-bernardo",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Civil"
+    ]
+  },
+  {
+    "codigo": 1229,
+    "nombre": "10º Juzgado de Garantía de Santiago",
+    "slug": "10-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1230,
+    "nombre": "11º Juzgado de Garantía de Santiago",
+    "slug": "11-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1231,
+    "nombre": "12º Juzgado de Garantía de Santiago",
+    "slug": "12-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1234,
+    "nombre": "15º Juzgado de Garantía de Santiago",
+    "slug": "15-juzgado-de-garantia-de-santiago",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1236,
+    "nombre": "Juzgado de Garantía de Puente Alto",
+    "slug": "juzgado-de-garantia-de-puente-alto",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1237,
+    "nombre": "Juzgado de Garantía de San Bernardo",
+    "slug": "juzgado-de-garantia-de-san-bernardo",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1238,
+    "nombre": "Juzgado de Garantía de Melipilla",
+    "slug": "juzgado-de-garantia-de-melipilla",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1239,
+    "nombre": "Juzgado de Garantía de Curacaví",
+    "slug": "juzgado-de-garantia-de-curacavi",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1240,
+    "nombre": "Juzgado de Garantía de Talagante",
+    "slug": "juzgado-de-garantia-de-talagante",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1249,
+    "nombre": "6º Tribunal de Juicio Oral en Lo Penal de San Miguel",
+    "slug": "6-tribunal-de-juicio-oral-en-lo-penal-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1304,
+    "nombre": "1º Juzgado de Familia de San Miguel",
+    "slug": "1-juzgado-de-familia-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1305,
+    "nombre": "2º Juzgado de Familia de San Miguel",
+    "slug": "2-juzgado-de-familia-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1306,
+    "nombre": "Juzgado de Familia de Buin",
+    "slug": "juzgado-de-familia-de-buin",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1307,
+    "nombre": "Juzgado de Familia de Melipilla",
+    "slug": "juzgado-de-familia-de-melipilla",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1308,
+    "nombre": "Juzgado de Familia de Peñaflor",
+    "slug": "juzgado-de-familia-de-penaflor",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1309,
+    "nombre": "Juzgado de Familia de Puente Alto",
+    "slug": "juzgado-de-familia-de-puente-alto",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1310,
+    "nombre": "Juzgado de Familia de San Bernardo",
+    "slug": "juzgado-de-familia-de-san-bernardo",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1311,
+    "nombre": "Juzgado de Familia de Talagante",
+    "slug": "juzgado-de-familia-de-talagante",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Familia"
+    ]
+  },
+  {
+    "codigo": 1320,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal Talagante",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-talagante",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1322,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal Puente Alto",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-puente-alto",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1323,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal San Bernardo",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-san-bernardo",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1330,
+    "nombre": "Juzgado de Cobranza Laboral y Previsional de San Miguel",
+    "slug": "juzgado-de-cobranza-laboral-y-previsional-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Cobranza"
+    ]
+  },
+  {
+    "codigo": 1351,
+    "nombre": "Juzgado de Letras del Trabajo de San Miguel",
+    "slug": "juzgado-de-letras-del-trabajo-de-san-miguel",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1352,
+    "nombre": "Juzgado de Letras del Trabajo de San Bernardo",
+    "slug": "juzgado-de-letras-del-trabajo-de-san-bernardo",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  },
+  {
+    "codigo": 1355,
+    "nombre": "Tribunal de Juicio Oral en Lo Penal de Melipilla",
+    "slug": "tribunal-de-juicio-oral-en-lo-penal-de-melipilla",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Penal"
+    ]
+  },
+  {
+    "codigo": 1363,
+    "nombre": "Juzgado de Letras del Trabajo de Puente Alto",
+    "slug": "juzgado-de-letras-del-trabajo-de-puente-alto",
+    "corteCodigo": 91,
+    "corteNombre": "C.A. de San Miguel",
+    "competencias": [
+      "Cobranza",
+      "Laboral"
+    ]
+  }
+]

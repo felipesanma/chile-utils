@@ -1,0 +1,110 @@
+[
+  {
+    "codigo": 0,
+    "nombre": "Todo el País",
+    "tipo": "Total país",
+    "esTotalPais": true
+  },
+  {
+    "codigo": 10,
+    "nombre": "C.A. de Arica",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 11,
+    "nombre": "C.A. de Iquique",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 15,
+    "nombre": "C.A. de Antofagasta",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 20,
+    "nombre": "C.A. de Copiapó",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 25,
+    "nombre": "C.A. de La Serena",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 30,
+    "nombre": "C.A. de Valparaíso",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 35,
+    "nombre": "C.A. de Rancagua",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 40,
+    "nombre": "C.A. de Talca",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 45,
+    "nombre": "C.A. de Chillán",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 46,
+    "nombre": "C.A. de Concepción",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 50,
+    "nombre": "C.A. de Temuco",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 55,
+    "nombre": "C.A. de Valdivia",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 56,
+    "nombre": "C.A. de Puerto Montt",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 60,
+    "nombre": "C.A. de Coyhaique",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 61,
+    "nombre": "C.A. de Punta Arenas",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 90,
+    "nombre": "C.A. de Santiago",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  },
+  {
+    "codigo": 91,
+    "nombre": "C.A. de San Miguel",
+    "tipo": "Corte de Apelaciones",
+    "esTotalPais": false
+  }
+]

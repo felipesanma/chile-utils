@@ -1,0 +1,22 @@
+[
+  {
+    "id": "civil",
+    "nombre": "Civil"
+  },
+  {
+    "id": "cobranza",
+    "nombre": "Cobranza"
+  },
+  {
+    "id": "familia",
+    "nombre": "Familia"
+  },
+  {
+    "id": "penal",
+    "nombre": "Penal"
+  },
+  {
+    "id": "laboral",
+    "nombre": "Laboral"
+  }
+]
