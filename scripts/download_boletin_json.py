@@ -1,4 +1,5 @@
 from datetime import datetime, timezone
+import gzip
 import json
 from pathlib import Path
 import re
@@ -11,7 +12,7 @@ SOURCE_ENDPOINT = (
     "https://www.boletinconcursal.cl/boletin/getRegistroDiarioPublicacionJson"
 )
 DATA_DIR = Path(__file__).resolve().parents[1] / "superir"
-PUBLICACIONES_PATH = DATA_DIR / "publicaciones.json"
+PUBLICACIONES_PATH = DATA_DIR / "publicaciones.json.gz"
 METADATA_PATH = DATA_DIR / "metadata.json"
 
 
@@ -83,16 +84,17 @@ def main() -> None:
         raise RuntimeError("La respuesta del endpoint no es JSON válido.") from exc
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    PUBLICACIONES_PATH.write_text(
-        json.dumps(records, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
+    json_payload = json.dumps(records, ensure_ascii=False, indent=2) + "\n"
+    with gzip.open(PUBLICACIONES_PATH, "wt", encoding="utf-8") as output_file:
+        output_file.write(json_payload)
 
     metadata = {
         "source_page": SOURCE_PAGE,
         "source_endpoint": SOURCE_ENDPOINT,
         "downloaded_at": datetime.now(timezone.utc).isoformat(),
         "records_type": type(records).__name__,
+        "compression": "gzip",
+        "output_file": str(PUBLICACIONES_PATH.relative_to(DATA_DIR.parent)),
     }
     if isinstance(records, list):
         metadata["records_count"] = len(records)
