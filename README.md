@@ -27,6 +27,9 @@ pjud/
   tribunales.json
   competencias.json
   tipos-tribunal.json
+superir/
+  publicaciones.json.gz
+  metadata.json
 ```
 
 ---
@@ -103,6 +106,48 @@ Ejemplo:
 
 ---
 
+## SUPERIR / Boletín Concursal
+
+Dataset diario obtenido desde el Boletín Concursal público de Chile.
+
+### publicaciones.json.gz
+
+Archivo JSON comprimido con gzip que contiene las publicaciones disponibles desde el endpoint público del Boletín Concursal.
+
+Ruta:
+
+```txt
+superir/publicaciones.json.gz
+```
+
+URL raw:
+
+```txt
+https://raw.githubusercontent.com/felipesanma/chile-utils/main/superir/publicaciones.json.gz
+```
+
+El archivo se actualiza diariamente mediante GitHub Actions y reemplaza la versión anterior cuando hay cambios.
+
+### metadata.json
+
+Metadata de la descarga diaria.
+
+Incluye:
+
+```json
+{
+  "source_page": "https://www.boletinconcursal.cl/boletin/procedimientos",
+  "source_endpoint": "https://www.boletinconcursal.cl/boletin/getRegistroDiarioPublicacionJson",
+  "downloaded_at": "2026-05-08T00:00:00+00:00",
+  "records_type": "list",
+  "compression": "gzip",
+  "output_file": "superir/publicaciones.json.gz",
+  "records_count": 123
+}
+```
+
+---
+
 # Uso
 
 ## Consumir desde GitHub
@@ -123,6 +168,24 @@ const response = await fetch(
 const tribunales = await response.json();
 
 console.log(tribunales);
+```
+
+---
+
+## Ejemplo Python con publicaciones comprimidas
+
+```python
+import gzip
+import json
+import urllib.request
+
+url = "https://raw.githubusercontent.com/felipesanma/chile-utils/main/superir/publicaciones.json.gz"
+
+with urllib.request.urlopen(url) as response:
+    with gzip.GzipFile(fileobj=response) as gz:
+        publicaciones = json.load(gz)
+
+print(len(publicaciones))
 ```
 
 ---
@@ -179,4 +242,3 @@ MIT
 Este proyecto es independiente y no pertenece a ninguna institución pública chilena.
 
 Los datos provienen de fuentes públicas y se publican únicamente con fines de interoperabilidad, transparencia y reutilización tecnológica.
-
