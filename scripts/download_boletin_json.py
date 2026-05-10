@@ -13,6 +13,7 @@ SOURCE_ENDPOINT = (
 )
 DATA_DIR = Path(__file__).resolve().parents[1] / "superir"
 PUBLICACIONES_PATH = DATA_DIR / "publicaciones.json.gz"
+LEGACY_PUBLICACIONES_PATH = DATA_DIR / "publicaciones.json"
 METADATA_PATH = DATA_DIR / "metadata.json"
 
 
@@ -84,6 +85,8 @@ def main() -> None:
         raise RuntimeError("La respuesta del endpoint no es JSON válido.") from exc
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    LEGACY_PUBLICACIONES_PATH.unlink(missing_ok=True)
+
     json_payload = json.dumps(records, ensure_ascii=False, indent=2) + "\n"
     with gzip.open(PUBLICACIONES_PATH, "wt", encoding="utf-8") as output_file:
         output_file.write(json_payload)
