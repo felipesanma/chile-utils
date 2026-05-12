@@ -1,0 +1,3116 @@
+[
+  {
+    "codigo": "05602",
+    "nombre": "Algarrobo",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "lat": -33.3332,
+    "lng": -71.6023,
+    "url": ""
+  },
+  {
+    "codigo": "13502",
+    "nombre": "Alhué",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "lat": -34.0355,
+    "lng": -71.028,
+    "url": ""
+  },
+  {
+    "codigo": "08314",
+    "nombre": "Alto Biobío",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.8708,
+    "lng": -71.6106,
+    "url": ""
+  },
+  {
+    "codigo": "03302",
+    "nombre": "Alto del Carmen",
+    "provincia_codigo": "033",
+    "region_codigo": "03",
+    "lat": -28.7508,
+    "lng": -70.4883,
+    "url": ""
+  },
+  {
+    "codigo": "01107",
+    "nombre": "Alto Hospicio",
+    "provincia_codigo": "011",
+    "region_codigo": "01",
+    "lat": -20.2677,
+    "lng": -70.1007,
+    "url": ""
+  },
+  {
+    "codigo": "10202",
+    "nombre": "Ancud",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -41.8657,
+    "lng": -73.8336,
+    "url": ""
+  },
+  {
+    "codigo": "04103",
+    "nombre": "Andacollo",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "lat": -30.2357,
+    "lng": -71.0828,
+    "url": ""
+  },
+  {
+    "codigo": "09201",
+    "nombre": "Angol",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -37.803,
+    "lng": -72.7017,
+    "url": ""
+  },
+  {
+    "codigo": "12202",
+    "nombre": "Antártica",
+    "provincia_codigo": "122",
+    "region_codigo": "12",
+    "lat": -64.3589,
+    "lng": -60.8203,
+    "url": ""
+  },
+  {
+    "codigo": "02101",
+    "nombre": "Antofagasta",
+    "provincia_codigo": "021",
+    "region_codigo": "02",
+    "lat": -23.6499,
+    "lng": -70.4069,
+    "url": ""
+  },
+  {
+    "codigo": "08302",
+    "nombre": "Antuco",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.3273,
+    "lng": -71.6775,
+    "url": ""
+  },
+  {
+    "codigo": "08202",
+    "nombre": "Arauco",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "lat": -37.257,
+    "lng": -73.2839,
+    "url": ""
+  },
+  {
+    "codigo": "15101",
+    "nombre": "Arica",
+    "provincia_codigo": "151",
+    "region_codigo": "15",
+    "lat": -18.477,
+    "lng": -70.3221,
+    "url": ""
+  },
+  {
+    "codigo": "11201",
+    "nombre": "Aysén",
+    "provincia_codigo": "112",
+    "region_codigo": "11",
+    "lat": -45.3975,
+    "lng": -72.6993,
+    "url": ""
+  },
+  {
+    "codigo": "13402",
+    "nombre": "Buin",
+    "provincia_codigo": "134",
+    "region_codigo": "13",
+    "lat": -33.754,
+    "lng": -70.7163,
+    "url": ""
+  },
+  {
+    "codigo": "16102",
+    "nombre": "Bulnes",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -36.7422,
+    "lng": -72.3018,
+    "url": ""
+  },
+  {
+    "codigo": "05402",
+    "nombre": "Cabildo",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "lat": -32.4095,
+    "lng": -71.0798,
+    "url": ""
+  },
+  {
+    "codigo": "12201",
+    "nombre": "Cabo de Hornos",
+    "provincia_codigo": "122",
+    "region_codigo": "12",
+    "lat": -54.9352,
+    "lng": -67.6041,
+    "url": ""
+  },
+  {
+    "codigo": "08303",
+    "nombre": "Cabrero",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.0374,
+    "lng": -72.4057,
+    "url": ""
+  },
+  {
+    "codigo": "02201",
+    "nombre": "Calama",
+    "provincia_codigo": "022",
+    "region_codigo": "02",
+    "lat": -22.4542,
+    "lng": -68.9337,
+    "url": ""
+  },
+  {
+    "codigo": "10102",
+    "nombre": "Calbuco",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.7775,
+    "lng": -73.1415,
+    "url": ""
+  },
+  {
+    "codigo": "03102",
+    "nombre": "Caldera",
+    "provincia_codigo": "031",
+    "region_codigo": "03",
+    "lat": -27.0668,
+    "lng": -70.817,
+    "url": ""
+  },
+  {
+    "codigo": "05502",
+    "nombre": "Calera",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "lat": -32.7837,
+    "lng": -71.1586,
+    "url": ""
+  },
+  {
+    "codigo": "13403",
+    "nombre": "Calera de Tango",
+    "provincia_codigo": "134",
+    "region_codigo": "13",
+    "lat": -33.6326,
+    "lng": -70.7821,
+    "url": ""
+  },
+  {
+    "codigo": "05302",
+    "nombre": "Calle Larga",
+    "provincia_codigo": "053",
+    "region_codigo": "05",
+    "lat": -32.9514,
+    "lng": -70.5524,
+    "url": ""
+  },
+  {
+    "codigo": "15102",
+    "nombre": "Camarones",
+    "provincia_codigo": "151",
+    "region_codigo": "15",
+    "lat": -19.0089,
+    "lng": -69.9074,
+    "url": ""
+  },
+  {
+    "codigo": "01402",
+    "nombre": "Camiña",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "lat": -19.3118,
+    "lng": -69.4264,
+    "url": ""
+  },
+  {
+    "codigo": "04202",
+    "nombre": "Canela",
+    "provincia_codigo": "042",
+    "region_codigo": "04",
+    "lat": -31.3935,
+    "lng": -71.4578,
+    "url": ""
+  },
+  {
+    "codigo": "08203",
+    "nombre": "Cañete",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "lat": -37.8039,
+    "lng": -73.4016,
+    "url": ""
+  },
+  {
+    "codigo": "09102",
+    "nombre": "Carahue",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.7116,
+    "lng": -73.1651,
+    "url": ""
+  },
+  {
+    "codigo": "05603",
+    "nombre": "Cartagena",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "lat": -33.5341,
+    "lng": -71.4628,
+    "url": ""
+  },
+  {
+    "codigo": "05102",
+    "nombre": "Casablanca",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "lat": -33.3262,
+    "lng": -71.3983,
+    "url": ""
+  },
+  {
+    "codigo": "10201",
+    "nombre": "Castro",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -42.48,
+    "lng": -73.7625,
+    "url": ""
+  },
+  {
+    "codigo": "05702",
+    "nombre": "Catemu",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "lat": -32.6981,
+    "lng": -70.956,
+    "url": ""
+  },
+  {
+    "codigo": "07201",
+    "nombre": "Cauquenes",
+    "provincia_codigo": "072",
+    "region_codigo": "07",
+    "lat": -35.9738,
+    "lng": -72.3142,
+    "url": ""
+  },
+  {
+    "codigo": "13102",
+    "nombre": "Cerrillos",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.497,
+    "lng": -70.7112,
+    "url": ""
+  },
+  {
+    "codigo": "13103",
+    "nombre": "Cerro Navia",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4267,
+    "lng": -70.7434,
+    "url": ""
+  },
+  {
+    "codigo": "10401",
+    "nombre": "Chaitén",
+    "provincia_codigo": "104",
+    "region_codigo": "10",
+    "lat": -42.9168,
+    "lng": -72.7164,
+    "url": ""
+  },
+  {
+    "codigo": "07202",
+    "nombre": "Chanco",
+    "provincia_codigo": "072",
+    "region_codigo": "07",
+    "lat": -35.7337,
+    "lng": -72.5333,
+    "url": ""
+  },
+  {
+    "codigo": "03201",
+    "nombre": "Chañaral",
+    "provincia_codigo": "032",
+    "region_codigo": "03",
+    "lat": -26.3425,
+    "lng": -70.6107,
+    "url": ""
+  },
+  {
+    "codigo": "06302",
+    "nombre": "Chépica",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.7303,
+    "lng": -71.2688,
+    "url": ""
+  },
+  {
+    "codigo": "08103",
+    "nombre": "Chiguayante",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -36.9046,
+    "lng": -73.0164,
+    "url": ""
+  },
+  {
+    "codigo": "11401",
+    "nombre": "Chile Chico",
+    "provincia_codigo": "114",
+    "region_codigo": "11",
+    "lat": -46.5401,
+    "lng": -71.7218,
+    "url": ""
+  },
+  {
+    "codigo": "16101",
+    "nombre": "Chillán",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -36.6013,
+    "lng": -72.1093,
+    "url": ""
+  },
+  {
+    "codigo": "16103",
+    "nombre": "Chillán Viejo",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -36.6333,
+    "lng": -72.1404,
+    "url": ""
+  },
+  {
+    "codigo": "06303",
+    "nombre": "Chimbarongo",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.7552,
+    "lng": -70.9753,
+    "url": ""
+  },
+  {
+    "codigo": "09121",
+    "nombre": "Cholchol",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.596,
+    "lng": -72.8445,
+    "url": ""
+  },
+  {
+    "codigo": "10203",
+    "nombre": "Chonchi",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -42.6232,
+    "lng": -73.7739,
+    "url": ""
+  },
+  {
+    "codigo": "11202",
+    "nombre": "Cisnes",
+    "provincia_codigo": "112",
+    "region_codigo": "11",
+    "lat": -44.728,
+    "lng": -72.6828,
+    "url": ""
+  },
+  {
+    "codigo": "16202",
+    "nombre": "Cobquecura",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "lat": -36.1318,
+    "lng": -72.7911,
+    "url": ""
+  },
+  {
+    "codigo": "10103",
+    "nombre": "Cochamó",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.488,
+    "lng": -72.3038,
+    "url": ""
+  },
+  {
+    "codigo": "11301",
+    "nombre": "Cochrane",
+    "provincia_codigo": "113",
+    "region_codigo": "11",
+    "lat": -47.2494,
+    "lng": -72.5784,
+    "url": ""
+  },
+  {
+    "codigo": "06102",
+    "nombre": "Codegua",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.0442,
+    "lng": -70.5131,
+    "url": ""
+  },
+  {
+    "codigo": "16203",
+    "nombre": "Coelemu",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "lat": -36.4877,
+    "lng": -72.7022,
+    "url": ""
+  },
+  {
+    "codigo": "11101",
+    "nombre": "Coihaique",
+    "provincia_codigo": "111",
+    "region_codigo": "11",
+    "lat": -45.5758,
+    "lng": -72.0621,
+    "url": ""
+  },
+  {
+    "codigo": "16302",
+    "nombre": "Coihueco",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "lat": -36.6166,
+    "lng": -71.8344,
+    "url": ""
+  },
+  {
+    "codigo": "06103",
+    "nombre": "Coinco",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.2918,
+    "lng": -70.9706,
+    "url": ""
+  },
+  {
+    "codigo": "07402",
+    "nombre": "Colbún",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "lat": -35.6927,
+    "lng": -71.4067,
+    "url": ""
+  },
+  {
+    "codigo": "01403",
+    "nombre": "Colchane",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "lat": -19.2787,
+    "lng": -68.6343,
+    "url": ""
+  },
+  {
+    "codigo": "13301",
+    "nombre": "Colina",
+    "provincia_codigo": "133",
+    "region_codigo": "13",
+    "lat": -33.1996,
+    "lng": -70.6702,
+    "url": ""
+  },
+  {
+    "codigo": "09202",
+    "nombre": "Collipulli",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -37.9528,
+    "lng": -72.4323,
+    "url": ""
+  },
+  {
+    "codigo": "06104",
+    "nombre": "Coltauco",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.2498,
+    "lng": -71.0791,
+    "url": ""
+  },
+  {
+    "codigo": "04302",
+    "nombre": "Combarbalá",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "lat": -31.1764,
+    "lng": -70.9978,
+    "url": ""
+  },
+  {
+    "codigo": "08101",
+    "nombre": "Concepción",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -36.8148,
+    "lng": -73.0293,
+    "url": ""
+  },
+  {
+    "codigo": "13104",
+    "nombre": "Conchalí",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.3862,
+    "lng": -70.6727,
+    "url": ""
+  },
+  {
+    "codigo": "05103",
+    "nombre": "Concón",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "lat": -32.9305,
+    "lng": -71.5191,
+    "url": ""
+  },
+  {
+    "codigo": "07102",
+    "nombre": "Constitución",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.3309,
+    "lng": -72.4139,
+    "url": ""
+  },
+  {
+    "codigo": "08204",
+    "nombre": "Contulmo",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "lat": -38.026,
+    "lng": -73.2581,
+    "url": ""
+  },
+  {
+    "codigo": "03101",
+    "nombre": "Copiapó",
+    "provincia_codigo": "031",
+    "region_codigo": "03",
+    "lat": -27.3654,
+    "lng": -70.3314,
+    "url": ""
+  },
+  {
+    "codigo": "04102",
+    "nombre": "Coquimbo",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "lat": -29.968,
+    "lng": -71.337,
+    "url": ""
+  },
+  {
+    "codigo": "08102",
+    "nombre": "Coronel",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -37.0265,
+    "lng": -73.1498,
+    "url": ""
+  },
+  {
+    "codigo": "14102",
+    "nombre": "Corral",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "lat": -39.8892,
+    "lng": -73.433,
+    "url": ""
+  },
+  {
+    "codigo": "09103",
+    "nombre": "Cunco",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.9307,
+    "lng": -72.0264,
+    "url": ""
+  },
+  {
+    "codigo": "09203",
+    "nombre": "Curacautín",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -38.4317,
+    "lng": -71.8898,
+    "url": ""
+  },
+  {
+    "codigo": "13503",
+    "nombre": "Curacaví",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "lat": -33.4063,
+    "lng": -71.1333,
+    "url": ""
+  },
+  {
+    "codigo": "10204",
+    "nombre": "Curaco de Vélez",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -42.4404,
+    "lng": -73.6037,
+    "url": ""
+  },
+  {
+    "codigo": "08205",
+    "nombre": "Curanilahue",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "lat": -37.4759,
+    "lng": -73.353,
+    "url": ""
+  },
+  {
+    "codigo": "09104",
+    "nombre": "Curarrehue",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -39.3592,
+    "lng": -71.5881,
+    "url": ""
+  },
+  {
+    "codigo": "07103",
+    "nombre": "Curepto",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.091,
+    "lng": -72.0216,
+    "url": ""
+  },
+  {
+    "codigo": "07301",
+    "nombre": "Curicó",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -34.9756,
+    "lng": -71.2235,
+    "url": ""
+  },
+  {
+    "codigo": "10205",
+    "nombre": "Dalcahue",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -42.3776,
+    "lng": -73.6521,
+    "url": ""
+  },
+  {
+    "codigo": "03202",
+    "nombre": "Diego de Almagro",
+    "provincia_codigo": "032",
+    "region_codigo": "03",
+    "lat": -26.3771,
+    "lng": -70.0488,
+    "url": ""
+  },
+  {
+    "codigo": "06105",
+    "nombre": "Doñihue",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.2024,
+    "lng": -70.9325,
+    "url": ""
+  },
+  {
+    "codigo": "13105",
+    "nombre": "El Bosque",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.5638,
+    "lng": -70.6714,
+    "url": ""
+  },
+  {
+    "codigo": "16104",
+    "nombre": "El Carmen",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -36.8964,
+    "lng": -72.0218,
+    "url": ""
+  },
+  {
+    "codigo": "13602",
+    "nombre": "El Monte",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "lat": -33.6662,
+    "lng": -71.0294,
+    "url": ""
+  },
+  {
+    "codigo": "05604",
+    "nombre": "El Quisco",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "lat": -33.4156,
+    "lng": -71.6556,
+    "url": ""
+  },
+  {
+    "codigo": "05605",
+    "nombre": "El Tabo",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "lat": -33.4847,
+    "lng": -71.5862,
+    "url": ""
+  },
+  {
+    "codigo": "07104",
+    "nombre": "Empedrado",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.6213,
+    "lng": -72.2473,
+    "url": ""
+  },
+  {
+    "codigo": "09204",
+    "nombre": "Ercilla",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -38.0587,
+    "lng": -72.358,
+    "url": ""
+  },
+  {
+    "codigo": "13106",
+    "nombre": "Estación Central",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4503,
+    "lng": -70.6751,
+    "url": ""
+  },
+  {
+    "codigo": "08104",
+    "nombre": "Florida",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -36.8209,
+    "lng": -72.6621,
+    "url": ""
+  },
+  {
+    "codigo": "09105",
+    "nombre": "Freire",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.9538,
+    "lng": -72.6219,
+    "url": ""
+  },
+  {
+    "codigo": "03303",
+    "nombre": "Freirina",
+    "provincia_codigo": "033",
+    "region_codigo": "03",
+    "lat": -28.5001,
+    "lng": -71.076,
+    "url": ""
+  },
+  {
+    "codigo": "10104",
+    "nombre": "Fresia",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.1542,
+    "lng": -73.4224,
+    "url": ""
+  },
+  {
+    "codigo": "10105",
+    "nombre": "Frutillar",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.1167,
+    "lng": -73.05,
+    "url": ""
+  },
+  {
+    "codigo": "10402",
+    "nombre": "Futaleufú",
+    "provincia_codigo": "104",
+    "region_codigo": "10",
+    "lat": -43.1859,
+    "lng": -71.8666,
+    "url": ""
+  },
+  {
+    "codigo": "14202",
+    "nombre": "Futrono",
+    "provincia_codigo": "142",
+    "region_codigo": "14",
+    "lat": -40.1243,
+    "lng": -72.393,
+    "url": ""
+  },
+  {
+    "codigo": "09106",
+    "nombre": "Galvarino",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.4085,
+    "lng": -72.7804,
+    "url": ""
+  },
+  {
+    "codigo": "15202",
+    "nombre": "General Lagos",
+    "provincia_codigo": "152",
+    "region_codigo": "15",
+    "lat": -17.8324,
+    "lng": -69.6094,
+    "url": ""
+  },
+  {
+    "codigo": "09107",
+    "nombre": "Gorbea",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -39.0948,
+    "lng": -72.6722,
+    "url": ""
+  },
+  {
+    "codigo": "06106",
+    "nombre": "Graneros",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.0709,
+    "lng": -70.7501,
+    "url": ""
+  },
+  {
+    "codigo": "11203",
+    "nombre": "Guaitecas",
+    "provincia_codigo": "112",
+    "region_codigo": "11",
+    "lat": -43.8781,
+    "lng": -73.7485,
+    "url": ""
+  },
+  {
+    "codigo": "05503",
+    "nombre": "Hijuelas",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "lat": -32.8671,
+    "lng": -71.0929,
+    "url": ""
+  },
+  {
+    "codigo": "10403",
+    "nombre": "Hualaihué",
+    "provincia_codigo": "104",
+    "region_codigo": "10",
+    "lat": -42.0967,
+    "lng": -72.4044,
+    "url": ""
+  },
+  {
+    "codigo": "07302",
+    "nombre": "Hualañé",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -34.9762,
+    "lng": -71.8043,
+    "url": ""
+  },
+  {
+    "codigo": "08112",
+    "nombre": "Hualpén",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -36.7827,
+    "lng": -73.1454,
+    "url": ""
+  },
+  {
+    "codigo": "08105",
+    "nombre": "Hualqui",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -37.0145,
+    "lng": -72.8662,
+    "url": ""
+  },
+  {
+    "codigo": "01404",
+    "nombre": "Huara",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "lat": -19.9963,
+    "lng": -69.7718,
+    "url": ""
+  },
+  {
+    "codigo": "03304",
+    "nombre": "Huasco",
+    "provincia_codigo": "033",
+    "region_codigo": "03",
+    "lat": -28.4518,
+    "lng": -71.2244,
+    "url": ""
+  },
+  {
+    "codigo": "13107",
+    "nombre": "Huechuraba",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.3665,
+    "lng": -70.6315,
+    "url": ""
+  },
+  {
+    "codigo": "04201",
+    "nombre": "Illapel",
+    "provincia_codigo": "042",
+    "region_codigo": "04",
+    "lat": -31.6242,
+    "lng": -71.1626,
+    "url": ""
+  },
+  {
+    "codigo": "13108",
+    "nombre": "Independencia",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4196,
+    "lng": -70.6627,
+    "url": ""
+  },
+  {
+    "codigo": "01101",
+    "nombre": "Iquique",
+    "provincia_codigo": "011",
+    "region_codigo": "01",
+    "lat": -20.2232,
+    "lng": -70.1463,
+    "url": ""
+  },
+  {
+    "codigo": "13603",
+    "nombre": "Isla de Maipo",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "lat": -33.7536,
+    "lng": -70.8862,
+    "url": ""
+  },
+  {
+    "codigo": "05201",
+    "nombre": "Isla de Pascua",
+    "provincia_codigo": "052",
+    "region_codigo": "05",
+    "lat": -27.1504,
+    "lng": -109.423,
+    "url": ""
+  },
+  {
+    "codigo": "05104",
+    "nombre": "Juan Fernández",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "lat": -33.6167,
+    "lng": -78.8667,
+    "url": ""
+  },
+  {
+    "codigo": "13109",
+    "nombre": "La Cisterna",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.538,
+    "lng": -70.6612,
+    "url": ""
+  },
+  {
+    "codigo": "05504",
+    "nombre": "La Cruz",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "lat": -32.8258,
+    "lng": -71.2592,
+    "url": ""
+  },
+  {
+    "codigo": "06202",
+    "nombre": "La Estrella",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "lat": -34.2037,
+    "lng": -71.6073,
+    "url": ""
+  },
+  {
+    "codigo": "13110",
+    "nombre": "La Florida",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.5225,
+    "lng": -70.5952,
+    "url": ""
+  },
+  {
+    "codigo": "13111",
+    "nombre": "La Granja",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.5373,
+    "lng": -70.6188,
+    "url": ""
+  },
+  {
+    "codigo": "04104",
+    "nombre": "La Higuera",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "lat": -29.497,
+    "lng": -71.2656,
+    "url": ""
+  },
+  {
+    "codigo": "05401",
+    "nombre": "La Ligua",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "lat": -32.449,
+    "lng": -71.2309,
+    "url": ""
+  },
+  {
+    "codigo": "13112",
+    "nombre": "La Pintana",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.5902,
+    "lng": -70.6322,
+    "url": ""
+  },
+  {
+    "codigo": "13113",
+    "nombre": "La Reina",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4565,
+    "lng": -70.5349,
+    "url": ""
+  },
+  {
+    "codigo": "04101",
+    "nombre": "La Serena",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "lat": -29.8966,
+    "lng": -71.2422,
+    "url": ""
+  },
+  {
+    "codigo": "14201",
+    "nombre": "La Unión",
+    "provincia_codigo": "142",
+    "region_codigo": "14",
+    "lat": -40.2951,
+    "lng": -73.0829,
+    "url": ""
+  },
+  {
+    "codigo": "14203",
+    "nombre": "Lago Ranco",
+    "provincia_codigo": "142",
+    "region_codigo": "14",
+    "lat": -40.312,
+    "lng": -72.5002,
+    "url": ""
+  },
+  {
+    "codigo": "11102",
+    "nombre": "Lago Verde",
+    "provincia_codigo": "111",
+    "region_codigo": "11",
+    "lat": -44.2236,
+    "lng": -71.8396,
+    "url": ""
+  },
+  {
+    "codigo": "12102",
+    "nombre": "Laguna Blanca",
+    "provincia_codigo": "121",
+    "region_codigo": "12",
+    "lat": -52.3001,
+    "lng": -71.1612,
+    "url": ""
+  },
+  {
+    "codigo": "08304",
+    "nombre": "Laja",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.2768,
+    "lng": -72.7171,
+    "url": ""
+  },
+  {
+    "codigo": "13302",
+    "nombre": "Lampa",
+    "provincia_codigo": "133",
+    "region_codigo": "13",
+    "lat": -33.2863,
+    "lng": -70.8789,
+    "url": ""
+  },
+  {
+    "codigo": "14103",
+    "nombre": "Lanco",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "lat": -39.4522,
+    "lng": -72.7747,
+    "url": ""
+  },
+  {
+    "codigo": "06107",
+    "nombre": "Las Cabras",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.2945,
+    "lng": -71.3066,
+    "url": ""
+  },
+  {
+    "codigo": "13114",
+    "nombre": "Las Condes",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4154,
+    "lng": -70.5837,
+    "url": ""
+  },
+  {
+    "codigo": "09108",
+    "nombre": "Lautaro",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.5286,
+    "lng": -72.427,
+    "url": ""
+  },
+  {
+    "codigo": "08201",
+    "nombre": "Lebu",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "lat": -37.6079,
+    "lng": -73.6508,
+    "url": ""
+  },
+  {
+    "codigo": "07303",
+    "nombre": "Licantén",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -34.9591,
+    "lng": -72.0269,
+    "url": ""
+  },
+  {
+    "codigo": "05802",
+    "nombre": "Limache",
+    "provincia_codigo": "058",
+    "region_codigo": "05",
+    "lat": -33.0035,
+    "lng": -71.2613,
+    "url": ""
+  },
+  {
+    "codigo": "07401",
+    "nombre": "Linares",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "lat": -35.8495,
+    "lng": -71.585,
+    "url": ""
+  },
+  {
+    "codigo": "06203",
+    "nombre": "Litueche",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "lat": -34.1069,
+    "lng": -71.7204,
+    "url": ""
+  },
+  {
+    "codigo": "05703",
+    "nombre": "Llaillay",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "lat": -32.8899,
+    "lng": -70.8942,
+    "url": ""
+  },
+  {
+    "codigo": "10107",
+    "nombre": "Llanquihue",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.2574,
+    "lng": -73.0054,
+    "url": ""
+  },
+  {
+    "codigo": "13115",
+    "nombre": "Lo Barnechea",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.2993,
+    "lng": -70.3748,
+    "url": ""
+  },
+  {
+    "codigo": "13116",
+    "nombre": "Lo Espejo",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.5247,
+    "lng": -70.6916,
+    "url": ""
+  },
+  {
+    "codigo": "13117",
+    "nombre": "Lo Prado",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4489,
+    "lng": -70.721,
+    "url": ""
+  },
+  {
+    "codigo": "06304",
+    "nombre": "Lolol",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.7689,
+    "lng": -71.6453,
+    "url": ""
+  },
+  {
+    "codigo": "09109",
+    "nombre": "Loncoche",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -39.3681,
+    "lng": -72.6315,
+    "url": ""
+  },
+  {
+    "codigo": "07403",
+    "nombre": "Longaví",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "lat": -35.9657,
+    "lng": -71.6816,
+    "url": ""
+  },
+  {
+    "codigo": "09205",
+    "nombre": "Lonquimay",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -38.4501,
+    "lng": -71.374,
+    "url": ""
+  },
+  {
+    "codigo": "08206",
+    "nombre": "Los Álamos",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "lat": -37.6747,
+    "lng": -73.3896,
+    "url": ""
+  },
+  {
+    "codigo": "05301",
+    "nombre": "Los Andes",
+    "provincia_codigo": "053",
+    "region_codigo": "05",
+    "lat": -32.8347,
+    "lng": -70.5971,
+    "url": ""
+  },
+  {
+    "codigo": "08301",
+    "nombre": "Los Ángeles",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.473,
+    "lng": -72.3507,
+    "url": ""
+  },
+  {
+    "codigo": "14104",
+    "nombre": "Los Lagos",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "lat": -39.8636,
+    "lng": -72.8124,
+    "url": ""
+  },
+  {
+    "codigo": "10106",
+    "nombre": "Los Muermos",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.3997,
+    "lng": -73.4651,
+    "url": ""
+  },
+  {
+    "codigo": "09206",
+    "nombre": "Los Sauces",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -37.9754,
+    "lng": -72.8288,
+    "url": ""
+  },
+  {
+    "codigo": "04203",
+    "nombre": "Los Vilos",
+    "provincia_codigo": "042",
+    "region_codigo": "04",
+    "lat": -31.9157,
+    "lng": -71.5107,
+    "url": ""
+  },
+  {
+    "codigo": "08106",
+    "nombre": "Lota",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -37.0906,
+    "lng": -73.1547,
+    "url": ""
+  },
+  {
+    "codigo": "09207",
+    "nombre": "Lumaco",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -38.1636,
+    "lng": -72.8918,
+    "url": ""
+  },
+  {
+    "codigo": "06108",
+    "nombre": "Machalí",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.2938,
+    "lng": -70.3371,
+    "url": ""
+  },
+  {
+    "codigo": "13118",
+    "nombre": "Macul",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.492,
+    "lng": -70.5968,
+    "url": ""
+  },
+  {
+    "codigo": "14105",
+    "nombre": "Máfil",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "lat": -39.6654,
+    "lng": -72.9575,
+    "url": ""
+  },
+  {
+    "codigo": "13119",
+    "nombre": "Maipú",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.5213,
+    "lng": -70.7572,
+    "url": ""
+  },
+  {
+    "codigo": "06109",
+    "nombre": "Malloa",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.4455,
+    "lng": -70.9449,
+    "url": ""
+  },
+  {
+    "codigo": "06204",
+    "nombre": "Marchihue",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "lat": -34.3979,
+    "lng": -71.6144,
+    "url": ""
+  },
+  {
+    "codigo": "02302",
+    "nombre": "María Elena",
+    "provincia_codigo": "023",
+    "region_codigo": "02",
+    "lat": -22.1639,
+    "lng": -69.4171,
+    "url": ""
+  },
+  {
+    "codigo": "13504",
+    "nombre": "María Pinto",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "lat": -33.5154,
+    "lng": -71.1191,
+    "url": ""
+  },
+  {
+    "codigo": "14106",
+    "nombre": "Mariquina",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "lat": -39.5399,
+    "lng": -72.9621,
+    "url": ""
+  },
+  {
+    "codigo": "07105",
+    "nombre": "Maule",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.5057,
+    "lng": -71.7069,
+    "url": ""
+  },
+  {
+    "codigo": "10108",
+    "nombre": "Maullín",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.6172,
+    "lng": -73.5956,
+    "url": ""
+  },
+  {
+    "codigo": "02102",
+    "nombre": "Mejillones",
+    "provincia_codigo": "021",
+    "region_codigo": "02",
+    "lat": -23.0962,
+    "lng": -70.4498,
+    "url": ""
+  },
+  {
+    "codigo": "09110",
+    "nombre": "Melipeuco",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.8429,
+    "lng": -71.6871,
+    "url": ""
+  },
+  {
+    "codigo": "13501",
+    "nombre": "Melipilla",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "lat": -33.6866,
+    "lng": -71.2139,
+    "url": ""
+  },
+  {
+    "codigo": "07304",
+    "nombre": "Molina",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -35.0896,
+    "lng": -71.2788,
+    "url": ""
+  },
+  {
+    "codigo": "04303",
+    "nombre": "Monte Patria",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "lat": -30.8291,
+    "lng": -70.6984,
+    "url": ""
+  },
+  {
+    "codigo": "06110",
+    "nombre": "Mostazal",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -33.9772,
+    "lng": -70.7092,
+    "url": ""
+  },
+  {
+    "codigo": "08305",
+    "nombre": "Mulchén",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.7147,
+    "lng": -72.2394,
+    "url": ""
+  },
+  {
+    "codigo": "08306",
+    "nombre": "Nacimiento",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.5011,
+    "lng": -72.6763,
+    "url": ""
+  },
+  {
+    "codigo": "06305",
+    "nombre": "Nancagua",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.6615,
+    "lng": -71.1749,
+    "url": ""
+  },
+  {
+    "codigo": "12401",
+    "nombre": "Natales",
+    "provincia_codigo": "124",
+    "region_codigo": "12",
+    "lat": -51.7219,
+    "lng": -72.5208,
+    "url": ""
+  },
+  {
+    "codigo": "06205",
+    "nombre": "Navidad",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "lat": -34.0068,
+    "lng": -71.8101,
+    "url": ""
+  },
+  {
+    "codigo": "08307",
+    "nombre": "Negrete",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.5974,
+    "lng": -72.5646,
+    "url": ""
+  },
+  {
+    "codigo": "16204",
+    "nombre": "Ninhue",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "lat": -36.4011,
+    "lng": -72.397,
+    "url": ""
+  },
+  {
+    "codigo": "05506",
+    "nombre": "Nogales",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "lat": -32.6923,
+    "lng": -71.1894,
+    "url": ""
+  },
+  {
+    "codigo": "09111",
+    "nombre": "Nueva Imperial",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.7445,
+    "lng": -72.9482,
+    "url": ""
+  },
+  {
+    "codigo": "16303",
+    "nombre": "Ñiquén",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "lat": -36.2848,
+    "lng": -71.8994,
+    "url": ""
+  },
+  {
+    "codigo": "13120",
+    "nombre": "Ñuñoa",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4607,
+    "lng": -70.5927,
+    "url": ""
+  },
+  {
+    "codigo": "11302",
+    "nombre": "O’Higgins",
+    "provincia_codigo": "113",
+    "region_codigo": "11",
+    "lat": -48.4643,
+    "lng": -72.5613,
+    "url": ""
+  },
+  {
+    "codigo": "06111",
+    "nombre": "Olivar",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.2186,
+    "lng": -70.8355,
+    "url": ""
+  },
+  {
+    "codigo": "02202",
+    "nombre": "Ollagüe",
+    "provincia_codigo": "022",
+    "region_codigo": "02",
+    "lat": -21.2238,
+    "lng": -68.2529,
+    "url": ""
+  },
+  {
+    "codigo": "05803",
+    "nombre": "Olmué",
+    "provincia_codigo": "058",
+    "region_codigo": "05",
+    "lat": -33.0132,
+    "lng": -71.1525,
+    "url": ""
+  },
+  {
+    "codigo": "10301",
+    "nombre": "Osorno",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "lat": -40.5747,
+    "lng": -73.1319,
+    "url": ""
+  },
+  {
+    "codigo": "04301",
+    "nombre": "Ovalle",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "lat": -30.5942,
+    "lng": -71.1983,
+    "url": ""
+  },
+  {
+    "codigo": "13604",
+    "nombre": "Padre Hurtado",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "lat": -33.5761,
+    "lng": -70.8003,
+    "url": ""
+  },
+  {
+    "codigo": "09112",
+    "nombre": "Padre las Casas",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.7658,
+    "lng": -72.5929,
+    "url": ""
+  },
+  {
+    "codigo": "04105",
+    "nombre": "Paiguano",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "lat": -30.2496,
+    "lng": -70.3832,
+    "url": ""
+  },
+  {
+    "codigo": "14107",
+    "nombre": "Paillaco",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "lat": -40.0707,
+    "lng": -72.8708,
+    "url": ""
+  },
+  {
+    "codigo": "13404",
+    "nombre": "Paine",
+    "provincia_codigo": "134",
+    "region_codigo": "13",
+    "lat": -33.8673,
+    "lng": -70.7303,
+    "url": ""
+  },
+  {
+    "codigo": "10404",
+    "nombre": "Palena",
+    "provincia_codigo": "104",
+    "region_codigo": "10",
+    "lat": -43.6162,
+    "lng": -71.8176,
+    "url": ""
+  },
+  {
+    "codigo": "06306",
+    "nombre": "Palmilla",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.6042,
+    "lng": -71.3583,
+    "url": ""
+  },
+  {
+    "codigo": "14108",
+    "nombre": "Panguipulli",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "lat": -39.6436,
+    "lng": -72.3365,
+    "url": ""
+  },
+  {
+    "codigo": "05704",
+    "nombre": "Panquehue",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "lat": -32.8079,
+    "lng": -70.8428,
+    "url": ""
+  },
+  {
+    "codigo": "05403",
+    "nombre": "Papudo",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "lat": -32.4699,
+    "lng": -71.3842,
+    "url": ""
+  },
+  {
+    "codigo": "06206",
+    "nombre": "Paredones",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "lat": -34.6972,
+    "lng": -71.8978,
+    "url": ""
+  },
+  {
+    "codigo": "07404",
+    "nombre": "Parral",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "lat": -36.14,
+    "lng": -71.8244,
+    "url": ""
+  },
+  {
+    "codigo": "13121",
+    "nombre": "Pedro Aguirre Cerda",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4891,
+    "lng": -70.6729,
+    "url": ""
+  },
+  {
+    "codigo": "07106",
+    "nombre": "Pelarco",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.3723,
+    "lng": -71.3278,
+    "url": ""
+  },
+  {
+    "codigo": "07203",
+    "nombre": "Pelluhue",
+    "provincia_codigo": "072",
+    "region_codigo": "07",
+    "lat": -35.8145,
+    "lng": -72.5736,
+    "url": ""
+  },
+  {
+    "codigo": "16105",
+    "nombre": "Pemuco",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -36.9865,
+    "lng": -72.0191,
+    "url": ""
+  },
+  {
+    "codigo": "07107",
+    "nombre": "Pencahue",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.3051,
+    "lng": -71.8284,
+    "url": ""
+  },
+  {
+    "codigo": "08107",
+    "nombre": "Penco",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -36.7423,
+    "lng": -72.998,
+    "url": ""
+  },
+  {
+    "codigo": "13605",
+    "nombre": "Peñaflor",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "lat": -33.6141,
+    "lng": -70.8876,
+    "url": ""
+  },
+  {
+    "codigo": "13122",
+    "nombre": "Peñalolén",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4904,
+    "lng": -70.5105,
+    "url": ""
+  },
+  {
+    "codigo": "06307",
+    "nombre": "Peralillo",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.4593,
+    "lng": -71.5,
+    "url": ""
+  },
+  {
+    "codigo": "09113",
+    "nombre": "Perquenco",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.4154,
+    "lng": -72.3725,
+    "url": ""
+  },
+  {
+    "codigo": "05404",
+    "nombre": "Petorca",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "lat": -32.1965,
+    "lng": -70.8318,
+    "url": ""
+  },
+  {
+    "codigo": "06112",
+    "nombre": "Peumo",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.3798,
+    "lng": -71.1687,
+    "url": ""
+  },
+  {
+    "codigo": "01405",
+    "nombre": "Pica",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "lat": -20.4889,
+    "lng": -69.3289,
+    "url": ""
+  },
+  {
+    "codigo": "06113",
+    "nombre": "Pichidegua",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.3758,
+    "lng": -71.3469,
+    "url": ""
+  },
+  {
+    "codigo": "06201",
+    "nombre": "Pichilemu",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "lat": -34.3869,
+    "lng": -72.0032,
+    "url": ""
+  },
+  {
+    "codigo": "16106",
+    "nombre": "Pinto",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -36.6978,
+    "lng": -71.8934,
+    "url": ""
+  },
+  {
+    "codigo": "13202",
+    "nombre": "Pirque",
+    "provincia_codigo": "132",
+    "region_codigo": "13",
+    "lat": -33.7384,
+    "lng": -70.4914,
+    "url": ""
+  },
+  {
+    "codigo": "09114",
+    "nombre": "Pitrufquén",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.9829,
+    "lng": -72.6429,
+    "url": ""
+  },
+  {
+    "codigo": "06308",
+    "nombre": "Placilla",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.6135,
+    "lng": -71.0951,
+    "url": ""
+  },
+  {
+    "codigo": "16205",
+    "nombre": "Portezuelo",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "lat": -36.529,
+    "lng": -72.433,
+    "url": ""
+  },
+  {
+    "codigo": "12301",
+    "nombre": "Porvenir",
+    "provincia_codigo": "123",
+    "region_codigo": "12",
+    "lat": -53.2898,
+    "lng": -70.3633,
+    "url": ""
+  },
+  {
+    "codigo": "01401",
+    "nombre": "Pozo Almonte",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "lat": -20.2532,
+    "lng": -69.7848,
+    "url": ""
+  },
+  {
+    "codigo": "12302",
+    "nombre": "Primavera",
+    "provincia_codigo": "123",
+    "region_codigo": "12",
+    "lat": -52.7122,
+    "lng": -69.2496,
+    "url": ""
+  },
+  {
+    "codigo": "13123",
+    "nombre": "Providencia",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4214,
+    "lng": -70.6033,
+    "url": ""
+  },
+  {
+    "codigo": "05105",
+    "nombre": "Puchuncaví",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "lat": -32.7499,
+    "lng": -71.396,
+    "url": ""
+  },
+  {
+    "codigo": "09115",
+    "nombre": "Pucón",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -39.2824,
+    "lng": -71.9545,
+    "url": ""
+  },
+  {
+    "codigo": "13124",
+    "nombre": "Pudahuel",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4184,
+    "lng": -70.8324,
+    "url": ""
+  },
+  {
+    "codigo": "13201",
+    "nombre": "Puente Alto",
+    "provincia_codigo": "132",
+    "region_codigo": "13",
+    "lat": -33.6079,
+    "lng": -70.5778,
+    "url": ""
+  },
+  {
+    "codigo": "10101",
+    "nombre": "Puerto Montt",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.4633,
+    "lng": -72.9314,
+    "url": ""
+  },
+  {
+    "codigo": "10302",
+    "nombre": "Puerto Octay",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "lat": -40.9755,
+    "lng": -72.8833,
+    "url": ""
+  },
+  {
+    "codigo": "10109",
+    "nombre": "Puerto Varas",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "lat": -41.316,
+    "lng": -72.9836,
+    "url": ""
+  },
+  {
+    "codigo": "06309",
+    "nombre": "Pumanque",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.6052,
+    "lng": -71.6443,
+    "url": ""
+  },
+  {
+    "codigo": "04304",
+    "nombre": "Punitaqui",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "lat": -30.8256,
+    "lng": -71.2585,
+    "url": ""
+  },
+  {
+    "codigo": "12101",
+    "nombre": "Punta Arenas",
+    "provincia_codigo": "121",
+    "region_codigo": "12",
+    "lat": -53.1641,
+    "lng": -70.9305,
+    "url": ""
+  },
+  {
+    "codigo": "10206",
+    "nombre": "Puqueldón",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -42.6015,
+    "lng": -73.6714,
+    "url": ""
+  },
+  {
+    "codigo": "09208",
+    "nombre": "Purén",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -38.0326,
+    "lng": -73.0728,
+    "url": ""
+  },
+  {
+    "codigo": "10303",
+    "nombre": "Purranque",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "lat": -40.9085,
+    "lng": -73.1653,
+    "url": ""
+  },
+  {
+    "codigo": "05705",
+    "nombre": "Putaendo",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "lat": -32.6279,
+    "lng": -70.7165,
+    "url": ""
+  },
+  {
+    "codigo": "15201",
+    "nombre": "Putre",
+    "provincia_codigo": "152",
+    "region_codigo": "15",
+    "lat": -18.1798,
+    "lng": -69.5544,
+    "url": ""
+  },
+  {
+    "codigo": "10304",
+    "nombre": "Puyehue",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "lat": -40.6806,
+    "lng": -72.599,
+    "url": ""
+  },
+  {
+    "codigo": "10207",
+    "nombre": "Queilén",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -42.9001,
+    "lng": -73.4827,
+    "url": ""
+  },
+  {
+    "codigo": "10208",
+    "nombre": "Quellón",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -43.1156,
+    "lng": -73.6172,
+    "url": ""
+  },
+  {
+    "codigo": "10209",
+    "nombre": "Quemchi",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -42.1426,
+    "lng": -73.475,
+    "url": ""
+  },
+  {
+    "codigo": "08308",
+    "nombre": "Quilaco",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.6799,
+    "lng": -72.0074,
+    "url": ""
+  },
+  {
+    "codigo": "13125",
+    "nombre": "Quilicura",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.3551,
+    "lng": -70.7278,
+    "url": ""
+  },
+  {
+    "codigo": "08309",
+    "nombre": "Quilleco",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.4335,
+    "lng": -71.8761,
+    "url": ""
+  },
+  {
+    "codigo": "16107",
+    "nombre": "Quillón",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -36.7383,
+    "lng": -72.469,
+    "url": ""
+  },
+  {
+    "codigo": "05501",
+    "nombre": "Quillota",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "lat": -32.8793,
+    "lng": -71.2508,
+    "url": ""
+  },
+  {
+    "codigo": "05801",
+    "nombre": "Quilpué",
+    "provincia_codigo": "058",
+    "region_codigo": "05",
+    "lat": -33.0492,
+    "lng": -71.4435,
+    "url": ""
+  },
+  {
+    "codigo": "10210",
+    "nombre": "Quinchao",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "lat": -42.472,
+    "lng": -73.4898,
+    "url": ""
+  },
+  {
+    "codigo": "06114",
+    "nombre": "Quinta de Tilcoco",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.367,
+    "lng": -71.0096,
+    "url": ""
+  },
+  {
+    "codigo": "13126",
+    "nombre": "Quinta Normal",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.428,
+    "lng": -70.6964,
+    "url": ""
+  },
+  {
+    "codigo": "05107",
+    "nombre": "Quintero",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "lat": -32.7872,
+    "lng": -71.5274,
+    "url": ""
+  },
+  {
+    "codigo": "16201",
+    "nombre": "Quirihue",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "lat": -36.2839,
+    "lng": -72.5414,
+    "url": ""
+  },
+  {
+    "codigo": "06101",
+    "nombre": "Rancagua",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.162,
+    "lng": -70.741,
+    "url": ""
+  },
+  {
+    "codigo": "16206",
+    "nombre": "Ránquil",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "lat": -36.6485,
+    "lng": -72.6064,
+    "url": ""
+  },
+  {
+    "codigo": "07305",
+    "nombre": "Rauco",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -34.9295,
+    "lng": -71.3111,
+    "url": ""
+  },
+  {
+    "codigo": "13127",
+    "nombre": "Recoleta",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4173,
+    "lng": -70.6303,
+    "url": ""
+  },
+  {
+    "codigo": "09209",
+    "nombre": "Renaico",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -37.6654,
+    "lng": -72.5687,
+    "url": ""
+  },
+  {
+    "codigo": "13128",
+    "nombre": "Renca",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4141,
+    "lng": -70.7129,
+    "url": ""
+  },
+  {
+    "codigo": "06115",
+    "nombre": "Rengo",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.4017,
+    "lng": -70.8561,
+    "url": ""
+  },
+  {
+    "codigo": "06116",
+    "nombre": "Requínoa",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.3533,
+    "lng": -70.6797,
+    "url": ""
+  },
+  {
+    "codigo": "07405",
+    "nombre": "Retiro",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "lat": -36.0458,
+    "lng": -71.7591,
+    "url": ""
+  },
+  {
+    "codigo": "05303",
+    "nombre": "Rinconada",
+    "provincia_codigo": "053",
+    "region_codigo": "05",
+    "lat": -32.8765,
+    "lng": -70.7085,
+    "url": ""
+  },
+  {
+    "codigo": "14204",
+    "nombre": "Río Bueno",
+    "provincia_codigo": "142",
+    "region_codigo": "14",
+    "lat": -40.333,
+    "lng": -72.9513,
+    "url": ""
+  },
+  {
+    "codigo": "07108",
+    "nombre": "Río Claro",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.2827,
+    "lng": -71.2665,
+    "url": ""
+  },
+  {
+    "codigo": "04305",
+    "nombre": "Río Hurtado",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "lat": -30.2603,
+    "lng": -70.6668,
+    "url": ""
+  },
+  {
+    "codigo": "11402",
+    "nombre": "Río Ibáñez",
+    "provincia_codigo": "114",
+    "region_codigo": "11",
+    "lat": -46.2938,
+    "lng": -71.9357,
+    "url": ""
+  },
+  {
+    "codigo": "10305",
+    "nombre": "Río Negro",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "lat": -40.7829,
+    "lng": -73.2319,
+    "url": ""
+  },
+  {
+    "codigo": "12103",
+    "nombre": "Río Verde",
+    "provincia_codigo": "121",
+    "region_codigo": "12",
+    "lat": -52.5814,
+    "lng": -71.5128,
+    "url": ""
+  },
+  {
+    "codigo": "07306",
+    "nombre": "Romeral",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -34.9634,
+    "lng": -71.1205,
+    "url": ""
+  },
+  {
+    "codigo": "09116",
+    "nombre": "Saavedra",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.7803,
+    "lng": -73.3897,
+    "url": ""
+  },
+  {
+    "codigo": "07307",
+    "nombre": "Sagrada Familia",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -34.9949,
+    "lng": -71.3798,
+    "url": ""
+  },
+  {
+    "codigo": "04204",
+    "nombre": "Salamanca",
+    "provincia_codigo": "042",
+    "region_codigo": "04",
+    "lat": -31.7737,
+    "lng": -70.9717,
+    "url": ""
+  },
+  {
+    "codigo": "05601",
+    "nombre": "San Antonio",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "lat": -33.5812,
+    "lng": -71.613,
+    "url": ""
+  },
+  {
+    "codigo": "13401",
+    "nombre": "San Bernardo",
+    "provincia_codigo": "134",
+    "region_codigo": "13",
+    "lat": -33.5913,
+    "lng": -70.702,
+    "url": ""
+  },
+  {
+    "codigo": "16301",
+    "nombre": "San Carlos",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "lat": -36.4221,
+    "lng": -71.9594,
+    "url": ""
+  },
+  {
+    "codigo": "07109",
+    "nombre": "San Clemente",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.534,
+    "lng": -71.4865,
+    "url": ""
+  },
+  {
+    "codigo": "05304",
+    "nombre": "San Esteban",
+    "provincia_codigo": "053",
+    "region_codigo": "05",
+    "lat": -32.693,
+    "lng": -70.3703,
+    "url": ""
+  },
+  {
+    "codigo": "16304",
+    "nombre": "San Fabián",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "lat": -36.5538,
+    "lng": -71.5487,
+    "url": ""
+  },
+  {
+    "codigo": "05701",
+    "nombre": "San Felipe",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "lat": -32.7464,
+    "lng": -70.7489,
+    "url": ""
+  },
+  {
+    "codigo": "06301",
+    "nombre": "San Fernando",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.584,
+    "lng": -70.9874,
+    "url": ""
+  },
+  {
+    "codigo": "12104",
+    "nombre": "San Gregorio",
+    "provincia_codigo": "121",
+    "region_codigo": "12",
+    "lat": -52.3135,
+    "lng": -69.6842,
+    "url": ""
+  },
+  {
+    "codigo": "16108",
+    "nombre": "San Ignacio",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -36.8186,
+    "lng": -71.9883,
+    "url": ""
+  },
+  {
+    "codigo": "07406",
+    "nombre": "San Javier",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "lat": -35.6035,
+    "lng": -71.7362,
+    "url": ""
+  },
+  {
+    "codigo": "13129",
+    "nombre": "San Joaquín",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4961,
+    "lng": -70.6245,
+    "url": ""
+  },
+  {
+    "codigo": "13203",
+    "nombre": "San José de Maipo",
+    "provincia_codigo": "132",
+    "region_codigo": "13",
+    "lat": -33.6921,
+    "lng": -70.1325,
+    "url": ""
+  },
+  {
+    "codigo": "10306",
+    "nombre": "San Juan de la Costa",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "lat": -40.5156,
+    "lng": -73.3997,
+    "url": ""
+  },
+  {
+    "codigo": "13130",
+    "nombre": "San Miguel",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.5017,
+    "lng": -70.6489,
+    "url": ""
+  },
+  {
+    "codigo": "16305",
+    "nombre": "San Nicolás",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "lat": -36.4996,
+    "lng": -72.2126,
+    "url": ""
+  },
+  {
+    "codigo": "10307",
+    "nombre": "San Pablo",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "lat": -40.4118,
+    "lng": -73.0102,
+    "url": ""
+  },
+  {
+    "codigo": "13505",
+    "nombre": "San Pedro",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "lat": -33.8779,
+    "lng": -71.4609,
+    "url": ""
+  },
+  {
+    "codigo": "02203",
+    "nombre": "San Pedro de Atacama",
+    "provincia_codigo": "022",
+    "region_codigo": "02",
+    "lat": -22.9157,
+    "lng": -68.2004,
+    "url": ""
+  },
+  {
+    "codigo": "08108",
+    "nombre": "San Pedro de la Paz",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -36.8635,
+    "lng": -73.1085,
+    "url": ""
+  },
+  {
+    "codigo": "07110",
+    "nombre": "San Rafael",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.2942,
+    "lng": -71.5254,
+    "url": ""
+  },
+  {
+    "codigo": "13131",
+    "nombre": "San Ramón",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.5349,
+    "lng": -70.6392,
+    "url": ""
+  },
+  {
+    "codigo": "08310",
+    "nombre": "San Rosendo",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.2021,
+    "lng": -72.748,
+    "url": ""
+  },
+  {
+    "codigo": "06117",
+    "nombre": "San Vicente",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "lat": -34.4381,
+    "lng": -71.0792,
+    "url": ""
+  },
+  {
+    "codigo": "08311",
+    "nombre": "Santa Bárbara",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.6627,
+    "lng": -72.0184,
+    "url": ""
+  },
+  {
+    "codigo": "06310",
+    "nombre": "Santa Cruz",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "lat": -34.6383,
+    "lng": -71.367,
+    "url": ""
+  },
+  {
+    "codigo": "08109",
+    "nombre": "Santa Juana",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -37.1726,
+    "lng": -72.9352,
+    "url": ""
+  },
+  {
+    "codigo": "05706",
+    "nombre": "Santa María",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "lat": -32.7446,
+    "lng": -70.654,
+    "url": ""
+  },
+  {
+    "codigo": "13101",
+    "nombre": "Santiago Centro",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.4417,
+    "lng": -70.6541,
+    "url": ""
+  },
+  {
+    "codigo": "05606",
+    "nombre": "Santo Domingo",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "lat": -33.7076,
+    "lng": -71.6301,
+    "url": ""
+  },
+  {
+    "codigo": "02103",
+    "nombre": "Sierra Gorda",
+    "provincia_codigo": "021",
+    "region_codigo": "02",
+    "lat": -22.8921,
+    "lng": -69.3203,
+    "url": ""
+  },
+  {
+    "codigo": "13601",
+    "nombre": "Talagante",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "lat": -33.6643,
+    "lng": -70.9296,
+    "url": ""
+  },
+  {
+    "codigo": "07101",
+    "nombre": "Talca",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "lat": -35.4288,
+    "lng": -71.6607,
+    "url": ""
+  },
+  {
+    "codigo": "08110",
+    "nombre": "Talcahuano",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -36.7364,
+    "lng": -73.1047,
+    "url": ""
+  },
+  {
+    "codigo": "02104",
+    "nombre": "Taltal",
+    "provincia_codigo": "021",
+    "region_codigo": "02",
+    "lat": -25.4054,
+    "lng": -70.4826,
+    "url": ""
+  },
+  {
+    "codigo": "09101",
+    "nombre": "Temuco",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.7362,
+    "lng": -72.5989,
+    "url": ""
+  },
+  {
+    "codigo": "07308",
+    "nombre": "Teno",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -34.8701,
+    "lng": -71.0895,
+    "url": ""
+  },
+  {
+    "codigo": "09117",
+    "nombre": "Teodoro Schmidt",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.9989,
+    "lng": -73.093,
+    "url": ""
+  },
+  {
+    "codigo": "03103",
+    "nombre": "Tierra Amarilla",
+    "provincia_codigo": "031",
+    "region_codigo": "03",
+    "lat": -27.4877,
+    "lng": -70.2696,
+    "url": ""
+  },
+  {
+    "codigo": "13303",
+    "nombre": "Tiltil",
+    "provincia_codigo": "133",
+    "region_codigo": "13",
+    "lat": -33.0655,
+    "lng": -70.8465,
+    "url": ""
+  },
+  {
+    "codigo": "12303",
+    "nombre": "Timaukel",
+    "provincia_codigo": "123",
+    "region_codigo": "12",
+    "lat": -54.2877,
+    "lng": -69.1644,
+    "url": ""
+  },
+  {
+    "codigo": "08207",
+    "nombre": "Tirúa",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "lat": -38.3315,
+    "lng": -73.3794,
+    "url": ""
+  },
+  {
+    "codigo": "02301",
+    "nombre": "Tocopilla",
+    "provincia_codigo": "023",
+    "region_codigo": "02",
+    "lat": -22.0858,
+    "lng": -70.193,
+    "url": ""
+  },
+  {
+    "codigo": "09118",
+    "nombre": "Toltén",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -39.2022,
+    "lng": -73.2004,
+    "url": ""
+  },
+  {
+    "codigo": "08111",
+    "nombre": "Tomé",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "lat": -36.6177,
+    "lng": -72.9579,
+    "url": ""
+  },
+  {
+    "codigo": "12402",
+    "nombre": "Torres del Paine",
+    "provincia_codigo": "124",
+    "region_codigo": "12",
+    "lat": -50.9896,
+    "lng": -73.0893,
+    "url": ""
+  },
+  {
+    "codigo": "11303",
+    "nombre": "Tortel",
+    "provincia_codigo": "113",
+    "region_codigo": "11",
+    "lat": -47.8242,
+    "lng": -73.5645,
+    "url": ""
+  },
+  {
+    "codigo": "09210",
+    "nombre": "Traiguén",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -38.2509,
+    "lng": -72.6647,
+    "url": ""
+  },
+  {
+    "codigo": "16207",
+    "nombre": "Treguaco",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "lat": -36.4095,
+    "lng": -72.6603,
+    "url": ""
+  },
+  {
+    "codigo": "08312",
+    "nombre": "Tucapel",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.2901,
+    "lng": -71.9491,
+    "url": ""
+  },
+  {
+    "codigo": "14101",
+    "nombre": "Valdivia",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "lat": -39.8201,
+    "lng": -73.2457,
+    "url": ""
+  },
+  {
+    "codigo": "03301",
+    "nombre": "Vallenar",
+    "provincia_codigo": "033",
+    "region_codigo": "03",
+    "lat": -28.5777,
+    "lng": -70.7566,
+    "url": ""
+  },
+  {
+    "codigo": "05101",
+    "nombre": "Valparaíso",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "lat": -33.0436,
+    "lng": -71.6231,
+    "url": ""
+  },
+  {
+    "codigo": "07309",
+    "nombre": "Vichuquén",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "lat": -34.8594,
+    "lng": -72.0074,
+    "url": ""
+  },
+  {
+    "codigo": "09211",
+    "nombre": "Victoria",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "lat": -38.2336,
+    "lng": -72.3329,
+    "url": ""
+  },
+  {
+    "codigo": "04106",
+    "nombre": "Vicuña",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "lat": -30.0287,
+    "lng": -70.7108,
+    "url": ""
+  },
+  {
+    "codigo": "09119",
+    "nombre": "Vilcún",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -38.6701,
+    "lng": -72.2238,
+    "url": ""
+  },
+  {
+    "codigo": "07407",
+    "nombre": "Villa Alegre",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "lat": -35.6868,
+    "lng": -71.6704,
+    "url": ""
+  },
+  {
+    "codigo": "05804",
+    "nombre": "Villa Alemana",
+    "provincia_codigo": "058",
+    "region_codigo": "05",
+    "lat": -33.0429,
+    "lng": -71.3724,
+    "url": ""
+  },
+  {
+    "codigo": "09120",
+    "nombre": "Villarrica",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "lat": -39.2803,
+    "lng": -72.2182,
+    "url": ""
+  },
+  {
+    "codigo": "05109",
+    "nombre": "Viña del Mar",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "lat": -33.0445,
+    "lng": -71.5224,
+    "url": ""
+  },
+  {
+    "codigo": "13132",
+    "nombre": "Vitacura",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "lat": -33.3863,
+    "lng": -70.5698,
+    "url": ""
+  },
+  {
+    "codigo": "07408",
+    "nombre": "Yerbas Buenas",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "lat": -35.6882,
+    "lng": -71.5636,
+    "url": ""
+  },
+  {
+    "codigo": "08313",
+    "nombre": "Yumbel",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "lat": -37.0964,
+    "lng": -72.5562,
+    "url": ""
+  },
+  {
+    "codigo": "16109",
+    "nombre": "Yungay",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "lat": -37.122,
+    "lng": -72.0132,
+    "url": ""
+  },
+  {
+    "codigo": "05405",
+    "nombre": "Zapallar",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "lat": -32.5933,
+    "lng": -71.3686,
+    "url": ""
+  }
+]

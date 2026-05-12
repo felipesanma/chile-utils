@@ -1,15 +1,15 @@
-name: Update Boletin Concursal
+name: Update Territorio
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 8 * * *"
+    - cron: "23 9 1 * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-boletin:
+  update-territorio:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,21 +24,22 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
 
-      - name: Download Boletin Concursal JSON
-        run: python scripts/download_boletin_json.py
+      - name: Build territorio datasets
+        env:
+          DPA_ALLOW_INSECURE_TLS: "1"
+        run: python scripts/build_territorio.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git rm --ignore-unmatch superir/publicaciones.json
-          git add superir/publicaciones.json.gz superir/metadata.json
+          git add territorio/regiones.json territorio/provincias.json territorio/comunas.json territorio/comunas-con-coordenadas.json
 
           if git diff --cached --quiet; then
-            echo "No hay cambios en los archivos generados."
+            echo "No hay cambios en los datasets territoriales."
             exit 0
           fi
 
-          git commit -m "Update Boletin Concursal data"
+          git commit -m "Update territorio datasets"
           git push

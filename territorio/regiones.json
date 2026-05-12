@@ -1,0 +1,114 @@
+[
+  {
+    "codigo": "02",
+    "nombre": "Antofagasta",
+    "lat": -23.7503,
+    "lng": -69.6,
+    "url": ""
+  },
+  {
+    "codigo": "15",
+    "nombre": "Arica y Parinacota",
+    "lat": -18.5075,
+    "lng": -69.6451,
+    "url": ""
+  },
+  {
+    "codigo": "03",
+    "nombre": "Atacama",
+    "lat": -27.5276,
+    "lng": -70.2494,
+    "url": ""
+  },
+  {
+    "codigo": "11",
+    "nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "lat": -46.2772,
+    "lng": -73.6628,
+    "url": ""
+  },
+  {
+    "codigo": "04",
+    "nombre": "Coquimbo",
+    "lat": -30.8301,
+    "lng": -70.9816,
+    "url": ""
+  },
+  {
+    "codigo": "09",
+    "nombre": "De la Araucanía",
+    "lat": -38.5505,
+    "lng": -72.4382,
+    "url": ""
+  },
+  {
+    "codigo": "10",
+    "nombre": "De los Lagos",
+    "lat": -42.1071,
+    "lng": -72.6425,
+    "url": ""
+  },
+  {
+    "codigo": "14",
+    "nombre": "De los Ríos",
+    "lat": -39.9086,
+    "lng": -72.7034,
+    "url": ""
+  },
+  {
+    "codigo": "08",
+    "nombre": "Del Biobío",
+    "lat": -37.2442,
+    "lng": -72.4661,
+    "url": ""
+  },
+  {
+    "codigo": "06",
+    "nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "lat": -34.4294,
+    "lng": -71.0393,
+    "url": ""
+  },
+  {
+    "codigo": "07",
+    "nombre": "Del Maule",
+    "lat": -35.5892,
+    "lng": -71.5007,
+    "url": ""
+  },
+  {
+    "codigo": "12",
+    "nombre": "Magallanes y de la Antártica Chilena",
+    "lat": -54.3551,
+    "lng": -70.5284,
+    "url": ""
+  },
+  {
+    "codigo": "13",
+    "nombre": "Metropolitana de Santiago",
+    "lat": -33.4417,
+    "lng": -70.6541,
+    "url": ""
+  },
+  {
+    "codigo": "16",
+    "nombre": "Ñuble",
+    "lat": -366.191,
+    "lng": -720.182,
+    "url": ""
+  },
+  {
+    "codigo": "01",
+    "nombre": "Tarapacá",
+    "lat": -20.164,
+    "lng": -69.5541,
+    "url": ""
+  },
+  {
+    "codigo": "05",
+    "nombre": "Valparaíso",
+    "lat": -32.9039,
+    "lng": -71.0262,
+    "url": ""
+  }
+]

@@ -30,6 +30,11 @@ pjud/
 superir/
   publicaciones.json.gz
   metadata.json
+territorio/
+  regiones.json
+  provincias.json
+  comunas.json
+  comunas-con-coordenadas.json
 ```
 
 ---
@@ -148,6 +153,33 @@ Incluye:
 
 ---
 
+## Territorio
+
+Datasets de división político-administrativa de Chile: regiones, provincias y comunas.
+
+Archivos disponibles:
+
+```txt
+territorio/regiones.json
+territorio/provincias.json
+territorio/comunas.json
+territorio/comunas-con-coordenadas.json
+```
+
+Fuente:
+
+```txt
+https://apis.digital.gob.cl/dpa/
+```
+
+Ver documentación específica en:
+
+```txt
+territorio/README.md
+```
+
+---
+
 # Uso
 
 ## Consumir desde GitHub
@@ -198,15 +230,12 @@ Posibles futuras categorías:
 
 ```txt
 municipalidades/
-regiones/
-comunas/
 ```
 
 ---
 
 # Posibles datasets futuros
 
-* Comunas y regiones
 * Códigos postales
 * APIs públicas chilenas
 * Datasets judiciales

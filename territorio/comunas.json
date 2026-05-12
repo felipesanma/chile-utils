@@ -1,0 +1,2078 @@
+[
+  {
+    "codigo": "05602",
+    "nombre": "Algarrobo",
+    "provincia_codigo": "056",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "13502",
+    "nombre": "Alhué",
+    "provincia_codigo": "135",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "08314",
+    "nombre": "Alto Biobío",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "03302",
+    "nombre": "Alto del Carmen",
+    "provincia_codigo": "033",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "01107",
+    "nombre": "Alto Hospicio",
+    "provincia_codigo": "011",
+    "region_codigo": "01"
+  },
+  {
+    "codigo": "10202",
+    "nombre": "Ancud",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "04103",
+    "nombre": "Andacollo",
+    "provincia_codigo": "041",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "09201",
+    "nombre": "Angol",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "12202",
+    "nombre": "Antártica",
+    "provincia_codigo": "122",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "02101",
+    "nombre": "Antofagasta",
+    "provincia_codigo": "021",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "08302",
+    "nombre": "Antuco",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "08202",
+    "nombre": "Arauco",
+    "provincia_codigo": "082",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "15101",
+    "nombre": "Arica",
+    "provincia_codigo": "151",
+    "region_codigo": "15"
+  },
+  {
+    "codigo": "11201",
+    "nombre": "Aysén",
+    "provincia_codigo": "112",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "13402",
+    "nombre": "Buin",
+    "provincia_codigo": "134",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "16102",
+    "nombre": "Bulnes",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "05402",
+    "nombre": "Cabildo",
+    "provincia_codigo": "054",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "12201",
+    "nombre": "Cabo de Hornos",
+    "provincia_codigo": "122",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "08303",
+    "nombre": "Cabrero",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "02201",
+    "nombre": "Calama",
+    "provincia_codigo": "022",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "10102",
+    "nombre": "Calbuco",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "03102",
+    "nombre": "Caldera",
+    "provincia_codigo": "031",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "05502",
+    "nombre": "Calera",
+    "provincia_codigo": "055",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "13403",
+    "nombre": "Calera de Tango",
+    "provincia_codigo": "134",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "05302",
+    "nombre": "Calle Larga",
+    "provincia_codigo": "053",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "15102",
+    "nombre": "Camarones",
+    "provincia_codigo": "151",
+    "region_codigo": "15"
+  },
+  {
+    "codigo": "01402",
+    "nombre": "Camiña",
+    "provincia_codigo": "014",
+    "region_codigo": "01"
+  },
+  {
+    "codigo": "04202",
+    "nombre": "Canela",
+    "provincia_codigo": "042",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "08203",
+    "nombre": "Cañete",
+    "provincia_codigo": "082",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "09102",
+    "nombre": "Carahue",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "05603",
+    "nombre": "Cartagena",
+    "provincia_codigo": "056",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "05102",
+    "nombre": "Casablanca",
+    "provincia_codigo": "051",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "10201",
+    "nombre": "Castro",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "05702",
+    "nombre": "Catemu",
+    "provincia_codigo": "057",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "07201",
+    "nombre": "Cauquenes",
+    "provincia_codigo": "072",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "13102",
+    "nombre": "Cerrillos",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "13103",
+    "nombre": "Cerro Navia",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "10401",
+    "nombre": "Chaitén",
+    "provincia_codigo": "104",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "07202",
+    "nombre": "Chanco",
+    "provincia_codigo": "072",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "03201",
+    "nombre": "Chañaral",
+    "provincia_codigo": "032",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "06302",
+    "nombre": "Chépica",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "08103",
+    "nombre": "Chiguayante",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "11401",
+    "nombre": "Chile Chico",
+    "provincia_codigo": "114",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "16101",
+    "nombre": "Chillán",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "16103",
+    "nombre": "Chillán Viejo",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "06303",
+    "nombre": "Chimbarongo",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "09121",
+    "nombre": "Cholchol",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "10203",
+    "nombre": "Chonchi",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "11202",
+    "nombre": "Cisnes",
+    "provincia_codigo": "112",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "16202",
+    "nombre": "Cobquecura",
+    "provincia_codigo": "162",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "10103",
+    "nombre": "Cochamó",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "11301",
+    "nombre": "Cochrane",
+    "provincia_codigo": "113",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "06102",
+    "nombre": "Codegua",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "16203",
+    "nombre": "Coelemu",
+    "provincia_codigo": "162",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "11101",
+    "nombre": "Coihaique",
+    "provincia_codigo": "111",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "16302",
+    "nombre": "Coihueco",
+    "provincia_codigo": "163",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "06103",
+    "nombre": "Coinco",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "07402",
+    "nombre": "Colbún",
+    "provincia_codigo": "074",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "01403",
+    "nombre": "Colchane",
+    "provincia_codigo": "014",
+    "region_codigo": "01"
+  },
+  {
+    "codigo": "13301",
+    "nombre": "Colina",
+    "provincia_codigo": "133",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "09202",
+    "nombre": "Collipulli",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "06104",
+    "nombre": "Coltauco",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "04302",
+    "nombre": "Combarbalá",
+    "provincia_codigo": "043",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "08101",
+    "nombre": "Concepción",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "13104",
+    "nombre": "Conchalí",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "05103",
+    "nombre": "Concón",
+    "provincia_codigo": "051",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "07102",
+    "nombre": "Constitución",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "08204",
+    "nombre": "Contulmo",
+    "provincia_codigo": "082",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "03101",
+    "nombre": "Copiapó",
+    "provincia_codigo": "031",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "04102",
+    "nombre": "Coquimbo",
+    "provincia_codigo": "041",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "08102",
+    "nombre": "Coronel",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "14102",
+    "nombre": "Corral",
+    "provincia_codigo": "141",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "09103",
+    "nombre": "Cunco",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "09203",
+    "nombre": "Curacautín",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "13503",
+    "nombre": "Curacaví",
+    "provincia_codigo": "135",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "10204",
+    "nombre": "Curaco de Vélez",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "08205",
+    "nombre": "Curanilahue",
+    "provincia_codigo": "082",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "09104",
+    "nombre": "Curarrehue",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "07103",
+    "nombre": "Curepto",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "07301",
+    "nombre": "Curicó",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "10205",
+    "nombre": "Dalcahue",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "03202",
+    "nombre": "Diego de Almagro",
+    "provincia_codigo": "032",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "06105",
+    "nombre": "Doñihue",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "13105",
+    "nombre": "El Bosque",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "16104",
+    "nombre": "El Carmen",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "13602",
+    "nombre": "El Monte",
+    "provincia_codigo": "136",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "05604",
+    "nombre": "El Quisco",
+    "provincia_codigo": "056",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "05605",
+    "nombre": "El Tabo",
+    "provincia_codigo": "056",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "07104",
+    "nombre": "Empedrado",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "09204",
+    "nombre": "Ercilla",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "13106",
+    "nombre": "Estación Central",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "08104",
+    "nombre": "Florida",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "09105",
+    "nombre": "Freire",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "03303",
+    "nombre": "Freirina",
+    "provincia_codigo": "033",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "10104",
+    "nombre": "Fresia",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "10105",
+    "nombre": "Frutillar",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "10402",
+    "nombre": "Futaleufú",
+    "provincia_codigo": "104",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "14202",
+    "nombre": "Futrono",
+    "provincia_codigo": "142",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "09106",
+    "nombre": "Galvarino",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "15202",
+    "nombre": "General Lagos",
+    "provincia_codigo": "152",
+    "region_codigo": "15"
+  },
+  {
+    "codigo": "09107",
+    "nombre": "Gorbea",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "06106",
+    "nombre": "Graneros",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "11203",
+    "nombre": "Guaitecas",
+    "provincia_codigo": "112",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "05503",
+    "nombre": "Hijuelas",
+    "provincia_codigo": "055",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "10403",
+    "nombre": "Hualaihué",
+    "provincia_codigo": "104",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "07302",
+    "nombre": "Hualañé",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "08112",
+    "nombre": "Hualpén",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "08105",
+    "nombre": "Hualqui",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "01404",
+    "nombre": "Huara",
+    "provincia_codigo": "014",
+    "region_codigo": "01"
+  },
+  {
+    "codigo": "03304",
+    "nombre": "Huasco",
+    "provincia_codigo": "033",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "13107",
+    "nombre": "Huechuraba",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "04201",
+    "nombre": "Illapel",
+    "provincia_codigo": "042",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "13108",
+    "nombre": "Independencia",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "01101",
+    "nombre": "Iquique",
+    "provincia_codigo": "011",
+    "region_codigo": "01"
+  },
+  {
+    "codigo": "13603",
+    "nombre": "Isla de Maipo",
+    "provincia_codigo": "136",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "05201",
+    "nombre": "Isla de Pascua",
+    "provincia_codigo": "052",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "05104",
+    "nombre": "Juan Fernández",
+    "provincia_codigo": "051",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "13109",
+    "nombre": "La Cisterna",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "05504",
+    "nombre": "La Cruz",
+    "provincia_codigo": "055",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "06202",
+    "nombre": "La Estrella",
+    "provincia_codigo": "062",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "13110",
+    "nombre": "La Florida",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "13111",
+    "nombre": "La Granja",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "04104",
+    "nombre": "La Higuera",
+    "provincia_codigo": "041",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "05401",
+    "nombre": "La Ligua",
+    "provincia_codigo": "054",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "13112",
+    "nombre": "La Pintana",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "13113",
+    "nombre": "La Reina",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "04101",
+    "nombre": "La Serena",
+    "provincia_codigo": "041",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "14201",
+    "nombre": "La Unión",
+    "provincia_codigo": "142",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "14203",
+    "nombre": "Lago Ranco",
+    "provincia_codigo": "142",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "11102",
+    "nombre": "Lago Verde",
+    "provincia_codigo": "111",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "12102",
+    "nombre": "Laguna Blanca",
+    "provincia_codigo": "121",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "08304",
+    "nombre": "Laja",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "13302",
+    "nombre": "Lampa",
+    "provincia_codigo": "133",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "14103",
+    "nombre": "Lanco",
+    "provincia_codigo": "141",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "06107",
+    "nombre": "Las Cabras",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "13114",
+    "nombre": "Las Condes",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "09108",
+    "nombre": "Lautaro",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "08201",
+    "nombre": "Lebu",
+    "provincia_codigo": "082",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "07303",
+    "nombre": "Licantén",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "05802",
+    "nombre": "Limache",
+    "provincia_codigo": "058",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "07401",
+    "nombre": "Linares",
+    "provincia_codigo": "074",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "06203",
+    "nombre": "Litueche",
+    "provincia_codigo": "062",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "05703",
+    "nombre": "Llaillay",
+    "provincia_codigo": "057",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "10107",
+    "nombre": "Llanquihue",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "13115",
+    "nombre": "Lo Barnechea",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "13116",
+    "nombre": "Lo Espejo",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "13117",
+    "nombre": "Lo Prado",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "06304",
+    "nombre": "Lolol",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "09109",
+    "nombre": "Loncoche",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "07403",
+    "nombre": "Longaví",
+    "provincia_codigo": "074",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "09205",
+    "nombre": "Lonquimay",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "08206",
+    "nombre": "Los Álamos",
+    "provincia_codigo": "082",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "05301",
+    "nombre": "Los Andes",
+    "provincia_codigo": "053",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "08301",
+    "nombre": "Los Ángeles",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "14104",
+    "nombre": "Los Lagos",
+    "provincia_codigo": "141",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "10106",
+    "nombre": "Los Muermos",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "09206",
+    "nombre": "Los Sauces",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "04203",
+    "nombre": "Los Vilos",
+    "provincia_codigo": "042",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "08106",
+    "nombre": "Lota",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "09207",
+    "nombre": "Lumaco",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "06108",
+    "nombre": "Machalí",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "13118",
+    "nombre": "Macul",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "14105",
+    "nombre": "Máfil",
+    "provincia_codigo": "141",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "13119",
+    "nombre": "Maipú",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "06109",
+    "nombre": "Malloa",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "06204",
+    "nombre": "Marchihue",
+    "provincia_codigo": "062",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "02302",
+    "nombre": "María Elena",
+    "provincia_codigo": "023",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "13504",
+    "nombre": "María Pinto",
+    "provincia_codigo": "135",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "14106",
+    "nombre": "Mariquina",
+    "provincia_codigo": "141",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "07105",
+    "nombre": "Maule",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "10108",
+    "nombre": "Maullín",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "02102",
+    "nombre": "Mejillones",
+    "provincia_codigo": "021",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "09110",
+    "nombre": "Melipeuco",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "13501",
+    "nombre": "Melipilla",
+    "provincia_codigo": "135",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "07304",
+    "nombre": "Molina",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "04303",
+    "nombre": "Monte Patria",
+    "provincia_codigo": "043",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "06110",
+    "nombre": "Mostazal",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "08305",
+    "nombre": "Mulchén",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "08306",
+    "nombre": "Nacimiento",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "06305",
+    "nombre": "Nancagua",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "12401",
+    "nombre": "Natales",
+    "provincia_codigo": "124",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "06205",
+    "nombre": "Navidad",
+    "provincia_codigo": "062",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "08307",
+    "nombre": "Negrete",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "16204",
+    "nombre": "Ninhue",
+    "provincia_codigo": "162",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "05506",
+    "nombre": "Nogales",
+    "provincia_codigo": "055",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "09111",
+    "nombre": "Nueva Imperial",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "16303",
+    "nombre": "Ñiquén",
+    "provincia_codigo": "163",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "13120",
+    "nombre": "Ñuñoa",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "11302",
+    "nombre": "O’Higgins",
+    "provincia_codigo": "113",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "06111",
+    "nombre": "Olivar",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "02202",
+    "nombre": "Ollagüe",
+    "provincia_codigo": "022",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "05803",
+    "nombre": "Olmué",
+    "provincia_codigo": "058",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "10301",
+    "nombre": "Osorno",
+    "provincia_codigo": "103",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "04301",
+    "nombre": "Ovalle",
+    "provincia_codigo": "043",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "13604",
+    "nombre": "Padre Hurtado",
+    "provincia_codigo": "136",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "09112",
+    "nombre": "Padre las Casas",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "04105",
+    "nombre": "Paiguano",
+    "provincia_codigo": "041",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "14107",
+    "nombre": "Paillaco",
+    "provincia_codigo": "141",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "13404",
+    "nombre": "Paine",
+    "provincia_codigo": "134",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "10404",
+    "nombre": "Palena",
+    "provincia_codigo": "104",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "06306",
+    "nombre": "Palmilla",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "14108",
+    "nombre": "Panguipulli",
+    "provincia_codigo": "141",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "05704",
+    "nombre": "Panquehue",
+    "provincia_codigo": "057",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "05403",
+    "nombre": "Papudo",
+    "provincia_codigo": "054",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "06206",
+    "nombre": "Paredones",
+    "provincia_codigo": "062",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "07404",
+    "nombre": "Parral",
+    "provincia_codigo": "074",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "13121",
+    "nombre": "Pedro Aguirre Cerda",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "07106",
+    "nombre": "Pelarco",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "07203",
+    "nombre": "Pelluhue",
+    "provincia_codigo": "072",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "16105",
+    "nombre": "Pemuco",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "07107",
+    "nombre": "Pencahue",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "08107",
+    "nombre": "Penco",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "13605",
+    "nombre": "Peñaflor",
+    "provincia_codigo": "136",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "13122",
+    "nombre": "Peñalolén",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "06307",
+    "nombre": "Peralillo",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "09113",
+    "nombre": "Perquenco",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "05404",
+    "nombre": "Petorca",
+    "provincia_codigo": "054",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "06112",
+    "nombre": "Peumo",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "01405",
+    "nombre": "Pica",
+    "provincia_codigo": "014",
+    "region_codigo": "01"
+  },
+  {
+    "codigo": "06113",
+    "nombre": "Pichidegua",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "06201",
+    "nombre": "Pichilemu",
+    "provincia_codigo": "062",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "16106",
+    "nombre": "Pinto",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "13202",
+    "nombre": "Pirque",
+    "provincia_codigo": "132",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "09114",
+    "nombre": "Pitrufquén",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "06308",
+    "nombre": "Placilla",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "16205",
+    "nombre": "Portezuelo",
+    "provincia_codigo": "162",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "12301",
+    "nombre": "Porvenir",
+    "provincia_codigo": "123",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "01401",
+    "nombre": "Pozo Almonte",
+    "provincia_codigo": "014",
+    "region_codigo": "01"
+  },
+  {
+    "codigo": "12302",
+    "nombre": "Primavera",
+    "provincia_codigo": "123",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "13123",
+    "nombre": "Providencia",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "05105",
+    "nombre": "Puchuncaví",
+    "provincia_codigo": "051",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "09115",
+    "nombre": "Pucón",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "13124",
+    "nombre": "Pudahuel",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "13201",
+    "nombre": "Puente Alto",
+    "provincia_codigo": "132",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "10101",
+    "nombre": "Puerto Montt",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "10302",
+    "nombre": "Puerto Octay",
+    "provincia_codigo": "103",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "10109",
+    "nombre": "Puerto Varas",
+    "provincia_codigo": "101",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "06309",
+    "nombre": "Pumanque",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "04304",
+    "nombre": "Punitaqui",
+    "provincia_codigo": "043",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "12101",
+    "nombre": "Punta Arenas",
+    "provincia_codigo": "121",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "10206",
+    "nombre": "Puqueldón",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "09208",
+    "nombre": "Purén",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "10303",
+    "nombre": "Purranque",
+    "provincia_codigo": "103",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "05705",
+    "nombre": "Putaendo",
+    "provincia_codigo": "057",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "15201",
+    "nombre": "Putre",
+    "provincia_codigo": "152",
+    "region_codigo": "15"
+  },
+  {
+    "codigo": "10304",
+    "nombre": "Puyehue",
+    "provincia_codigo": "103",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "10207",
+    "nombre": "Queilén",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "10208",
+    "nombre": "Quellón",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "10209",
+    "nombre": "Quemchi",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "08308",
+    "nombre": "Quilaco",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "13125",
+    "nombre": "Quilicura",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "08309",
+    "nombre": "Quilleco",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "16107",
+    "nombre": "Quillón",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "05501",
+    "nombre": "Quillota",
+    "provincia_codigo": "055",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "05801",
+    "nombre": "Quilpué",
+    "provincia_codigo": "058",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "10210",
+    "nombre": "Quinchao",
+    "provincia_codigo": "102",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "06114",
+    "nombre": "Quinta de Tilcoco",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "13126",
+    "nombre": "Quinta Normal",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "05107",
+    "nombre": "Quintero",
+    "provincia_codigo": "051",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "16201",
+    "nombre": "Quirihue",
+    "provincia_codigo": "162",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "06101",
+    "nombre": "Rancagua",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "16206",
+    "nombre": "Ránquil",
+    "provincia_codigo": "162",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "07305",
+    "nombre": "Rauco",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "13127",
+    "nombre": "Recoleta",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "09209",
+    "nombre": "Renaico",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "13128",
+    "nombre": "Renca",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "06115",
+    "nombre": "Rengo",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "06116",
+    "nombre": "Requínoa",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "07405",
+    "nombre": "Retiro",
+    "provincia_codigo": "074",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "05303",
+    "nombre": "Rinconada",
+    "provincia_codigo": "053",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "14204",
+    "nombre": "Río Bueno",
+    "provincia_codigo": "142",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "07108",
+    "nombre": "Río Claro",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "04305",
+    "nombre": "Río Hurtado",
+    "provincia_codigo": "043",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "11402",
+    "nombre": "Río Ibáñez",
+    "provincia_codigo": "114",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "10305",
+    "nombre": "Río Negro",
+    "provincia_codigo": "103",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "12103",
+    "nombre": "Río Verde",
+    "provincia_codigo": "121",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "07306",
+    "nombre": "Romeral",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "09116",
+    "nombre": "Saavedra",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "07307",
+    "nombre": "Sagrada Familia",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "04204",
+    "nombre": "Salamanca",
+    "provincia_codigo": "042",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "05601",
+    "nombre": "San Antonio",
+    "provincia_codigo": "056",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "13401",
+    "nombre": "San Bernardo",
+    "provincia_codigo": "134",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "16301",
+    "nombre": "San Carlos",
+    "provincia_codigo": "163",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "07109",
+    "nombre": "San Clemente",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "05304",
+    "nombre": "San Esteban",
+    "provincia_codigo": "053",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "16304",
+    "nombre": "San Fabián",
+    "provincia_codigo": "163",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "05701",
+    "nombre": "San Felipe",
+    "provincia_codigo": "057",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "06301",
+    "nombre": "San Fernando",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "12104",
+    "nombre": "San Gregorio",
+    "provincia_codigo": "121",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "16108",
+    "nombre": "San Ignacio",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "07406",
+    "nombre": "San Javier",
+    "provincia_codigo": "074",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "13129",
+    "nombre": "San Joaquín",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "13203",
+    "nombre": "San José de Maipo",
+    "provincia_codigo": "132",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "10306",
+    "nombre": "San Juan de la Costa",
+    "provincia_codigo": "103",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "13130",
+    "nombre": "San Miguel",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "16305",
+    "nombre": "San Nicolás",
+    "provincia_codigo": "163",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "10307",
+    "nombre": "San Pablo",
+    "provincia_codigo": "103",
+    "region_codigo": "10"
+  },
+  {
+    "codigo": "13505",
+    "nombre": "San Pedro",
+    "provincia_codigo": "135",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "02203",
+    "nombre": "San Pedro de Atacama",
+    "provincia_codigo": "022",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "08108",
+    "nombre": "San Pedro de la Paz",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "07110",
+    "nombre": "San Rafael",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "13131",
+    "nombre": "San Ramón",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "08310",
+    "nombre": "San Rosendo",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "06117",
+    "nombre": "San Vicente",
+    "provincia_codigo": "061",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "08311",
+    "nombre": "Santa Bárbara",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "06310",
+    "nombre": "Santa Cruz",
+    "provincia_codigo": "063",
+    "region_codigo": "06"
+  },
+  {
+    "codigo": "08109",
+    "nombre": "Santa Juana",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "05706",
+    "nombre": "Santa María",
+    "provincia_codigo": "057",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "13101",
+    "nombre": "Santiago Centro",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "05606",
+    "nombre": "Santo Domingo",
+    "provincia_codigo": "056",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "02103",
+    "nombre": "Sierra Gorda",
+    "provincia_codigo": "021",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "13601",
+    "nombre": "Talagante",
+    "provincia_codigo": "136",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "07101",
+    "nombre": "Talca",
+    "provincia_codigo": "071",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "08110",
+    "nombre": "Talcahuano",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "02104",
+    "nombre": "Taltal",
+    "provincia_codigo": "021",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "09101",
+    "nombre": "Temuco",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "07308",
+    "nombre": "Teno",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "09117",
+    "nombre": "Teodoro Schmidt",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "03103",
+    "nombre": "Tierra Amarilla",
+    "provincia_codigo": "031",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "13303",
+    "nombre": "Tiltil",
+    "provincia_codigo": "133",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "12303",
+    "nombre": "Timaukel",
+    "provincia_codigo": "123",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "08207",
+    "nombre": "Tirúa",
+    "provincia_codigo": "082",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "02301",
+    "nombre": "Tocopilla",
+    "provincia_codigo": "023",
+    "region_codigo": "02"
+  },
+  {
+    "codigo": "09118",
+    "nombre": "Toltén",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "08111",
+    "nombre": "Tomé",
+    "provincia_codigo": "081",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "12402",
+    "nombre": "Torres del Paine",
+    "provincia_codigo": "124",
+    "region_codigo": "12"
+  },
+  {
+    "codigo": "11303",
+    "nombre": "Tortel",
+    "provincia_codigo": "113",
+    "region_codigo": "11"
+  },
+  {
+    "codigo": "09210",
+    "nombre": "Traiguén",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "16207",
+    "nombre": "Treguaco",
+    "provincia_codigo": "162",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "08312",
+    "nombre": "Tucapel",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "14101",
+    "nombre": "Valdivia",
+    "provincia_codigo": "141",
+    "region_codigo": "14"
+  },
+  {
+    "codigo": "03301",
+    "nombre": "Vallenar",
+    "provincia_codigo": "033",
+    "region_codigo": "03"
+  },
+  {
+    "codigo": "05101",
+    "nombre": "Valparaíso",
+    "provincia_codigo": "051",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "07309",
+    "nombre": "Vichuquén",
+    "provincia_codigo": "073",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "09211",
+    "nombre": "Victoria",
+    "provincia_codigo": "092",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "04106",
+    "nombre": "Vicuña",
+    "provincia_codigo": "041",
+    "region_codigo": "04"
+  },
+  {
+    "codigo": "09119",
+    "nombre": "Vilcún",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "07407",
+    "nombre": "Villa Alegre",
+    "provincia_codigo": "074",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "05804",
+    "nombre": "Villa Alemana",
+    "provincia_codigo": "058",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "09120",
+    "nombre": "Villarrica",
+    "provincia_codigo": "091",
+    "region_codigo": "09"
+  },
+  {
+    "codigo": "05109",
+    "nombre": "Viña del Mar",
+    "provincia_codigo": "051",
+    "region_codigo": "05"
+  },
+  {
+    "codigo": "13132",
+    "nombre": "Vitacura",
+    "provincia_codigo": "131",
+    "region_codigo": "13"
+  },
+  {
+    "codigo": "07408",
+    "nombre": "Yerbas Buenas",
+    "provincia_codigo": "074",
+    "region_codigo": "07"
+  },
+  {
+    "codigo": "08313",
+    "nombre": "Yumbel",
+    "provincia_codigo": "083",
+    "region_codigo": "08"
+  },
+  {
+    "codigo": "16109",
+    "nombre": "Yungay",
+    "provincia_codigo": "161",
+    "region_codigo": "16"
+  },
+  {
+    "codigo": "05405",
+    "nombre": "Zapallar",
+    "provincia_codigo": "054",
+    "region_codigo": "05"
+  }
+]

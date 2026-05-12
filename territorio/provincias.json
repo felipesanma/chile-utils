@@ -1,0 +1,450 @@
+[
+  {
+    "codigo": "122",
+    "nombre": "Antártica Chilena",
+    "region_codigo": "12",
+    "lat": -55.028,
+    "lng": -67.6318,
+    "url": ""
+  },
+  {
+    "codigo": "021",
+    "nombre": "Antofagasta",
+    "region_codigo": "02",
+    "lat": -24.5646,
+    "lng": -69.2877,
+    "url": ""
+  },
+  {
+    "codigo": "082",
+    "nombre": "Arauco",
+    "region_codigo": "08",
+    "lat": -37.7277,
+    "lng": -73.3075,
+    "url": ""
+  },
+  {
+    "codigo": "151",
+    "nombre": "Arica",
+    "region_codigo": "15",
+    "lat": -18.7139,
+    "lng": -69.7522,
+    "url": ""
+  },
+  {
+    "codigo": "112",
+    "nombre": "Aysén",
+    "region_codigo": "11",
+    "lat": -46.3848,
+    "lng": -72.2955,
+    "url": ""
+  },
+  {
+    "codigo": "083",
+    "nombre": "Biobío",
+    "region_codigo": "08",
+    "lat": -37.4739,
+    "lng": -72.1572,
+    "url": ""
+  },
+  {
+    "codigo": "061",
+    "nombre": "Cachapoal",
+    "region_codigo": "06",
+    "lat": -36.45,
+    "lng": -71.7333,
+    "url": ""
+  },
+  {
+    "codigo": "113",
+    "nombre": "Capitán Prat",
+    "region_codigo": "11",
+    "lat": -47.9232,
+    "lng": -72.9245,
+    "url": ""
+  },
+  {
+    "codigo": "062",
+    "nombre": "Cardenal Caro",
+    "region_codigo": "06",
+    "lat": -34.2812,
+    "lng": -71.8571,
+    "url": ""
+  },
+  {
+    "codigo": "072",
+    "nombre": "Cauquenes",
+    "region_codigo": "07",
+    "lat": -35.9738,
+    "lng": -72.3142,
+    "url": ""
+  },
+  {
+    "codigo": "091",
+    "nombre": "Cautín",
+    "region_codigo": "09",
+    "lat": -38.727,
+    "lng": -72.5989,
+    "url": ""
+  },
+  {
+    "codigo": "133",
+    "nombre": "Chacabuco",
+    "region_codigo": "13",
+    "lat": -33.1503,
+    "lng": -70.7132,
+    "url": ""
+  },
+  {
+    "codigo": "032",
+    "nombre": "Chañaral",
+    "region_codigo": "03",
+    "lat": -26.3599,
+    "lng": -70.5981,
+    "url": ""
+  },
+  {
+    "codigo": "102",
+    "nombre": "Chiloé",
+    "region_codigo": "10",
+    "lat": -43.117,
+    "lng": -73.9984,
+    "url": ""
+  },
+  {
+    "codigo": "042",
+    "nombre": "Choapa",
+    "region_codigo": "04",
+    "lat": -31.8006,
+    "lng": -70.9827,
+    "url": ""
+  },
+  {
+    "codigo": "111",
+    "nombre": "Coihaique",
+    "region_codigo": "11",
+    "lat": -45.2865,
+    "lng": -71.7792,
+    "url": ""
+  },
+  {
+    "codigo": "063",
+    "nombre": "Colchagua",
+    "region_codigo": "06",
+    "lat": -34.6761,
+    "lng": -71.0973,
+    "url": ""
+  },
+  {
+    "codigo": "081",
+    "nombre": "Concepción",
+    "region_codigo": "08",
+    "lat": -36.8148,
+    "lng": -73.0293,
+    "url": ""
+  },
+  {
+    "codigo": "031",
+    "nombre": "Copiapó",
+    "region_codigo": "03",
+    "lat": -27.5765,
+    "lng": -70.0269,
+    "url": ""
+  },
+  {
+    "codigo": "132",
+    "nombre": "Cordillera",
+    "region_codigo": "13",
+    "lat": -33.6984,
+    "lng": -70.1682,
+    "url": ""
+  },
+  {
+    "codigo": "073",
+    "nombre": "Curicó",
+    "region_codigo": "07",
+    "lat": -35.1704,
+    "lng": -70.8954,
+    "url": ""
+  },
+  {
+    "codigo": "161",
+    "nombre": "Diguillín",
+    "region_codigo": "16",
+    "lat": -366.197,
+    "lng": -721.014,
+    "url": ""
+  },
+  {
+    "codigo": "022",
+    "nombre": "El Loa",
+    "region_codigo": "02",
+    "lat": -22.3196,
+    "lng": -68.5107,
+    "url": ""
+  },
+  {
+    "codigo": "041",
+    "nombre": "Elqui",
+    "region_codigo": "04",
+    "lat": -29.8335,
+    "lng": -70.8014,
+    "url": ""
+  },
+  {
+    "codigo": "114",
+    "nombre": "General Carrera",
+    "region_codigo": "11",
+    "lat": -46.557,
+    "lng": -72.4123,
+    "url": ""
+  },
+  {
+    "codigo": "033",
+    "nombre": "Huasco",
+    "region_codigo": "03",
+    "lat": -28.5604,
+    "lng": -70.6146,
+    "url": ""
+  },
+  {
+    "codigo": "011",
+    "nombre": "Iquique",
+    "region_codigo": "01",
+    "lat": -20.8011,
+    "lng": -70.0963,
+    "url": ""
+  },
+  {
+    "codigo": "052",
+    "nombre": "Isla de Pascua",
+    "region_codigo": "05",
+    "lat": -27.1212,
+    "lng": -109.366,
+    "url": ""
+  },
+  {
+    "codigo": "162",
+    "nombre": "Itata",
+    "region_codigo": "16",
+    "lat": -367.639,
+    "lng": -724.491,
+    "url": ""
+  },
+  {
+    "codigo": "043",
+    "nombre": "Limarí",
+    "region_codigo": "04",
+    "lat": -30.7342,
+    "lng": -70.9957,
+    "url": ""
+  },
+  {
+    "codigo": "074",
+    "nombre": "Linares",
+    "region_codigo": "07",
+    "lat": -35.8495,
+    "lng": -71.585,
+    "url": ""
+  },
+  {
+    "codigo": "101",
+    "nombre": "Llanquihue",
+    "region_codigo": "10",
+    "lat": -41.453,
+    "lng": -72.6135,
+    "url": ""
+  },
+  {
+    "codigo": "053",
+    "nombre": "Los Andes",
+    "region_codigo": "05",
+    "lat": -32.9544,
+    "lng": -70.3163,
+    "url": ""
+  },
+  {
+    "codigo": "121",
+    "nombre": "Magallanes",
+    "region_codigo": "12",
+    "lat": -53.6316,
+    "lng": -71.5924,
+    "url": ""
+  },
+  {
+    "codigo": "134",
+    "nombre": "Maipo",
+    "region_codigo": "13",
+    "lat": -33.7963,
+    "lng": -70.7353,
+    "url": ""
+  },
+  {
+    "codigo": "092",
+    "nombre": "Malleco",
+    "region_codigo": "09",
+    "lat": -37.803,
+    "lng": -72.7017,
+    "url": ""
+  },
+  {
+    "codigo": "058",
+    "nombre": "Marga Marga",
+    "region_codigo": "05",
+    "lat": -33.065,
+    "lng": -71.3711,
+    "url": ""
+  },
+  {
+    "codigo": "135",
+    "nombre": "Melipilla",
+    "region_codigo": "13",
+    "lat": -33.7369,
+    "lng": -71.1743,
+    "url": ""
+  },
+  {
+    "codigo": "103",
+    "nombre": "Osorno",
+    "region_codigo": "10",
+    "lat": -40.7369,
+    "lng": -72.9849,
+    "url": ""
+  },
+  {
+    "codigo": "104",
+    "nombre": "Palena",
+    "region_codigo": "10",
+    "lat": -43.4449,
+    "lng": -72.0923,
+    "url": ""
+  },
+  {
+    "codigo": "152",
+    "nombre": "Parinacota",
+    "region_codigo": "15",
+    "lat": -18.3135,
+    "lng": -69.3788,
+    "url": ""
+  },
+  {
+    "codigo": "054",
+    "nombre": "Petorca",
+    "region_codigo": "05",
+    "lat": -32.1965,
+    "lng": -70.8318,
+    "url": ""
+  },
+  {
+    "codigo": "163",
+    "nombre": "Punilla",
+    "region_codigo": "16",
+    "lat": -364.261,
+    "lng": -719.708,
+    "url": ""
+  },
+  {
+    "codigo": "055",
+    "nombre": "Quillota",
+    "region_codigo": "05",
+    "lat": -32.9009,
+    "lng": -71.2947,
+    "url": ""
+  },
+  {
+    "codigo": "142",
+    "nombre": "Ranco",
+    "region_codigo": "14",
+    "lat": -40.4114,
+    "lng": -72.4988,
+    "url": ""
+  },
+  {
+    "codigo": "056",
+    "nombre": "San Antonio",
+    "region_codigo": "05",
+    "lat": -33.6648,
+    "lng": -71.4597,
+    "url": ""
+  },
+  {
+    "codigo": "057",
+    "nombre": "San Felipe de Aconcagua",
+    "region_codigo": "05",
+    "lat": -32.7464,
+    "lng": -70.7489,
+    "url": ""
+  },
+  {
+    "codigo": "131",
+    "nombre": "Santiago",
+    "region_codigo": "13",
+    "lat": -33.4417,
+    "lng": -70.6541,
+    "url": ""
+  },
+  {
+    "codigo": "136",
+    "nombre": "Talagante",
+    "region_codigo": "13",
+    "lat": -33.6665,
+    "lng": -70.9331,
+    "url": ""
+  },
+  {
+    "codigo": "071",
+    "nombre": "Talca",
+    "region_codigo": "07",
+    "lat": -35.3921,
+    "lng": -71.6125,
+    "url": ""
+  },
+  {
+    "codigo": "014",
+    "nombre": "Tamarugal",
+    "region_codigo": "01",
+    "lat": -39.8567,
+    "lng": -72.6089,
+    "url": ""
+  },
+  {
+    "codigo": "123",
+    "nombre": "Tierra del Fuego",
+    "region_codigo": "12",
+    "lat": -53.7422,
+    "lng": -69.2249,
+    "url": ""
+  },
+  {
+    "codigo": "023",
+    "nombre": "Tocopilla",
+    "region_codigo": "02",
+    "lat": -22.2306,
+    "lng": -69.4666,
+    "url": ""
+  },
+  {
+    "codigo": "124",
+    "nombre": "Última Esperanza",
+    "region_codigo": "12",
+    "lat": -51.0163,
+    "lng": -73.4285,
+    "url": ""
+  },
+  {
+    "codigo": "141",
+    "nombre": "Valdivia",
+    "region_codigo": "14",
+    "lat": -39.7811,
+    "lng": -72.5098,
+    "url": ""
+  },
+  {
+    "codigo": "051",
+    "nombre": "Valparaíso",
+    "region_codigo": "05",
+    "lat": -33.1381,
+    "lng": -71.5617,
+    "url": ""
+  }
+]
