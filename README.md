@@ -41,6 +41,11 @@ feriados/
   feriados-YYYY.json
   metadata.json
   README.md
+municipalidades/
+  municipalidades.json
+  sitios-web.json
+  metadata.json
+  README.md
 ```
 
 ---
@@ -211,6 +216,32 @@ Ver documentación específica en:
 
 ```txt
 feriados/README.md
+```
+
+---
+
+## Municipalidades
+
+Datasets de municipalidades de Chile y sus sitios web institucionales, cruzados con la división político-administrativa del país.
+
+Archivos disponibles:
+
+```txt
+municipalidades/municipalidades.json
+municipalidades/sitios-web.json
+municipalidades/metadata.json
+```
+
+Fuente:
+
+```txt
+https://www.munichile.cl/
+```
+
+Ver documentación específica en:
+
+```txt
+municipalidades/README.md
 ```
 
 ---

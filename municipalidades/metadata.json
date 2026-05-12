@@ -1,0 +1,11 @@
+{
+  "source": "https://www.munichile.cl/",
+  "description": "Directorio normalizado de municipalidades y sitios web institucionales de Chile.",
+  "country": "CL",
+  "records_count": 345,
+  "generated_at": "2026-05-12T16:39:51.604Z",
+  "files": [
+    "municipalidades.json",
+    "sitios-web.json"
+  ]
+}

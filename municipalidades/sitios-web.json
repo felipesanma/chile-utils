@@ -1,0 +1,2072 @@
+[
+  {
+    "comuna_codigo": "01107",
+    "comuna_nombre": "Alto Hospicio",
+    "municipalidad": "Municipalidad de Alto Hospicio",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "01402",
+    "comuna_nombre": "Camiña",
+    "municipalidad": "Municipalidad de Camiña",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "01403",
+    "comuna_nombre": "Colchane",
+    "municipalidad": "Municipalidad de Colchane",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "01404",
+    "comuna_nombre": "Huara",
+    "municipalidad": "Municipalidad de Huara",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "01101",
+    "comuna_nombre": "Iquique",
+    "municipalidad": "Municipalidad de Iquique",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "01405",
+    "comuna_nombre": "Pica",
+    "municipalidad": "Municipalidad de Pica",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "01401",
+    "comuna_nombre": "Pozo Almonte",
+    "municipalidad": "Municipalidad de Pozo Almonte",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02101",
+    "comuna_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de Antofagasta",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02201",
+    "comuna_nombre": "Calama",
+    "municipalidad": "Municipalidad de Calama",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02302",
+    "comuna_nombre": "María Elena",
+    "municipalidad": "Municipalidad de María Elena",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02102",
+    "comuna_nombre": "Mejillones",
+    "municipalidad": "Municipalidad de Mejillones",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02202",
+    "comuna_nombre": "Ollagüe",
+    "municipalidad": "Municipalidad de Ollagüe",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02203",
+    "comuna_nombre": "San Pedro de Atacama",
+    "municipalidad": "Municipalidad de San Pedro de Atacama",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02103",
+    "comuna_nombre": "Sierra Gorda",
+    "municipalidad": "Municipalidad de Sierra Gorda",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02104",
+    "comuna_nombre": "Taltal",
+    "municipalidad": "Municipalidad de Taltal",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "02301",
+    "comuna_nombre": "Tocopilla",
+    "municipalidad": "Municipalidad de Tocopilla",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03302",
+    "comuna_nombre": "Alto del Carmen",
+    "municipalidad": "Municipalidad de Alto del Carmen",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03102",
+    "comuna_nombre": "Caldera",
+    "municipalidad": "Municipalidad de Caldera",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03201",
+    "comuna_nombre": "Chañaral",
+    "municipalidad": "Municipalidad de Chañaral",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03101",
+    "comuna_nombre": "Copiapó",
+    "municipalidad": "Municipalidad de Copiapó",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03202",
+    "comuna_nombre": "Diego de Almagro",
+    "municipalidad": "Municipalidad de Diego de Almagro",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03303",
+    "comuna_nombre": "Freirina",
+    "municipalidad": "Municipalidad de Freirina",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03304",
+    "comuna_nombre": "Huasco",
+    "municipalidad": "Municipalidad de Huasco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03103",
+    "comuna_nombre": "Tierra Amarilla",
+    "municipalidad": "Municipalidad de Tierra Amarilla",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "03301",
+    "comuna_nombre": "Vallenar",
+    "municipalidad": "Municipalidad de Vallenar",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04103",
+    "comuna_nombre": "Andacollo",
+    "municipalidad": "Municipalidad de Andacollo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04202",
+    "comuna_nombre": "Canela",
+    "municipalidad": "Municipalidad de Canela",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04302",
+    "comuna_nombre": "Combarbalá",
+    "municipalidad": "Municipalidad de Combarbalá",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04102",
+    "comuna_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Coquimbo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04201",
+    "comuna_nombre": "Illapel",
+    "municipalidad": "Municipalidad de Illapel",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04104",
+    "comuna_nombre": "La Higuera",
+    "municipalidad": "Municipalidad de La Higuera",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04101",
+    "comuna_nombre": "La Serena",
+    "municipalidad": "Municipalidad de La Serena",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04203",
+    "comuna_nombre": "Los Vilos",
+    "municipalidad": "Municipalidad de Los Vilos",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04303",
+    "comuna_nombre": "Monte Patria",
+    "municipalidad": "Municipalidad de Monte Patria",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04301",
+    "comuna_nombre": "Ovalle",
+    "municipalidad": "Municipalidad de Ovalle",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04105",
+    "comuna_nombre": "Paiguano",
+    "municipalidad": "Municipalidad de Paiguano",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04304",
+    "comuna_nombre": "Punitaqui",
+    "municipalidad": "Municipalidad de Punitaqui",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04305",
+    "comuna_nombre": "Río Hurtado",
+    "municipalidad": "Municipalidad de Río Hurtado",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04204",
+    "comuna_nombre": "Salamanca",
+    "municipalidad": "Municipalidad de Salamanca",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "04106",
+    "comuna_nombre": "Vicuña",
+    "municipalidad": "Municipalidad de Vicuña",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05602",
+    "comuna_nombre": "Algarrobo",
+    "municipalidad": "Municipalidad de Algarrobo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05402",
+    "comuna_nombre": "Cabildo",
+    "municipalidad": "Municipalidad de Cabildo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05502",
+    "comuna_nombre": "Calera",
+    "municipalidad": "Municipalidad de Calera",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05302",
+    "comuna_nombre": "Calle Larga",
+    "municipalidad": "Municipalidad de Calle Larga",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05603",
+    "comuna_nombre": "Cartagena",
+    "municipalidad": "Municipalidad de Cartagena",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05102",
+    "comuna_nombre": "Casablanca",
+    "municipalidad": "Municipalidad de Casablanca",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05702",
+    "comuna_nombre": "Catemu",
+    "municipalidad": "Municipalidad de Catemu",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05103",
+    "comuna_nombre": "Concón",
+    "municipalidad": "Municipalidad de Concón",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05604",
+    "comuna_nombre": "El Quisco",
+    "municipalidad": "Municipalidad de El Quisco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05605",
+    "comuna_nombre": "El Tabo",
+    "municipalidad": "Municipalidad de El Tabo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05503",
+    "comuna_nombre": "Hijuelas",
+    "municipalidad": "Municipalidad de Hijuelas",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05201",
+    "comuna_nombre": "Isla de Pascua",
+    "municipalidad": "Municipalidad de Isla de Pascua",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05104",
+    "comuna_nombre": "Juan Fernández",
+    "municipalidad": "Municipalidad de Juan Fernández",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05504",
+    "comuna_nombre": "La Cruz",
+    "municipalidad": "Municipalidad de La Cruz",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05401",
+    "comuna_nombre": "La Ligua",
+    "municipalidad": "Municipalidad de La Ligua",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05802",
+    "comuna_nombre": "Limache",
+    "municipalidad": "Municipalidad de Limache",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05703",
+    "comuna_nombre": "Llaillay",
+    "municipalidad": "Municipalidad de Llaillay",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05301",
+    "comuna_nombre": "Los Andes",
+    "municipalidad": "Municipalidad de Los Andes",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05506",
+    "comuna_nombre": "Nogales",
+    "municipalidad": "Municipalidad de Nogales",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05803",
+    "comuna_nombre": "Olmué",
+    "municipalidad": "Municipalidad de Olmué",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05704",
+    "comuna_nombre": "Panquehue",
+    "municipalidad": "Municipalidad de Panquehue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05403",
+    "comuna_nombre": "Papudo",
+    "municipalidad": "Municipalidad de Papudo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05404",
+    "comuna_nombre": "Petorca",
+    "municipalidad": "Municipalidad de Petorca",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05105",
+    "comuna_nombre": "Puchuncaví",
+    "municipalidad": "Municipalidad de Puchuncaví",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05705",
+    "comuna_nombre": "Putaendo",
+    "municipalidad": "Municipalidad de Putaendo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05501",
+    "comuna_nombre": "Quillota",
+    "municipalidad": "Municipalidad de Quillota",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05801",
+    "comuna_nombre": "Quilpué",
+    "municipalidad": "Municipalidad de Quilpué",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05107",
+    "comuna_nombre": "Quintero",
+    "municipalidad": "Municipalidad de Quintero",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05303",
+    "comuna_nombre": "Rinconada",
+    "municipalidad": "Municipalidad de Rinconada",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05601",
+    "comuna_nombre": "San Antonio",
+    "municipalidad": "Municipalidad de San Antonio",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05304",
+    "comuna_nombre": "San Esteban",
+    "municipalidad": "Municipalidad de San Esteban",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05701",
+    "comuna_nombre": "San Felipe",
+    "municipalidad": "Municipalidad de San Felipe",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05706",
+    "comuna_nombre": "Santa María",
+    "municipalidad": "Municipalidad de Santa María",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05606",
+    "comuna_nombre": "Santo Domingo",
+    "municipalidad": "Municipalidad de Santo Domingo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05101",
+    "comuna_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Valparaíso",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05804",
+    "comuna_nombre": "Villa Alemana",
+    "municipalidad": "Municipalidad de Villa Alemana",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05109",
+    "comuna_nombre": "Viña del Mar",
+    "municipalidad": "Municipalidad de Viña del Mar",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "05405",
+    "comuna_nombre": "Zapallar",
+    "municipalidad": "Municipalidad de Zapallar",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06303",
+    "comuna_nombre": "Chimbarongo",
+    "municipalidad": "Municipalidad de Chimbarongo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06302",
+    "comuna_nombre": "Chépica",
+    "municipalidad": "Municipalidad de Chépica",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06102",
+    "comuna_nombre": "Codegua",
+    "municipalidad": "Municipalidad de Codegua",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06103",
+    "comuna_nombre": "Coinco",
+    "municipalidad": "Municipalidad de Coinco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06104",
+    "comuna_nombre": "Coltauco",
+    "municipalidad": "Municipalidad de Coltauco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06105",
+    "comuna_nombre": "Doñihue",
+    "municipalidad": "Municipalidad de Doñihue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06106",
+    "comuna_nombre": "Graneros",
+    "municipalidad": "Municipalidad de Graneros",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06202",
+    "comuna_nombre": "La Estrella",
+    "municipalidad": "Municipalidad de La Estrella",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06107",
+    "comuna_nombre": "Las Cabras",
+    "municipalidad": "Municipalidad de Las Cabras",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06203",
+    "comuna_nombre": "Litueche",
+    "municipalidad": "Municipalidad de Litueche",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06304",
+    "comuna_nombre": "Lolol",
+    "municipalidad": "Municipalidad de Lolol",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06108",
+    "comuna_nombre": "Machalí",
+    "municipalidad": "Municipalidad de Machalí",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06109",
+    "comuna_nombre": "Malloa",
+    "municipalidad": "Municipalidad de Malloa",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06204",
+    "comuna_nombre": "Marchihue",
+    "municipalidad": "Municipalidad de Marchihue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06110",
+    "comuna_nombre": "Mostazal",
+    "municipalidad": "Municipalidad de Mostazal",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06305",
+    "comuna_nombre": "Nancagua",
+    "municipalidad": "Municipalidad de Nancagua",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06205",
+    "comuna_nombre": "Navidad",
+    "municipalidad": "Municipalidad de Navidad",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06111",
+    "comuna_nombre": "Olivar",
+    "municipalidad": "Municipalidad de Olivar",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06306",
+    "comuna_nombre": "Palmilla",
+    "municipalidad": "Municipalidad de Palmilla",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06206",
+    "comuna_nombre": "Paredones",
+    "municipalidad": "Municipalidad de Paredones",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06307",
+    "comuna_nombre": "Peralillo",
+    "municipalidad": "Municipalidad de Peralillo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06112",
+    "comuna_nombre": "Peumo",
+    "municipalidad": "Municipalidad de Peumo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06113",
+    "comuna_nombre": "Pichidegua",
+    "municipalidad": "Municipalidad de Pichidegua",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06201",
+    "comuna_nombre": "Pichilemu",
+    "municipalidad": "Municipalidad de Pichilemu",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06308",
+    "comuna_nombre": "Placilla",
+    "municipalidad": "Municipalidad de Placilla",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06309",
+    "comuna_nombre": "Pumanque",
+    "municipalidad": "Municipalidad de Pumanque",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06114",
+    "comuna_nombre": "Quinta de Tilcoco",
+    "municipalidad": "Municipalidad de Quinta de Tilcoco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06101",
+    "comuna_nombre": "Rancagua",
+    "municipalidad": "Municipalidad de Rancagua",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06115",
+    "comuna_nombre": "Rengo",
+    "municipalidad": "Municipalidad de Rengo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06116",
+    "comuna_nombre": "Requínoa",
+    "municipalidad": "Municipalidad de Requínoa",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06301",
+    "comuna_nombre": "San Fernando",
+    "municipalidad": "Municipalidad de San Fernando",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06117",
+    "comuna_nombre": "San Vicente",
+    "municipalidad": "Municipalidad de San Vicente",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "06310",
+    "comuna_nombre": "Santa Cruz",
+    "municipalidad": "Municipalidad de Santa Cruz",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07201",
+    "comuna_nombre": "Cauquenes",
+    "municipalidad": "Municipalidad de Cauquenes",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07202",
+    "comuna_nombre": "Chanco",
+    "municipalidad": "Municipalidad de Chanco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07402",
+    "comuna_nombre": "Colbún",
+    "municipalidad": "Municipalidad de Colbún",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07102",
+    "comuna_nombre": "Constitución",
+    "municipalidad": "Municipalidad de Constitución",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07103",
+    "comuna_nombre": "Curepto",
+    "municipalidad": "Municipalidad de Curepto",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07301",
+    "comuna_nombre": "Curicó",
+    "municipalidad": "Municipalidad de Curicó",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07104",
+    "comuna_nombre": "Empedrado",
+    "municipalidad": "Municipalidad de Empedrado",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07302",
+    "comuna_nombre": "Hualañé",
+    "municipalidad": "Municipalidad de Hualañé",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07303",
+    "comuna_nombre": "Licantén",
+    "municipalidad": "Municipalidad de Licantén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07401",
+    "comuna_nombre": "Linares",
+    "municipalidad": "Municipalidad de Linares",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07403",
+    "comuna_nombre": "Longaví",
+    "municipalidad": "Municipalidad de Longaví",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07105",
+    "comuna_nombre": "Maule",
+    "municipalidad": "Municipalidad de Maule",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07304",
+    "comuna_nombre": "Molina",
+    "municipalidad": "Municipalidad de Molina",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07404",
+    "comuna_nombre": "Parral",
+    "municipalidad": "Municipalidad de Parral",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07106",
+    "comuna_nombre": "Pelarco",
+    "municipalidad": "Municipalidad de Pelarco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07203",
+    "comuna_nombre": "Pelluhue",
+    "municipalidad": "Municipalidad de Pelluhue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07107",
+    "comuna_nombre": "Pencahue",
+    "municipalidad": "Municipalidad de Pencahue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07305",
+    "comuna_nombre": "Rauco",
+    "municipalidad": "Municipalidad de Rauco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07405",
+    "comuna_nombre": "Retiro",
+    "municipalidad": "Municipalidad de Retiro",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07306",
+    "comuna_nombre": "Romeral",
+    "municipalidad": "Municipalidad de Romeral",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07108",
+    "comuna_nombre": "Río Claro",
+    "municipalidad": "Municipalidad de Río Claro",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07307",
+    "comuna_nombre": "Sagrada Familia",
+    "municipalidad": "Municipalidad de Sagrada Familia",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07109",
+    "comuna_nombre": "San Clemente",
+    "municipalidad": "Municipalidad de San Clemente",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07406",
+    "comuna_nombre": "San Javier",
+    "municipalidad": "Municipalidad de San Javier",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07110",
+    "comuna_nombre": "San Rafael",
+    "municipalidad": "Municipalidad de San Rafael",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07101",
+    "comuna_nombre": "Talca",
+    "municipalidad": "Municipalidad de Talca",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07308",
+    "comuna_nombre": "Teno",
+    "municipalidad": "Municipalidad de Teno",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07309",
+    "comuna_nombre": "Vichuquén",
+    "municipalidad": "Municipalidad de Vichuquén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07407",
+    "comuna_nombre": "Villa Alegre",
+    "municipalidad": "Municipalidad de Villa Alegre",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "07408",
+    "comuna_nombre": "Yerbas Buenas",
+    "municipalidad": "Municipalidad de Yerbas Buenas",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08314",
+    "comuna_nombre": "Alto Biobío",
+    "municipalidad": "Municipalidad de Alto Biobío",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08302",
+    "comuna_nombre": "Antuco",
+    "municipalidad": "Municipalidad de Antuco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08202",
+    "comuna_nombre": "Arauco",
+    "municipalidad": "Municipalidad de Arauco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08303",
+    "comuna_nombre": "Cabrero",
+    "municipalidad": "Municipalidad de Cabrero",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08203",
+    "comuna_nombre": "Cañete",
+    "municipalidad": "Municipalidad de Cañete",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08103",
+    "comuna_nombre": "Chiguayante",
+    "municipalidad": "Municipalidad de Chiguayante",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08101",
+    "comuna_nombre": "Concepción",
+    "municipalidad": "Municipalidad de Concepción",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08204",
+    "comuna_nombre": "Contulmo",
+    "municipalidad": "Municipalidad de Contulmo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08102",
+    "comuna_nombre": "Coronel",
+    "municipalidad": "Municipalidad de Coronel",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08205",
+    "comuna_nombre": "Curanilahue",
+    "municipalidad": "Municipalidad de Curanilahue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08104",
+    "comuna_nombre": "Florida",
+    "municipalidad": "Municipalidad de Florida",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08112",
+    "comuna_nombre": "Hualpén",
+    "municipalidad": "Municipalidad de Hualpén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08105",
+    "comuna_nombre": "Hualqui",
+    "municipalidad": "Municipalidad de Hualqui",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08304",
+    "comuna_nombre": "Laja",
+    "municipalidad": "Municipalidad de Laja",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08201",
+    "comuna_nombre": "Lebu",
+    "municipalidad": "Municipalidad de Lebu",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08206",
+    "comuna_nombre": "Los Álamos",
+    "municipalidad": "Municipalidad de Los Álamos",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08301",
+    "comuna_nombre": "Los Ángeles",
+    "municipalidad": "Municipalidad de Los Ángeles",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08106",
+    "comuna_nombre": "Lota",
+    "municipalidad": "Municipalidad de Lota",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08305",
+    "comuna_nombre": "Mulchén",
+    "municipalidad": "Municipalidad de Mulchén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08306",
+    "comuna_nombre": "Nacimiento",
+    "municipalidad": "Municipalidad de Nacimiento",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08307",
+    "comuna_nombre": "Negrete",
+    "municipalidad": "Municipalidad de Negrete",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08107",
+    "comuna_nombre": "Penco",
+    "municipalidad": "Municipalidad de Penco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08308",
+    "comuna_nombre": "Quilaco",
+    "municipalidad": "Municipalidad de Quilaco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08309",
+    "comuna_nombre": "Quilleco",
+    "municipalidad": "Municipalidad de Quilleco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08108",
+    "comuna_nombre": "San Pedro de la Paz",
+    "municipalidad": "Municipalidad de San Pedro de la Paz",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08310",
+    "comuna_nombre": "San Rosendo",
+    "municipalidad": "Municipalidad de San Rosendo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08311",
+    "comuna_nombre": "Santa Bárbara",
+    "municipalidad": "Municipalidad de Santa Bárbara",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08109",
+    "comuna_nombre": "Santa Juana",
+    "municipalidad": "Municipalidad de Santa Juana",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08110",
+    "comuna_nombre": "Talcahuano",
+    "municipalidad": "Municipalidad de Talcahuano",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08207",
+    "comuna_nombre": "Tirúa",
+    "municipalidad": "Municipalidad de Tirúa",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08111",
+    "comuna_nombre": "Tomé",
+    "municipalidad": "Municipalidad de Tomé",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08312",
+    "comuna_nombre": "Tucapel",
+    "municipalidad": "Municipalidad de Tucapel",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "08313",
+    "comuna_nombre": "Yumbel",
+    "municipalidad": "Municipalidad de Yumbel",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09201",
+    "comuna_nombre": "Angol",
+    "municipalidad": "Municipalidad de Angol",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09102",
+    "comuna_nombre": "Carahue",
+    "municipalidad": "Municipalidad de Carahue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09121",
+    "comuna_nombre": "Cholchol",
+    "municipalidad": "Municipalidad de Cholchol",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09202",
+    "comuna_nombre": "Collipulli",
+    "municipalidad": "Municipalidad de Collipulli",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09103",
+    "comuna_nombre": "Cunco",
+    "municipalidad": "Municipalidad de Cunco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09203",
+    "comuna_nombre": "Curacautín",
+    "municipalidad": "Municipalidad de Curacautín",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09104",
+    "comuna_nombre": "Curarrehue",
+    "municipalidad": "Municipalidad de Curarrehue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09204",
+    "comuna_nombre": "Ercilla",
+    "municipalidad": "Municipalidad de Ercilla",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09105",
+    "comuna_nombre": "Freire",
+    "municipalidad": "Municipalidad de Freire",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09106",
+    "comuna_nombre": "Galvarino",
+    "municipalidad": "Municipalidad de Galvarino",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09107",
+    "comuna_nombre": "Gorbea",
+    "municipalidad": "Municipalidad de Gorbea",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09108",
+    "comuna_nombre": "Lautaro",
+    "municipalidad": "Municipalidad de Lautaro",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09109",
+    "comuna_nombre": "Loncoche",
+    "municipalidad": "Municipalidad de Loncoche",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09205",
+    "comuna_nombre": "Lonquimay",
+    "municipalidad": "Municipalidad de Lonquimay",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09206",
+    "comuna_nombre": "Los Sauces",
+    "municipalidad": "Municipalidad de Los Sauces",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09207",
+    "comuna_nombre": "Lumaco",
+    "municipalidad": "Municipalidad de Lumaco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09110",
+    "comuna_nombre": "Melipeuco",
+    "municipalidad": "Municipalidad de Melipeuco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09111",
+    "comuna_nombre": "Nueva Imperial",
+    "municipalidad": "Municipalidad de Nueva Imperial",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09112",
+    "comuna_nombre": "Padre las Casas",
+    "municipalidad": "Municipalidad de Padre las Casas",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09113",
+    "comuna_nombre": "Perquenco",
+    "municipalidad": "Municipalidad de Perquenco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09114",
+    "comuna_nombre": "Pitrufquén",
+    "municipalidad": "Municipalidad de Pitrufquén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09115",
+    "comuna_nombre": "Pucón",
+    "municipalidad": "Municipalidad de Pucón",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09208",
+    "comuna_nombre": "Purén",
+    "municipalidad": "Municipalidad de Purén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09209",
+    "comuna_nombre": "Renaico",
+    "municipalidad": "Municipalidad de Renaico",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09116",
+    "comuna_nombre": "Saavedra",
+    "municipalidad": "Municipalidad de Saavedra",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09101",
+    "comuna_nombre": "Temuco",
+    "municipalidad": "Municipalidad de Temuco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09117",
+    "comuna_nombre": "Teodoro Schmidt",
+    "municipalidad": "Municipalidad de Teodoro Schmidt",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09118",
+    "comuna_nombre": "Toltén",
+    "municipalidad": "Municipalidad de Toltén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09210",
+    "comuna_nombre": "Traiguén",
+    "municipalidad": "Municipalidad de Traiguén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09211",
+    "comuna_nombre": "Victoria",
+    "municipalidad": "Municipalidad de Victoria",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09119",
+    "comuna_nombre": "Vilcún",
+    "municipalidad": "Municipalidad de Vilcún",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "09120",
+    "comuna_nombre": "Villarrica",
+    "municipalidad": "Municipalidad de Villarrica",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10202",
+    "comuna_nombre": "Ancud",
+    "municipalidad": "Municipalidad de Ancud",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10102",
+    "comuna_nombre": "Calbuco",
+    "municipalidad": "Municipalidad de Calbuco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10201",
+    "comuna_nombre": "Castro",
+    "municipalidad": "Municipalidad de Castro",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10401",
+    "comuna_nombre": "Chaitén",
+    "municipalidad": "Municipalidad de Chaitén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10203",
+    "comuna_nombre": "Chonchi",
+    "municipalidad": "Municipalidad de Chonchi",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10103",
+    "comuna_nombre": "Cochamó",
+    "municipalidad": "Municipalidad de Cochamó",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10204",
+    "comuna_nombre": "Curaco de Vélez",
+    "municipalidad": "Municipalidad de Curaco de Vélez",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10205",
+    "comuna_nombre": "Dalcahue",
+    "municipalidad": "Municipalidad de Dalcahue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10104",
+    "comuna_nombre": "Fresia",
+    "municipalidad": "Municipalidad de Fresia",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10105",
+    "comuna_nombre": "Frutillar",
+    "municipalidad": "Municipalidad de Frutillar",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10402",
+    "comuna_nombre": "Futaleufú",
+    "municipalidad": "Municipalidad de Futaleufú",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10403",
+    "comuna_nombre": "Hualaihué",
+    "municipalidad": "Municipalidad de Hualaihué",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10107",
+    "comuna_nombre": "Llanquihue",
+    "municipalidad": "Municipalidad de Llanquihue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10106",
+    "comuna_nombre": "Los Muermos",
+    "municipalidad": "Municipalidad de Los Muermos",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10108",
+    "comuna_nombre": "Maullín",
+    "municipalidad": "Municipalidad de Maullín",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10301",
+    "comuna_nombre": "Osorno",
+    "municipalidad": "Municipalidad de Osorno",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10404",
+    "comuna_nombre": "Palena",
+    "municipalidad": "Municipalidad de Palena",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10101",
+    "comuna_nombre": "Puerto Montt",
+    "municipalidad": "Municipalidad de Puerto Montt",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10302",
+    "comuna_nombre": "Puerto Octay",
+    "municipalidad": "Municipalidad de Puerto Octay",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10109",
+    "comuna_nombre": "Puerto Varas",
+    "municipalidad": "Municipalidad de Puerto Varas",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10206",
+    "comuna_nombre": "Puqueldón",
+    "municipalidad": "Municipalidad de Puqueldón",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10303",
+    "comuna_nombre": "Purranque",
+    "municipalidad": "Municipalidad de Purranque",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10304",
+    "comuna_nombre": "Puyehue",
+    "municipalidad": "Municipalidad de Puyehue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10207",
+    "comuna_nombre": "Queilén",
+    "municipalidad": "Municipalidad de Queilén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10208",
+    "comuna_nombre": "Quellón",
+    "municipalidad": "Municipalidad de Quellón",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10209",
+    "comuna_nombre": "Quemchi",
+    "municipalidad": "Municipalidad de Quemchi",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10210",
+    "comuna_nombre": "Quinchao",
+    "municipalidad": "Municipalidad de Quinchao",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10305",
+    "comuna_nombre": "Río Negro",
+    "municipalidad": "Municipalidad de Río Negro",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10306",
+    "comuna_nombre": "San Juan de la Costa",
+    "municipalidad": "Municipalidad de San Juan de la Costa",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "10307",
+    "comuna_nombre": "San Pablo",
+    "municipalidad": "Municipalidad de San Pablo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11201",
+    "comuna_nombre": "Aysén",
+    "municipalidad": "Municipalidad de Aysén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11401",
+    "comuna_nombre": "Chile Chico",
+    "municipalidad": "Municipalidad de Chile Chico",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11202",
+    "comuna_nombre": "Cisnes",
+    "municipalidad": "Municipalidad de Cisnes",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11301",
+    "comuna_nombre": "Cochrane",
+    "municipalidad": "Municipalidad de Cochrane",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11101",
+    "comuna_nombre": "Coihaique",
+    "municipalidad": "Municipalidad de Coihaique",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11203",
+    "comuna_nombre": "Guaitecas",
+    "municipalidad": "Municipalidad de Guaitecas",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11102",
+    "comuna_nombre": "Lago Verde",
+    "municipalidad": "Municipalidad de Lago Verde",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11302",
+    "comuna_nombre": "O’Higgins",
+    "municipalidad": "Municipalidad de O’Higgins",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11402",
+    "comuna_nombre": "Río Ibáñez",
+    "municipalidad": "Municipalidad de Río Ibáñez",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "11303",
+    "comuna_nombre": "Tortel",
+    "municipalidad": "Municipalidad de Tortel",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12201",
+    "comuna_nombre": "Cabo de Hornos",
+    "municipalidad": "Municipalidad de Cabo de Hornos",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12102",
+    "comuna_nombre": "Laguna Blanca",
+    "municipalidad": "Municipalidad de Laguna Blanca",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12401",
+    "comuna_nombre": "Natales",
+    "municipalidad": "Municipalidad de Natales",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12301",
+    "comuna_nombre": "Porvenir",
+    "municipalidad": "Municipalidad de Porvenir",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12302",
+    "comuna_nombre": "Primavera",
+    "municipalidad": "Municipalidad de Primavera",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12101",
+    "comuna_nombre": "Punta Arenas",
+    "municipalidad": "Municipalidad de Punta Arenas",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12103",
+    "comuna_nombre": "Río Verde",
+    "municipalidad": "Municipalidad de Río Verde",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12104",
+    "comuna_nombre": "San Gregorio",
+    "municipalidad": "Municipalidad de San Gregorio",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12303",
+    "comuna_nombre": "Timaukel",
+    "municipalidad": "Municipalidad de Timaukel",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "12402",
+    "comuna_nombre": "Torres del Paine",
+    "municipalidad": "Municipalidad de Torres del Paine",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13502",
+    "comuna_nombre": "Alhué",
+    "municipalidad": "Municipalidad de Alhué",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13402",
+    "comuna_nombre": "Buin",
+    "municipalidad": "Municipalidad de Buin",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13403",
+    "comuna_nombre": "Calera de Tango",
+    "municipalidad": "Municipalidad de Calera de Tango",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13102",
+    "comuna_nombre": "Cerrillos",
+    "municipalidad": "Municipalidad de Cerrillos",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13103",
+    "comuna_nombre": "Cerro Navia",
+    "municipalidad": "Municipalidad de Cerro Navia",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13301",
+    "comuna_nombre": "Colina",
+    "municipalidad": "Municipalidad de Colina",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13104",
+    "comuna_nombre": "Conchalí",
+    "municipalidad": "Municipalidad de Conchalí",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13503",
+    "comuna_nombre": "Curacaví",
+    "municipalidad": "Municipalidad de Curacaví",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13105",
+    "comuna_nombre": "El Bosque",
+    "municipalidad": "Municipalidad de El Bosque",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13602",
+    "comuna_nombre": "El Monte",
+    "municipalidad": "Municipalidad de El Monte",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13106",
+    "comuna_nombre": "Estación Central",
+    "municipalidad": "Municipalidad de Estación Central",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13107",
+    "comuna_nombre": "Huechuraba",
+    "municipalidad": "Municipalidad de Huechuraba",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13108",
+    "comuna_nombre": "Independencia",
+    "municipalidad": "Municipalidad de Independencia",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13603",
+    "comuna_nombre": "Isla de Maipo",
+    "municipalidad": "Municipalidad de Isla de Maipo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13109",
+    "comuna_nombre": "La Cisterna",
+    "municipalidad": "Municipalidad de La Cisterna",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13110",
+    "comuna_nombre": "La Florida",
+    "municipalidad": "Municipalidad de La Florida",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13111",
+    "comuna_nombre": "La Granja",
+    "municipalidad": "Municipalidad de La Granja",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13112",
+    "comuna_nombre": "La Pintana",
+    "municipalidad": "Municipalidad de La Pintana",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13113",
+    "comuna_nombre": "La Reina",
+    "municipalidad": "Municipalidad de La Reina",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13302",
+    "comuna_nombre": "Lampa",
+    "municipalidad": "Municipalidad de Lampa",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13114",
+    "comuna_nombre": "Las Condes",
+    "municipalidad": "Municipalidad de Las Condes",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13115",
+    "comuna_nombre": "Lo Barnechea",
+    "municipalidad": "Municipalidad de Lo Barnechea",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13116",
+    "comuna_nombre": "Lo Espejo",
+    "municipalidad": "Municipalidad de Lo Espejo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13117",
+    "comuna_nombre": "Lo Prado",
+    "municipalidad": "Municipalidad de Lo Prado",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13118",
+    "comuna_nombre": "Macul",
+    "municipalidad": "Municipalidad de Macul",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13119",
+    "comuna_nombre": "Maipú",
+    "municipalidad": "Municipalidad de Maipú",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13504",
+    "comuna_nombre": "María Pinto",
+    "municipalidad": "Municipalidad de María Pinto",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13501",
+    "comuna_nombre": "Melipilla",
+    "municipalidad": "Municipalidad de Melipilla",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13604",
+    "comuna_nombre": "Padre Hurtado",
+    "municipalidad": "Municipalidad de Padre Hurtado",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13404",
+    "comuna_nombre": "Paine",
+    "municipalidad": "Municipalidad de Paine",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13121",
+    "comuna_nombre": "Pedro Aguirre Cerda",
+    "municipalidad": "Municipalidad de Pedro Aguirre Cerda",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13605",
+    "comuna_nombre": "Peñaflor",
+    "municipalidad": "Municipalidad de Peñaflor",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13122",
+    "comuna_nombre": "Peñalolén",
+    "municipalidad": "Municipalidad de Peñalolén",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13202",
+    "comuna_nombre": "Pirque",
+    "municipalidad": "Municipalidad de Pirque",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13123",
+    "comuna_nombre": "Providencia",
+    "municipalidad": "Municipalidad de Providencia",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13124",
+    "comuna_nombre": "Pudahuel",
+    "municipalidad": "Municipalidad de Pudahuel",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13201",
+    "comuna_nombre": "Puente Alto",
+    "municipalidad": "Municipalidad de Puente Alto",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13125",
+    "comuna_nombre": "Quilicura",
+    "municipalidad": "Municipalidad de Quilicura",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13126",
+    "comuna_nombre": "Quinta Normal",
+    "municipalidad": "Municipalidad de Quinta Normal",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13127",
+    "comuna_nombre": "Recoleta",
+    "municipalidad": "Municipalidad de Recoleta",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13128",
+    "comuna_nombre": "Renca",
+    "municipalidad": "Municipalidad de Renca",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13401",
+    "comuna_nombre": "San Bernardo",
+    "municipalidad": "Municipalidad de San Bernardo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13129",
+    "comuna_nombre": "San Joaquín",
+    "municipalidad": "Municipalidad de San Joaquín",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13203",
+    "comuna_nombre": "San José de Maipo",
+    "municipalidad": "Municipalidad de San José de Maipo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13130",
+    "comuna_nombre": "San Miguel",
+    "municipalidad": "Municipalidad de San Miguel",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13505",
+    "comuna_nombre": "San Pedro",
+    "municipalidad": "Municipalidad de San Pedro",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13131",
+    "comuna_nombre": "San Ramón",
+    "municipalidad": "Municipalidad de San Ramón",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13101",
+    "comuna_nombre": "Santiago Centro",
+    "municipalidad": "Municipalidad de Santiago Centro",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13601",
+    "comuna_nombre": "Talagante",
+    "municipalidad": "Municipalidad de Talagante",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13303",
+    "comuna_nombre": "Tiltil",
+    "municipalidad": "Municipalidad de Tiltil",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13132",
+    "comuna_nombre": "Vitacura",
+    "municipalidad": "Municipalidad de Vitacura",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "13120",
+    "comuna_nombre": "Ñuñoa",
+    "municipalidad": "Municipalidad de Ñuñoa",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14102",
+    "comuna_nombre": "Corral",
+    "municipalidad": "Municipalidad de Corral",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14202",
+    "comuna_nombre": "Futrono",
+    "municipalidad": "Municipalidad de Futrono",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14201",
+    "comuna_nombre": "La Unión",
+    "municipalidad": "Municipalidad de La Unión",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14203",
+    "comuna_nombre": "Lago Ranco",
+    "municipalidad": "Municipalidad de Lago Ranco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14103",
+    "comuna_nombre": "Lanco",
+    "municipalidad": "Municipalidad de Lanco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14104",
+    "comuna_nombre": "Los Lagos",
+    "municipalidad": "Municipalidad de Los Lagos",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14106",
+    "comuna_nombre": "Mariquina",
+    "municipalidad": "Municipalidad de Mariquina",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14105",
+    "comuna_nombre": "Máfil",
+    "municipalidad": "Municipalidad de Máfil",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14107",
+    "comuna_nombre": "Paillaco",
+    "municipalidad": "Municipalidad de Paillaco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14108",
+    "comuna_nombre": "Panguipulli",
+    "municipalidad": "Municipalidad de Panguipulli",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14204",
+    "comuna_nombre": "Río Bueno",
+    "municipalidad": "Municipalidad de Río Bueno",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "14101",
+    "comuna_nombre": "Valdivia",
+    "municipalidad": "Municipalidad de Valdivia",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "15101",
+    "comuna_nombre": "Arica",
+    "municipalidad": "Municipalidad de Arica",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "15102",
+    "comuna_nombre": "Camarones",
+    "municipalidad": "Municipalidad de Camarones",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "15202",
+    "comuna_nombre": "General Lagos",
+    "municipalidad": "Municipalidad de General Lagos",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "15201",
+    "comuna_nombre": "Putre",
+    "municipalidad": "Municipalidad de Putre",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16102",
+    "comuna_nombre": "Bulnes",
+    "municipalidad": "Municipalidad de Bulnes",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16101",
+    "comuna_nombre": "Chillán",
+    "municipalidad": "Municipalidad de Chillán",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16103",
+    "comuna_nombre": "Chillán Viejo",
+    "municipalidad": "Municipalidad de Chillán Viejo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16202",
+    "comuna_nombre": "Cobquecura",
+    "municipalidad": "Municipalidad de Cobquecura",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16203",
+    "comuna_nombre": "Coelemu",
+    "municipalidad": "Municipalidad de Coelemu",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16302",
+    "comuna_nombre": "Coihueco",
+    "municipalidad": "Municipalidad de Coihueco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16104",
+    "comuna_nombre": "El Carmen",
+    "municipalidad": "Municipalidad de El Carmen",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16204",
+    "comuna_nombre": "Ninhue",
+    "municipalidad": "Municipalidad de Ninhue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16105",
+    "comuna_nombre": "Pemuco",
+    "municipalidad": "Municipalidad de Pemuco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16106",
+    "comuna_nombre": "Pinto",
+    "municipalidad": "Municipalidad de Pinto",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16205",
+    "comuna_nombre": "Portezuelo",
+    "municipalidad": "Municipalidad de Portezuelo",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16107",
+    "comuna_nombre": "Quillón",
+    "municipalidad": "Municipalidad de Quillón",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16201",
+    "comuna_nombre": "Quirihue",
+    "municipalidad": "Municipalidad de Quirihue",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16206",
+    "comuna_nombre": "Ránquil",
+    "municipalidad": "Municipalidad de Ránquil",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16301",
+    "comuna_nombre": "San Carlos",
+    "municipalidad": "Municipalidad de San Carlos",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16304",
+    "comuna_nombre": "San Fabián",
+    "municipalidad": "Municipalidad de San Fabián",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16108",
+    "comuna_nombre": "San Ignacio",
+    "municipalidad": "Municipalidad de San Ignacio",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16305",
+    "comuna_nombre": "San Nicolás",
+    "municipalidad": "Municipalidad de San Nicolás",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16207",
+    "comuna_nombre": "Treguaco",
+    "municipalidad": "Municipalidad de Treguaco",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16109",
+    "comuna_nombre": "Yungay",
+    "municipalidad": "Municipalidad de Yungay",
+    "sitio_web": null
+  },
+  {
+    "comuna_codigo": "16303",
+    "comuna_nombre": "Ñiquén",
+    "municipalidad": "Municipalidad de Ñiquén",
+    "sitio_web": null
+  }
+]

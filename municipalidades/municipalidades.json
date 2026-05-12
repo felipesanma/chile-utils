@@ -1,0 +1,3452 @@
+[
+  {
+    "comuna_codigo": "01107",
+    "comuna_nombre": "Alto Hospicio",
+    "provincia_codigo": "011",
+    "region_codigo": "01",
+    "region_nombre": "Tarapacá",
+    "municipalidad": "Municipalidad de Alto Hospicio",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "01402",
+    "comuna_nombre": "Camiña",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "region_nombre": "Tarapacá",
+    "municipalidad": "Municipalidad de Camiña",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "01403",
+    "comuna_nombre": "Colchane",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "region_nombre": "Tarapacá",
+    "municipalidad": "Municipalidad de Colchane",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "01404",
+    "comuna_nombre": "Huara",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "region_nombre": "Tarapacá",
+    "municipalidad": "Municipalidad de Huara",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "01101",
+    "comuna_nombre": "Iquique",
+    "provincia_codigo": "011",
+    "region_codigo": "01",
+    "region_nombre": "Tarapacá",
+    "municipalidad": "Municipalidad de Iquique",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "01405",
+    "comuna_nombre": "Pica",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "region_nombre": "Tarapacá",
+    "municipalidad": "Municipalidad de Pica",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "01401",
+    "comuna_nombre": "Pozo Almonte",
+    "provincia_codigo": "014",
+    "region_codigo": "01",
+    "region_nombre": "Tarapacá",
+    "municipalidad": "Municipalidad de Pozo Almonte",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02101",
+    "comuna_nombre": "Antofagasta",
+    "provincia_codigo": "021",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de Antofagasta",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02201",
+    "comuna_nombre": "Calama",
+    "provincia_codigo": "022",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de Calama",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02302",
+    "comuna_nombre": "María Elena",
+    "provincia_codigo": "023",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de María Elena",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02102",
+    "comuna_nombre": "Mejillones",
+    "provincia_codigo": "021",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de Mejillones",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02202",
+    "comuna_nombre": "Ollagüe",
+    "provincia_codigo": "022",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de Ollagüe",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02203",
+    "comuna_nombre": "San Pedro de Atacama",
+    "provincia_codigo": "022",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de San Pedro de Atacama",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02103",
+    "comuna_nombre": "Sierra Gorda",
+    "provincia_codigo": "021",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de Sierra Gorda",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02104",
+    "comuna_nombre": "Taltal",
+    "provincia_codigo": "021",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de Taltal",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "02301",
+    "comuna_nombre": "Tocopilla",
+    "provincia_codigo": "023",
+    "region_codigo": "02",
+    "region_nombre": "Antofagasta",
+    "municipalidad": "Municipalidad de Tocopilla",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03302",
+    "comuna_nombre": "Alto del Carmen",
+    "provincia_codigo": "033",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Alto del Carmen",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03102",
+    "comuna_nombre": "Caldera",
+    "provincia_codigo": "031",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Caldera",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03201",
+    "comuna_nombre": "Chañaral",
+    "provincia_codigo": "032",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Chañaral",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03101",
+    "comuna_nombre": "Copiapó",
+    "provincia_codigo": "031",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Copiapó",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03202",
+    "comuna_nombre": "Diego de Almagro",
+    "provincia_codigo": "032",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Diego de Almagro",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03303",
+    "comuna_nombre": "Freirina",
+    "provincia_codigo": "033",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Freirina",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03304",
+    "comuna_nombre": "Huasco",
+    "provincia_codigo": "033",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Huasco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03103",
+    "comuna_nombre": "Tierra Amarilla",
+    "provincia_codigo": "031",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Tierra Amarilla",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "03301",
+    "comuna_nombre": "Vallenar",
+    "provincia_codigo": "033",
+    "region_codigo": "03",
+    "region_nombre": "Atacama",
+    "municipalidad": "Municipalidad de Vallenar",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04103",
+    "comuna_nombre": "Andacollo",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Andacollo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04202",
+    "comuna_nombre": "Canela",
+    "provincia_codigo": "042",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Canela",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04302",
+    "comuna_nombre": "Combarbalá",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Combarbalá",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04102",
+    "comuna_nombre": "Coquimbo",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Coquimbo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04201",
+    "comuna_nombre": "Illapel",
+    "provincia_codigo": "042",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Illapel",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04104",
+    "comuna_nombre": "La Higuera",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de La Higuera",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04101",
+    "comuna_nombre": "La Serena",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de La Serena",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04203",
+    "comuna_nombre": "Los Vilos",
+    "provincia_codigo": "042",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Los Vilos",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04303",
+    "comuna_nombre": "Monte Patria",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Monte Patria",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04301",
+    "comuna_nombre": "Ovalle",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Ovalle",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04105",
+    "comuna_nombre": "Paiguano",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Paiguano",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04304",
+    "comuna_nombre": "Punitaqui",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Punitaqui",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04305",
+    "comuna_nombre": "Río Hurtado",
+    "provincia_codigo": "043",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Río Hurtado",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04204",
+    "comuna_nombre": "Salamanca",
+    "provincia_codigo": "042",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Salamanca",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "04106",
+    "comuna_nombre": "Vicuña",
+    "provincia_codigo": "041",
+    "region_codigo": "04",
+    "region_nombre": "Coquimbo",
+    "municipalidad": "Municipalidad de Vicuña",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05602",
+    "comuna_nombre": "Algarrobo",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Algarrobo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05402",
+    "comuna_nombre": "Cabildo",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Cabildo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05502",
+    "comuna_nombre": "Calera",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Calera",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05302",
+    "comuna_nombre": "Calle Larga",
+    "provincia_codigo": "053",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Calle Larga",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05603",
+    "comuna_nombre": "Cartagena",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Cartagena",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05102",
+    "comuna_nombre": "Casablanca",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Casablanca",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05702",
+    "comuna_nombre": "Catemu",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Catemu",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05103",
+    "comuna_nombre": "Concón",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Concón",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05604",
+    "comuna_nombre": "El Quisco",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de El Quisco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05605",
+    "comuna_nombre": "El Tabo",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de El Tabo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05503",
+    "comuna_nombre": "Hijuelas",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Hijuelas",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05201",
+    "comuna_nombre": "Isla de Pascua",
+    "provincia_codigo": "052",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Isla de Pascua",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05104",
+    "comuna_nombre": "Juan Fernández",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Juan Fernández",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05504",
+    "comuna_nombre": "La Cruz",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de La Cruz",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05401",
+    "comuna_nombre": "La Ligua",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de La Ligua",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05802",
+    "comuna_nombre": "Limache",
+    "provincia_codigo": "058",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Limache",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05703",
+    "comuna_nombre": "Llaillay",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Llaillay",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05301",
+    "comuna_nombre": "Los Andes",
+    "provincia_codigo": "053",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Los Andes",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05506",
+    "comuna_nombre": "Nogales",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Nogales",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05803",
+    "comuna_nombre": "Olmué",
+    "provincia_codigo": "058",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Olmué",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05704",
+    "comuna_nombre": "Panquehue",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Panquehue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05403",
+    "comuna_nombre": "Papudo",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Papudo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05404",
+    "comuna_nombre": "Petorca",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Petorca",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05105",
+    "comuna_nombre": "Puchuncaví",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Puchuncaví",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05705",
+    "comuna_nombre": "Putaendo",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Putaendo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05501",
+    "comuna_nombre": "Quillota",
+    "provincia_codigo": "055",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Quillota",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05801",
+    "comuna_nombre": "Quilpué",
+    "provincia_codigo": "058",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Quilpué",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05107",
+    "comuna_nombre": "Quintero",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Quintero",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05303",
+    "comuna_nombre": "Rinconada",
+    "provincia_codigo": "053",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Rinconada",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05601",
+    "comuna_nombre": "San Antonio",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de San Antonio",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05304",
+    "comuna_nombre": "San Esteban",
+    "provincia_codigo": "053",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de San Esteban",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05701",
+    "comuna_nombre": "San Felipe",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de San Felipe",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05706",
+    "comuna_nombre": "Santa María",
+    "provincia_codigo": "057",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Santa María",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05606",
+    "comuna_nombre": "Santo Domingo",
+    "provincia_codigo": "056",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Santo Domingo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05101",
+    "comuna_nombre": "Valparaíso",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Valparaíso",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05804",
+    "comuna_nombre": "Villa Alemana",
+    "provincia_codigo": "058",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Villa Alemana",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05109",
+    "comuna_nombre": "Viña del Mar",
+    "provincia_codigo": "051",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Viña del Mar",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "05405",
+    "comuna_nombre": "Zapallar",
+    "provincia_codigo": "054",
+    "region_codigo": "05",
+    "region_nombre": "Valparaíso",
+    "municipalidad": "Municipalidad de Zapallar",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06303",
+    "comuna_nombre": "Chimbarongo",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Chimbarongo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06302",
+    "comuna_nombre": "Chépica",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Chépica",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06102",
+    "comuna_nombre": "Codegua",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Codegua",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06103",
+    "comuna_nombre": "Coinco",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Coinco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06104",
+    "comuna_nombre": "Coltauco",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Coltauco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06105",
+    "comuna_nombre": "Doñihue",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Doñihue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06106",
+    "comuna_nombre": "Graneros",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Graneros",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06202",
+    "comuna_nombre": "La Estrella",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de La Estrella",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06107",
+    "comuna_nombre": "Las Cabras",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Las Cabras",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06203",
+    "comuna_nombre": "Litueche",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Litueche",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06304",
+    "comuna_nombre": "Lolol",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Lolol",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06108",
+    "comuna_nombre": "Machalí",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Machalí",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06109",
+    "comuna_nombre": "Malloa",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Malloa",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06204",
+    "comuna_nombre": "Marchihue",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Marchihue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06110",
+    "comuna_nombre": "Mostazal",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Mostazal",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06305",
+    "comuna_nombre": "Nancagua",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Nancagua",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06205",
+    "comuna_nombre": "Navidad",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Navidad",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06111",
+    "comuna_nombre": "Olivar",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Olivar",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06306",
+    "comuna_nombre": "Palmilla",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Palmilla",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06206",
+    "comuna_nombre": "Paredones",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Paredones",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06307",
+    "comuna_nombre": "Peralillo",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Peralillo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06112",
+    "comuna_nombre": "Peumo",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Peumo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06113",
+    "comuna_nombre": "Pichidegua",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Pichidegua",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06201",
+    "comuna_nombre": "Pichilemu",
+    "provincia_codigo": "062",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Pichilemu",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06308",
+    "comuna_nombre": "Placilla",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Placilla",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06309",
+    "comuna_nombre": "Pumanque",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Pumanque",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06114",
+    "comuna_nombre": "Quinta de Tilcoco",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Quinta de Tilcoco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06101",
+    "comuna_nombre": "Rancagua",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Rancagua",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06115",
+    "comuna_nombre": "Rengo",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Rengo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06116",
+    "comuna_nombre": "Requínoa",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Requínoa",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06301",
+    "comuna_nombre": "San Fernando",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de San Fernando",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06117",
+    "comuna_nombre": "San Vicente",
+    "provincia_codigo": "061",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de San Vicente",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "06310",
+    "comuna_nombre": "Santa Cruz",
+    "provincia_codigo": "063",
+    "region_codigo": "06",
+    "region_nombre": "Del Libertador Gral. Bernardo O’Higgins",
+    "municipalidad": "Municipalidad de Santa Cruz",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07201",
+    "comuna_nombre": "Cauquenes",
+    "provincia_codigo": "072",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Cauquenes",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07202",
+    "comuna_nombre": "Chanco",
+    "provincia_codigo": "072",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Chanco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07402",
+    "comuna_nombre": "Colbún",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Colbún",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07102",
+    "comuna_nombre": "Constitución",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Constitución",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07103",
+    "comuna_nombre": "Curepto",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Curepto",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07301",
+    "comuna_nombre": "Curicó",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Curicó",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07104",
+    "comuna_nombre": "Empedrado",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Empedrado",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07302",
+    "comuna_nombre": "Hualañé",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Hualañé",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07303",
+    "comuna_nombre": "Licantén",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Licantén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07401",
+    "comuna_nombre": "Linares",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Linares",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07403",
+    "comuna_nombre": "Longaví",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Longaví",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07105",
+    "comuna_nombre": "Maule",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Maule",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07304",
+    "comuna_nombre": "Molina",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Molina",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07404",
+    "comuna_nombre": "Parral",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Parral",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07106",
+    "comuna_nombre": "Pelarco",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Pelarco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07203",
+    "comuna_nombre": "Pelluhue",
+    "provincia_codigo": "072",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Pelluhue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07107",
+    "comuna_nombre": "Pencahue",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Pencahue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07305",
+    "comuna_nombre": "Rauco",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Rauco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07405",
+    "comuna_nombre": "Retiro",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Retiro",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07306",
+    "comuna_nombre": "Romeral",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Romeral",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07108",
+    "comuna_nombre": "Río Claro",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Río Claro",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07307",
+    "comuna_nombre": "Sagrada Familia",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Sagrada Familia",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07109",
+    "comuna_nombre": "San Clemente",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de San Clemente",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07406",
+    "comuna_nombre": "San Javier",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de San Javier",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07110",
+    "comuna_nombre": "San Rafael",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de San Rafael",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07101",
+    "comuna_nombre": "Talca",
+    "provincia_codigo": "071",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Talca",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07308",
+    "comuna_nombre": "Teno",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Teno",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07309",
+    "comuna_nombre": "Vichuquén",
+    "provincia_codigo": "073",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Vichuquén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07407",
+    "comuna_nombre": "Villa Alegre",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Villa Alegre",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "07408",
+    "comuna_nombre": "Yerbas Buenas",
+    "provincia_codigo": "074",
+    "region_codigo": "07",
+    "region_nombre": "Del Maule",
+    "municipalidad": "Municipalidad de Yerbas Buenas",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08314",
+    "comuna_nombre": "Alto Biobío",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Alto Biobío",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08302",
+    "comuna_nombre": "Antuco",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Antuco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08202",
+    "comuna_nombre": "Arauco",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Arauco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08303",
+    "comuna_nombre": "Cabrero",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Cabrero",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08203",
+    "comuna_nombre": "Cañete",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Cañete",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08103",
+    "comuna_nombre": "Chiguayante",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Chiguayante",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08101",
+    "comuna_nombre": "Concepción",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Concepción",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08204",
+    "comuna_nombre": "Contulmo",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Contulmo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08102",
+    "comuna_nombre": "Coronel",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Coronel",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08205",
+    "comuna_nombre": "Curanilahue",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Curanilahue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08104",
+    "comuna_nombre": "Florida",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Florida",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08112",
+    "comuna_nombre": "Hualpén",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Hualpén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08105",
+    "comuna_nombre": "Hualqui",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Hualqui",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08304",
+    "comuna_nombre": "Laja",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Laja",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08201",
+    "comuna_nombre": "Lebu",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Lebu",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08206",
+    "comuna_nombre": "Los Álamos",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Los Álamos",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08301",
+    "comuna_nombre": "Los Ángeles",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Los Ángeles",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08106",
+    "comuna_nombre": "Lota",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Lota",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08305",
+    "comuna_nombre": "Mulchén",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Mulchén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08306",
+    "comuna_nombre": "Nacimiento",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Nacimiento",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08307",
+    "comuna_nombre": "Negrete",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Negrete",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08107",
+    "comuna_nombre": "Penco",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Penco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08308",
+    "comuna_nombre": "Quilaco",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Quilaco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08309",
+    "comuna_nombre": "Quilleco",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Quilleco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08108",
+    "comuna_nombre": "San Pedro de la Paz",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de San Pedro de la Paz",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08310",
+    "comuna_nombre": "San Rosendo",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de San Rosendo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08311",
+    "comuna_nombre": "Santa Bárbara",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Santa Bárbara",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08109",
+    "comuna_nombre": "Santa Juana",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Santa Juana",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08110",
+    "comuna_nombre": "Talcahuano",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Talcahuano",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08207",
+    "comuna_nombre": "Tirúa",
+    "provincia_codigo": "082",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Tirúa",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08111",
+    "comuna_nombre": "Tomé",
+    "provincia_codigo": "081",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Tomé",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08312",
+    "comuna_nombre": "Tucapel",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Tucapel",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "08313",
+    "comuna_nombre": "Yumbel",
+    "provincia_codigo": "083",
+    "region_codigo": "08",
+    "region_nombre": "Del Biobío",
+    "municipalidad": "Municipalidad de Yumbel",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09201",
+    "comuna_nombre": "Angol",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Angol",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09102",
+    "comuna_nombre": "Carahue",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Carahue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09121",
+    "comuna_nombre": "Cholchol",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Cholchol",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09202",
+    "comuna_nombre": "Collipulli",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Collipulli",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09103",
+    "comuna_nombre": "Cunco",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Cunco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09203",
+    "comuna_nombre": "Curacautín",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Curacautín",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09104",
+    "comuna_nombre": "Curarrehue",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Curarrehue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09204",
+    "comuna_nombre": "Ercilla",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Ercilla",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09105",
+    "comuna_nombre": "Freire",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Freire",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09106",
+    "comuna_nombre": "Galvarino",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Galvarino",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09107",
+    "comuna_nombre": "Gorbea",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Gorbea",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09108",
+    "comuna_nombre": "Lautaro",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Lautaro",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09109",
+    "comuna_nombre": "Loncoche",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Loncoche",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09205",
+    "comuna_nombre": "Lonquimay",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Lonquimay",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09206",
+    "comuna_nombre": "Los Sauces",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Los Sauces",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09207",
+    "comuna_nombre": "Lumaco",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Lumaco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09110",
+    "comuna_nombre": "Melipeuco",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Melipeuco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09111",
+    "comuna_nombre": "Nueva Imperial",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Nueva Imperial",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09112",
+    "comuna_nombre": "Padre las Casas",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Padre las Casas",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09113",
+    "comuna_nombre": "Perquenco",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Perquenco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09114",
+    "comuna_nombre": "Pitrufquén",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Pitrufquén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09115",
+    "comuna_nombre": "Pucón",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Pucón",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09208",
+    "comuna_nombre": "Purén",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Purén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09209",
+    "comuna_nombre": "Renaico",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Renaico",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09116",
+    "comuna_nombre": "Saavedra",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Saavedra",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09101",
+    "comuna_nombre": "Temuco",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Temuco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09117",
+    "comuna_nombre": "Teodoro Schmidt",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Teodoro Schmidt",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09118",
+    "comuna_nombre": "Toltén",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Toltén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09210",
+    "comuna_nombre": "Traiguén",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Traiguén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09211",
+    "comuna_nombre": "Victoria",
+    "provincia_codigo": "092",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Victoria",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09119",
+    "comuna_nombre": "Vilcún",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Vilcún",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "09120",
+    "comuna_nombre": "Villarrica",
+    "provincia_codigo": "091",
+    "region_codigo": "09",
+    "region_nombre": "De la Araucanía",
+    "municipalidad": "Municipalidad de Villarrica",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10202",
+    "comuna_nombre": "Ancud",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Ancud",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10102",
+    "comuna_nombre": "Calbuco",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Calbuco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10201",
+    "comuna_nombre": "Castro",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Castro",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10401",
+    "comuna_nombre": "Chaitén",
+    "provincia_codigo": "104",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Chaitén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10203",
+    "comuna_nombre": "Chonchi",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Chonchi",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10103",
+    "comuna_nombre": "Cochamó",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Cochamó",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10204",
+    "comuna_nombre": "Curaco de Vélez",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Curaco de Vélez",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10205",
+    "comuna_nombre": "Dalcahue",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Dalcahue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10104",
+    "comuna_nombre": "Fresia",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Fresia",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10105",
+    "comuna_nombre": "Frutillar",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Frutillar",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10402",
+    "comuna_nombre": "Futaleufú",
+    "provincia_codigo": "104",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Futaleufú",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10403",
+    "comuna_nombre": "Hualaihué",
+    "provincia_codigo": "104",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Hualaihué",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10107",
+    "comuna_nombre": "Llanquihue",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Llanquihue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10106",
+    "comuna_nombre": "Los Muermos",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Los Muermos",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10108",
+    "comuna_nombre": "Maullín",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Maullín",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10301",
+    "comuna_nombre": "Osorno",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Osorno",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10404",
+    "comuna_nombre": "Palena",
+    "provincia_codigo": "104",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Palena",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10101",
+    "comuna_nombre": "Puerto Montt",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Puerto Montt",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10302",
+    "comuna_nombre": "Puerto Octay",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Puerto Octay",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10109",
+    "comuna_nombre": "Puerto Varas",
+    "provincia_codigo": "101",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Puerto Varas",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10206",
+    "comuna_nombre": "Puqueldón",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Puqueldón",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10303",
+    "comuna_nombre": "Purranque",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Purranque",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10304",
+    "comuna_nombre": "Puyehue",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Puyehue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10207",
+    "comuna_nombre": "Queilén",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Queilén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10208",
+    "comuna_nombre": "Quellón",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Quellón",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10209",
+    "comuna_nombre": "Quemchi",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Quemchi",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10210",
+    "comuna_nombre": "Quinchao",
+    "provincia_codigo": "102",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Quinchao",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10305",
+    "comuna_nombre": "Río Negro",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de Río Negro",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10306",
+    "comuna_nombre": "San Juan de la Costa",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de San Juan de la Costa",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "10307",
+    "comuna_nombre": "San Pablo",
+    "provincia_codigo": "103",
+    "region_codigo": "10",
+    "region_nombre": "De los Lagos",
+    "municipalidad": "Municipalidad de San Pablo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11201",
+    "comuna_nombre": "Aysén",
+    "provincia_codigo": "112",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Aysén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11401",
+    "comuna_nombre": "Chile Chico",
+    "provincia_codigo": "114",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Chile Chico",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11202",
+    "comuna_nombre": "Cisnes",
+    "provincia_codigo": "112",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Cisnes",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11301",
+    "comuna_nombre": "Cochrane",
+    "provincia_codigo": "113",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Cochrane",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11101",
+    "comuna_nombre": "Coihaique",
+    "provincia_codigo": "111",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Coihaique",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11203",
+    "comuna_nombre": "Guaitecas",
+    "provincia_codigo": "112",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Guaitecas",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11102",
+    "comuna_nombre": "Lago Verde",
+    "provincia_codigo": "111",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Lago Verde",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11302",
+    "comuna_nombre": "O’Higgins",
+    "provincia_codigo": "113",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de O’Higgins",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11402",
+    "comuna_nombre": "Río Ibáñez",
+    "provincia_codigo": "114",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Río Ibáñez",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "11303",
+    "comuna_nombre": "Tortel",
+    "provincia_codigo": "113",
+    "region_codigo": "11",
+    "region_nombre": "Aysén del Gral. Carlos Ibáñez del Campo",
+    "municipalidad": "Municipalidad de Tortel",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12201",
+    "comuna_nombre": "Cabo de Hornos",
+    "provincia_codigo": "122",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Cabo de Hornos",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12102",
+    "comuna_nombre": "Laguna Blanca",
+    "provincia_codigo": "121",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Laguna Blanca",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12401",
+    "comuna_nombre": "Natales",
+    "provincia_codigo": "124",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Natales",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12301",
+    "comuna_nombre": "Porvenir",
+    "provincia_codigo": "123",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Porvenir",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12302",
+    "comuna_nombre": "Primavera",
+    "provincia_codigo": "123",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Primavera",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12101",
+    "comuna_nombre": "Punta Arenas",
+    "provincia_codigo": "121",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Punta Arenas",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12103",
+    "comuna_nombre": "Río Verde",
+    "provincia_codigo": "121",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Río Verde",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12104",
+    "comuna_nombre": "San Gregorio",
+    "provincia_codigo": "121",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de San Gregorio",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12303",
+    "comuna_nombre": "Timaukel",
+    "provincia_codigo": "123",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Timaukel",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "12402",
+    "comuna_nombre": "Torres del Paine",
+    "provincia_codigo": "124",
+    "region_codigo": "12",
+    "region_nombre": "Magallanes y de la Antártica Chilena",
+    "municipalidad": "Municipalidad de Torres del Paine",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13502",
+    "comuna_nombre": "Alhué",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Alhué",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13402",
+    "comuna_nombre": "Buin",
+    "provincia_codigo": "134",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Buin",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13403",
+    "comuna_nombre": "Calera de Tango",
+    "provincia_codigo": "134",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Calera de Tango",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13102",
+    "comuna_nombre": "Cerrillos",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Cerrillos",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13103",
+    "comuna_nombre": "Cerro Navia",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Cerro Navia",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13301",
+    "comuna_nombre": "Colina",
+    "provincia_codigo": "133",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Colina",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13104",
+    "comuna_nombre": "Conchalí",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Conchalí",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13503",
+    "comuna_nombre": "Curacaví",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Curacaví",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13105",
+    "comuna_nombre": "El Bosque",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de El Bosque",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13602",
+    "comuna_nombre": "El Monte",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de El Monte",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13106",
+    "comuna_nombre": "Estación Central",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Estación Central",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13107",
+    "comuna_nombre": "Huechuraba",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Huechuraba",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13108",
+    "comuna_nombre": "Independencia",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Independencia",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13603",
+    "comuna_nombre": "Isla de Maipo",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Isla de Maipo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13109",
+    "comuna_nombre": "La Cisterna",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de La Cisterna",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13110",
+    "comuna_nombre": "La Florida",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de La Florida",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13111",
+    "comuna_nombre": "La Granja",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de La Granja",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13112",
+    "comuna_nombre": "La Pintana",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de La Pintana",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13113",
+    "comuna_nombre": "La Reina",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de La Reina",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13302",
+    "comuna_nombre": "Lampa",
+    "provincia_codigo": "133",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Lampa",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13114",
+    "comuna_nombre": "Las Condes",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Las Condes",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13115",
+    "comuna_nombre": "Lo Barnechea",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Lo Barnechea",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13116",
+    "comuna_nombre": "Lo Espejo",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Lo Espejo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13117",
+    "comuna_nombre": "Lo Prado",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Lo Prado",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13118",
+    "comuna_nombre": "Macul",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Macul",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13119",
+    "comuna_nombre": "Maipú",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Maipú",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13504",
+    "comuna_nombre": "María Pinto",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de María Pinto",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13501",
+    "comuna_nombre": "Melipilla",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Melipilla",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13604",
+    "comuna_nombre": "Padre Hurtado",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Padre Hurtado",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13404",
+    "comuna_nombre": "Paine",
+    "provincia_codigo": "134",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Paine",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13121",
+    "comuna_nombre": "Pedro Aguirre Cerda",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Pedro Aguirre Cerda",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13605",
+    "comuna_nombre": "Peñaflor",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Peñaflor",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13122",
+    "comuna_nombre": "Peñalolén",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Peñalolén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13202",
+    "comuna_nombre": "Pirque",
+    "provincia_codigo": "132",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Pirque",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13123",
+    "comuna_nombre": "Providencia",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Providencia",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13124",
+    "comuna_nombre": "Pudahuel",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Pudahuel",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13201",
+    "comuna_nombre": "Puente Alto",
+    "provincia_codigo": "132",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Puente Alto",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13125",
+    "comuna_nombre": "Quilicura",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Quilicura",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13126",
+    "comuna_nombre": "Quinta Normal",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Quinta Normal",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13127",
+    "comuna_nombre": "Recoleta",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Recoleta",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13128",
+    "comuna_nombre": "Renca",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Renca",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13401",
+    "comuna_nombre": "San Bernardo",
+    "provincia_codigo": "134",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de San Bernardo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13129",
+    "comuna_nombre": "San Joaquín",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de San Joaquín",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13203",
+    "comuna_nombre": "San José de Maipo",
+    "provincia_codigo": "132",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de San José de Maipo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13130",
+    "comuna_nombre": "San Miguel",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de San Miguel",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13505",
+    "comuna_nombre": "San Pedro",
+    "provincia_codigo": "135",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de San Pedro",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13131",
+    "comuna_nombre": "San Ramón",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de San Ramón",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13101",
+    "comuna_nombre": "Santiago Centro",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Santiago Centro",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13601",
+    "comuna_nombre": "Talagante",
+    "provincia_codigo": "136",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Talagante",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13303",
+    "comuna_nombre": "Tiltil",
+    "provincia_codigo": "133",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Tiltil",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13132",
+    "comuna_nombre": "Vitacura",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Vitacura",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "13120",
+    "comuna_nombre": "Ñuñoa",
+    "provincia_codigo": "131",
+    "region_codigo": "13",
+    "region_nombre": "Metropolitana de Santiago",
+    "municipalidad": "Municipalidad de Ñuñoa",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14102",
+    "comuna_nombre": "Corral",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Corral",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14202",
+    "comuna_nombre": "Futrono",
+    "provincia_codigo": "142",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Futrono",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14201",
+    "comuna_nombre": "La Unión",
+    "provincia_codigo": "142",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de La Unión",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14203",
+    "comuna_nombre": "Lago Ranco",
+    "provincia_codigo": "142",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Lago Ranco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14103",
+    "comuna_nombre": "Lanco",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Lanco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14104",
+    "comuna_nombre": "Los Lagos",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Los Lagos",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14106",
+    "comuna_nombre": "Mariquina",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Mariquina",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14105",
+    "comuna_nombre": "Máfil",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Máfil",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14107",
+    "comuna_nombre": "Paillaco",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Paillaco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14108",
+    "comuna_nombre": "Panguipulli",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Panguipulli",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14204",
+    "comuna_nombre": "Río Bueno",
+    "provincia_codigo": "142",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Río Bueno",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "14101",
+    "comuna_nombre": "Valdivia",
+    "provincia_codigo": "141",
+    "region_codigo": "14",
+    "region_nombre": "De los Ríos",
+    "municipalidad": "Municipalidad de Valdivia",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "15101",
+    "comuna_nombre": "Arica",
+    "provincia_codigo": "151",
+    "region_codigo": "15",
+    "region_nombre": "Arica y Parinacota",
+    "municipalidad": "Municipalidad de Arica",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "15102",
+    "comuna_nombre": "Camarones",
+    "provincia_codigo": "151",
+    "region_codigo": "15",
+    "region_nombre": "Arica y Parinacota",
+    "municipalidad": "Municipalidad de Camarones",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "15202",
+    "comuna_nombre": "General Lagos",
+    "provincia_codigo": "152",
+    "region_codigo": "15",
+    "region_nombre": "Arica y Parinacota",
+    "municipalidad": "Municipalidad de General Lagos",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "15201",
+    "comuna_nombre": "Putre",
+    "provincia_codigo": "152",
+    "region_codigo": "15",
+    "region_nombre": "Arica y Parinacota",
+    "municipalidad": "Municipalidad de Putre",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16102",
+    "comuna_nombre": "Bulnes",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Bulnes",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16101",
+    "comuna_nombre": "Chillán",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Chillán",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16103",
+    "comuna_nombre": "Chillán Viejo",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Chillán Viejo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16202",
+    "comuna_nombre": "Cobquecura",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Cobquecura",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16203",
+    "comuna_nombre": "Coelemu",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Coelemu",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16302",
+    "comuna_nombre": "Coihueco",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Coihueco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16104",
+    "comuna_nombre": "El Carmen",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de El Carmen",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16204",
+    "comuna_nombre": "Ninhue",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Ninhue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16105",
+    "comuna_nombre": "Pemuco",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Pemuco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16106",
+    "comuna_nombre": "Pinto",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Pinto",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16205",
+    "comuna_nombre": "Portezuelo",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Portezuelo",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16107",
+    "comuna_nombre": "Quillón",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Quillón",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16201",
+    "comuna_nombre": "Quirihue",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Quirihue",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16206",
+    "comuna_nombre": "Ránquil",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Ránquil",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16301",
+    "comuna_nombre": "San Carlos",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de San Carlos",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16304",
+    "comuna_nombre": "San Fabián",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de San Fabián",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16108",
+    "comuna_nombre": "San Ignacio",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de San Ignacio",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16305",
+    "comuna_nombre": "San Nicolás",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de San Nicolás",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16207",
+    "comuna_nombre": "Treguaco",
+    "provincia_codigo": "162",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Treguaco",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16109",
+    "comuna_nombre": "Yungay",
+    "provincia_codigo": "161",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Yungay",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  },
+  {
+    "comuna_codigo": "16303",
+    "comuna_nombre": "Ñiquén",
+    "provincia_codigo": "163",
+    "region_codigo": "16",
+    "region_nombre": "Ñuble",
+    "municipalidad": "Municipalidad de Ñiquén",
+    "sitio_web": null,
+    "fuente": "munichile.cl"
+  }
+]
