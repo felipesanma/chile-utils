@@ -1,0 +1,192 @@
+[
+  {
+    "fecha": "2022-01-01",
+    "nombre": "Año Nuevo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-04-15",
+    "nombre": "Viernes Santo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-04-16",
+    "nombre": "Sábado Santo",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-05-01",
+    "nombre": "Día Nacional del Trabajo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-05-21",
+    "nombre": "Día de las Glorias Navales",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-06-07",
+    "nombre": "Asalto y Toma del Morro de Arica",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "regional",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-06-21",
+    "nombre": "Día Nacional de los Pueblos Indígenas",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-06-29",
+    "nombre": "San Pedro y San Pablo",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-07-16",
+    "nombre": "Día de la Virgen del Carmen",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-08-15",
+    "nombre": "Asunción de la Virgen",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-08-20",
+    "nombre": "Día de la Región de Ñuble",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "regional",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-09-18",
+    "nombre": "Independencia Nacional",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-09-19",
+    "nombre": "Día de las Glorias del Ejército",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-09-21",
+    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "regional",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-10-12",
+    "nombre": "Día del Encuentro de Dos Mundos",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-10-31",
+    "nombre": "Día de las Iglesias Evangélicas y Protestantes",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-11-01",
+    "nombre": "Día de Todos los Santos",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-12-08",
+    "nombre": "Inmaculada Concepción",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2022-12-25",
+    "nombre": "Navidad",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2022,
+    "fuente": "feriados.io"
+  }
+]

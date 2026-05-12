@@ -35,6 +35,12 @@ territorio/
   provincias.json
   comunas.json
   comunas-con-coordenadas.json
+feriados/
+  feriados.json
+  feriados-2000.json
+  feriados-YYYY.json
+  metadata.json
+  README.md
 ```
 
 ---
@@ -176,6 +182,35 @@ Ver documentación específica en:
 
 ```txt
 territorio/README.md
+```
+
+---
+
+## Feriados
+
+Datasets de feriados de Chile desde el año 2000 en adelante, generados desde feriados.io y normalizados en JSON.
+
+Archivos disponibles:
+
+```txt
+feriados/feriados.json
+feriados/feriados-2000.json
+feriados/feriados-YYYY.json
+feriados/metadata.json
+```
+
+Fuente:
+
+```txt
+https://feriados.io/docs
+```
+
+La generación se ejecuta manualmente con `scripts/build_feriados.py` usando la variable de entorno `FERIADOS_IO_API_KEY`. Puedes cargarla desde un archivo `.env` local, que está ignorado por Git.
+
+Ver documentación específica en:
+
+```txt
+feriados/README.md
 ```
 
 ---
