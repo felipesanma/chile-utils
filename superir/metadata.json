@@ -1,7 +1,7 @@
 {
   "source_page": "https://www.boletinconcursal.cl/boletin/procedimientos",
   "source_endpoint": "https://www.boletinconcursal.cl/boletin/getRegistroDiarioPublicacionJson",
-  "downloaded_at": "2026-05-21T11:38:06.835364+00:00",
+  "downloaded_at": "2026-05-22T11:19:25.311520+00:00",
   "records_type": "list",
   "compression": "gzip",
   "output_file": "superir/publicaciones.json.gz",
