@@ -150,22 +150,22 @@ Dataset obtenido desde el Boletín Concursal público de Chile.
 Archivos:
 
 ```txt
-superir/publicaciones.json.gz
+superir/publicaciones.csv.gz
 superir/metadata.json
 ```
 
-`publicaciones.json.gz` está comprimido con gzip porque el JSON original supera el tamaño recomendado para Git normal.
+`publicaciones.csv.gz` está comprimido con gzip para mantener el dataset liviano y fácil de descargar.
 
 Ejemplo Python:
 
 ```python
+import csv
 import gzip
-import json
 import urllib.request
 
-url = "https://raw.githubusercontent.com/felipesanma/chile-utils/main/superir/publicaciones.json.gz"
+url = "https://raw.githubusercontent.com/felipesanma/chile-utils/main/superir/publicaciones.csv.gz"
 
 with urllib.request.urlopen(url) as response:
-    with gzip.GzipFile(fileobj=response) as gz:
-        publicaciones = json.load(gz)
+    with gzip.open(response, mode="rt", encoding="utf-8") as gz:
+        publicaciones = list(csv.DictReader(gz))
 ```

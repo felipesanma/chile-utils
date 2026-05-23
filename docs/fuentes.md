@@ -115,7 +115,7 @@ https://www.boletinconcursal.cl/boletin/procedimientos
 Endpoint:
 
 ```txt
-https://www.boletinconcursal.cl/boletin/getRegistroDiarioPublicacionJson
+https://www.boletinconcursal.cl/boletin/getRegistroDiarioPublicacionCsv
 ```
 
 Script:
@@ -128,7 +128,8 @@ Notas:
 
 * El script obtiene cookie de sesión con `requests.Session()`.
 * El token CSRF se extrae desde el HTML inicial.
-* El archivo generado se guarda comprimido como `superir/publicaciones.json.gz`.
+* El archivo generado se guarda comprimido como `superir/publicaciones.csv.gz`.
+* Si la fuente presenta problemas temporales de certificado TLS, se puede ejecutar con `SUPERIR_ALLOW_INSECURE_TLS=1`.
 
 ---
 

@@ -61,6 +61,12 @@ FERIADOS_END_YEAR=2030 python scripts/build_feriados.py
 python scripts/download_boletin_json.py
 ```
 
+Si la fuente presenta problemas temporales de certificado TLS:
+
+```bash
+SUPERIR_ALLOW_INSECURE_TLS=1 python scripts/download_boletin_json.py
+```
+
 ---
 
 # Validaciones Recomendadas

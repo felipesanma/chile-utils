@@ -3,7 +3,7 @@ name: Update Boletin Concursal
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 8 * * *"
+    - cron: "17 12 * * 5"
 
 permissions:
   contents: write
@@ -24,7 +24,9 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
 
-      - name: Download Boletin Concursal JSON
+      - name: Download Boletin Concursal CSV
+        env:
+          SUPERIR_ALLOW_INSECURE_TLS: "1"
         run: python scripts/download_boletin_json.py
 
       - name: Commit and push changes
@@ -32,8 +34,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git rm --ignore-unmatch superir/publicaciones.json
-          git add superir/publicaciones.json.gz superir/metadata.json
+          git rm --ignore-unmatch superir/publicaciones.json superir/publicaciones.json.gz superir/publicaciones.csv
+          git add superir/publicaciones.csv.gz superir/metadata.json
 
           if git diff --cached --quiet; then
             echo "No hay cambios en los archivos generados."

@@ -33,7 +33,7 @@ feriados/
   metadata.json
 
 superir/
-  publicaciones.json.gz
+  publicaciones.csv.gz
   metadata.json
 ```
 
@@ -79,18 +79,18 @@ const comunas = await response.json();
 console.log(comunas);
 ```
 
-Ejemplo Python con JSON comprimido:
+Ejemplo Python con CSV comprimido:
 
 ```python
+import csv
 import gzip
-import json
 import urllib.request
 
-url = "https://raw.githubusercontent.com/felipesanma/chile-utils/main/superir/publicaciones.json.gz"
+url = "https://raw.githubusercontent.com/felipesanma/chile-utils/main/superir/publicaciones.csv.gz"
 
 with urllib.request.urlopen(url) as response:
-    with gzip.GzipFile(fileobj=response) as gz:
-        publicaciones = json.load(gz)
+    with gzip.open(response, mode="rt", encoding="utf-8") as gz:
+        publicaciones = list(csv.DictReader(gz))
 
 print(len(publicaciones))
 ```
