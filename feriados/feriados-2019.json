@@ -91,10 +91,10 @@
   },
   {
     "fecha": "2019-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2019,
     "fuente": "feriados.io"
@@ -115,16 +115,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2019,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2019-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2019,
     "fuente": "feriados.io"

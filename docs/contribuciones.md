@@ -49,7 +49,7 @@ set +a
 python scripts/build_feriados.py
 ```
 
-Con año final:
+Por defecto genera desde 2000 hasta el año actual más 3 años. Con año final personalizado:
 
 ```bash
 FERIADOS_END_YEAR=2030 python scripts/build_feriados.py

@@ -91,10 +91,10 @@
   },
   {
     "fecha": "2000-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2000,
     "fuente": "feriados.io"
@@ -115,16 +115,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2000,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2000-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2000,
     "fuente": "feriados.io"
@@ -271,10 +261,10 @@
   },
   {
     "fecha": "2001-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2001,
     "fuente": "feriados.io"
@@ -305,16 +295,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2001,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2001-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2001,
     "fuente": "feriados.io"
@@ -461,10 +441,10 @@
   },
   {
     "fecha": "2002-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2002,
     "fuente": "feriados.io"
@@ -485,16 +465,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2002,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2002-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2002,
     "fuente": "feriados.io"
@@ -641,10 +611,10 @@
   },
   {
     "fecha": "2003-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2003,
     "fuente": "feriados.io"
@@ -675,16 +645,6 @@
     "tipo": "national",
     "irrenunciable": false,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2003,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2003-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2003,
     "fuente": "feriados.io"
@@ -831,10 +791,10 @@
   },
   {
     "fecha": "2004-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2004,
     "fuente": "feriados.io"
@@ -855,16 +815,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2004,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2004-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2004,
     "fuente": "feriados.io"
@@ -1011,10 +961,10 @@
   },
   {
     "fecha": "2005-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2005,
     "fuente": "feriados.io"
@@ -1035,16 +985,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2005,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2005-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2005,
     "fuente": "feriados.io"
@@ -1191,10 +1131,10 @@
   },
   {
     "fecha": "2006-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2006,
     "fuente": "feriados.io"
@@ -1215,16 +1155,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2006,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2006-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2006,
     "fuente": "feriados.io"
@@ -1371,10 +1301,10 @@
   },
   {
     "fecha": "2007-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2007,
     "fuente": "feriados.io"
@@ -1405,16 +1335,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2007,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2007-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2007,
     "fuente": "feriados.io"
@@ -1561,10 +1481,10 @@
   },
   {
     "fecha": "2008-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2008,
     "fuente": "feriados.io"
@@ -1595,16 +1515,6 @@
     "tipo": "national",
     "irrenunciable": false,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2008,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2008-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2008,
     "fuente": "feriados.io"
@@ -1751,10 +1661,10 @@
   },
   {
     "fecha": "2009-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2009,
     "fuente": "feriados.io"
@@ -1775,16 +1685,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2009,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2009-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2009,
     "fuente": "feriados.io"
@@ -1931,10 +1831,10 @@
   },
   {
     "fecha": "2010-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2010,
     "fuente": "feriados.io"
@@ -1955,16 +1855,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2010,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2010-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2010,
     "fuente": "feriados.io"
@@ -2111,10 +2001,10 @@
   },
   {
     "fecha": "2011-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2011,
     "fuente": "feriados.io"
@@ -2135,16 +2025,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2011,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2011-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2011,
     "fuente": "feriados.io"
@@ -2291,10 +2171,10 @@
   },
   {
     "fecha": "2012-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2012,
     "fuente": "feriados.io"
@@ -2325,16 +2205,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2012,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2012-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2012,
     "fuente": "feriados.io"
@@ -2481,10 +2351,10 @@
   },
   {
     "fecha": "2013-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2013,
     "fuente": "feriados.io"
@@ -2505,16 +2375,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2013,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2013-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2013,
     "fuente": "feriados.io"
@@ -2661,10 +2521,10 @@
   },
   {
     "fecha": "2014-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2014,
     "fuente": "feriados.io"
@@ -2695,16 +2555,6 @@
     "tipo": "national",
     "irrenunciable": false,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2014,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2014-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2014,
     "fuente": "feriados.io"
@@ -2851,10 +2701,10 @@
   },
   {
     "fecha": "2015-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2015,
     "fuente": "feriados.io"
@@ -2875,16 +2725,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2015,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2015-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2015,
     "fuente": "feriados.io"
@@ -3031,10 +2871,10 @@
   },
   {
     "fecha": "2016-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2016,
     "fuente": "feriados.io"
@@ -3055,16 +2895,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2016,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2016-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2016,
     "fuente": "feriados.io"
@@ -3211,10 +3041,10 @@
   },
   {
     "fecha": "2017-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2017,
     "fuente": "feriados.io"
@@ -3235,16 +3065,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2017,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2017-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2017,
     "fuente": "feriados.io"
@@ -3391,10 +3211,10 @@
   },
   {
     "fecha": "2018-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2018,
     "fuente": "feriados.io"
@@ -3425,16 +3245,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2018,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2018-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2018,
     "fuente": "feriados.io"
@@ -3581,10 +3391,10 @@
   },
   {
     "fecha": "2019-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2019,
     "fuente": "feriados.io"
@@ -3605,16 +3415,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2019,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2019-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2019,
     "fuente": "feriados.io"
@@ -3761,10 +3561,10 @@
   },
   {
     "fecha": "2020-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2020,
     "fuente": "feriados.io"
@@ -3785,16 +3585,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2020,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2020-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2020,
     "fuente": "feriados.io"
@@ -3951,10 +3741,10 @@
   },
   {
     "fecha": "2021-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2021,
     "fuente": "feriados.io"
@@ -3975,16 +3765,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2021,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2021-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2021,
     "fuente": "feriados.io"
@@ -4141,10 +3921,10 @@
   },
   {
     "fecha": "2022-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2022,
     "fuente": "feriados.io"
@@ -4165,16 +3945,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2022,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2022-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2022,
     "fuente": "feriados.io"
@@ -4331,10 +4101,10 @@
   },
   {
     "fecha": "2023-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2023,
     "fuente": "feriados.io"
@@ -4355,16 +4125,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2023,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2023-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2023,
     "fuente": "feriados.io"
@@ -4521,10 +4281,10 @@
   },
   {
     "fecha": "2024-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2024,
     "fuente": "feriados.io"
@@ -4551,7 +4311,7 @@
   },
   {
     "fecha": "2024-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
+    "nombre": "Toma de posesión del Estrecho de Magallanes",
     "tipo": "regional",
     "irrenunciable": false,
     "ambito": "regional",
@@ -4711,10 +4471,10 @@
   },
   {
     "fecha": "2025-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2025,
     "fuente": "feriados.io"
@@ -4745,16 +4505,6 @@
     "tipo": "national",
     "irrenunciable": false,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2025,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2025-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2025,
     "fuente": "feriados.io"
@@ -4911,10 +4661,10 @@
   },
   {
     "fecha": "2026-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2026,
     "fuente": "feriados.io"
@@ -4935,16 +4685,6 @@
     "tipo": "national",
     "irrenunciable": true,
     "ambito": "national",
-    "pais": "CL",
-    "anio": 2026,
-    "fuente": "feriados.io"
-  },
-  {
-    "fecha": "2026-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
-    "tipo": "regional",
-    "irrenunciable": false,
-    "ambito": "regional",
     "pais": "CL",
     "anio": 2026,
     "fuente": "feriados.io"
@@ -4997,6 +4737,556 @@
     "ambito": "national",
     "pais": "CL",
     "anio": 2026,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-01-01",
+    "nombre": "Año Nuevo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-03-26",
+    "nombre": "Viernes Santo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-03-27",
+    "nombre": "Sábado Santo",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-05-01",
+    "nombre": "Día Nacional del Trabajo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-05-21",
+    "nombre": "Día de las Glorias Navales",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-06-07",
+    "nombre": "Asalto y Toma del Morro de Arica",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "regional",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-06-21",
+    "nombre": "Día Nacional de los Pueblos Indígenas",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-06-29",
+    "nombre": "San Pedro y San Pablo",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-07-16",
+    "nombre": "Día de la Virgen del Carmen",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-08-15",
+    "nombre": "Asunción de la Virgen",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-08-20",
+    "nombre": "Nacimiento del Prócer de la Independencia",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "communal",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-09-18",
+    "nombre": "Independencia Nacional",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-09-19",
+    "nombre": "Día de las Glorias del Ejército",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-10-12",
+    "nombre": "Día del Encuentro de Dos Mundos",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-10-31",
+    "nombre": "Día de las Iglesias Evangélicas y Protestantes",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-11-01",
+    "nombre": "Día de Todos los Santos",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-12-08",
+    "nombre": "Inmaculada Concepción",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2027-12-25",
+    "nombre": "Navidad",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2027,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-01-01",
+    "nombre": "Año Nuevo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-04-14",
+    "nombre": "Viernes Santo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-04-15",
+    "nombre": "Sábado Santo",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-05-01",
+    "nombre": "Día Nacional del Trabajo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-05-21",
+    "nombre": "Día de las Glorias Navales",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-06-07",
+    "nombre": "Asalto y Toma del Morro de Arica",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "regional",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-06-20",
+    "nombre": "Día Nacional de los Pueblos Indígenas",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-06-29",
+    "nombre": "San Pedro y San Pablo",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-07-16",
+    "nombre": "Día de la Virgen del Carmen",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-08-15",
+    "nombre": "Asunción de la Virgen",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-08-20",
+    "nombre": "Nacimiento del Prócer de la Independencia",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "communal",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-09-18",
+    "nombre": "Independencia Nacional",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-09-19",
+    "nombre": "Día de las Glorias del Ejército",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-10-12",
+    "nombre": "Día del Encuentro de Dos Mundos",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-10-31",
+    "nombre": "Día de las Iglesias Evangélicas y Protestantes",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-11-01",
+    "nombre": "Día de Todos los Santos",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-12-08",
+    "nombre": "Inmaculada Concepción",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2028-12-25",
+    "nombre": "Navidad",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2028,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-01-01",
+    "nombre": "Año Nuevo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-03-30",
+    "nombre": "Viernes Santo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-03-31",
+    "nombre": "Sábado Santo",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-05-01",
+    "nombre": "Día Nacional del Trabajo",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-05-21",
+    "nombre": "Día de las Glorias Navales",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-06-07",
+    "nombre": "Asalto y Toma del Morro de Arica",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "regional",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-06-21",
+    "nombre": "Día Nacional de los Pueblos Indígenas",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-06-29",
+    "nombre": "San Pedro y San Pablo",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-07-16",
+    "nombre": "Día de la Virgen del Carmen",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-08-15",
+    "nombre": "Asunción de la Virgen",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-08-20",
+    "nombre": "Nacimiento del Prócer de la Independencia",
+    "tipo": "regional",
+    "irrenunciable": false,
+    "ambito": "communal",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-09-17",
+    "nombre": "Feriado Adicional Fiestas Patrias",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-09-18",
+    "nombre": "Independencia Nacional",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-09-19",
+    "nombre": "Día de las Glorias del Ejército",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-10-12",
+    "nombre": "Día del Encuentro de Dos Mundos",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-10-31",
+    "nombre": "Día de las Iglesias Evangélicas y Protestantes",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-11-01",
+    "nombre": "Día de Todos los Santos",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-12-08",
+    "nombre": "Inmaculada Concepción",
+    "tipo": "national",
+    "irrenunciable": false,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
+    "fuente": "feriados.io"
+  },
+  {
+    "fecha": "2029-12-25",
+    "nombre": "Navidad",
+    "tipo": "national",
+    "irrenunciable": true,
+    "ambito": "national",
+    "pais": "CL",
+    "anio": 2029,
     "fuente": "feriados.io"
   }
 ]

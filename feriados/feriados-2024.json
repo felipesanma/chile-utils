@@ -101,10 +101,10 @@
   },
   {
     "fecha": "2024-08-20",
-    "nombre": "Día de la Región de Ñuble",
+    "nombre": "Nacimiento del Prócer de la Independencia",
     "tipo": "regional",
     "irrenunciable": false,
-    "ambito": "regional",
+    "ambito": "communal",
     "pais": "CL",
     "anio": 2024,
     "fuente": "feriados.io"
@@ -131,7 +131,7 @@
   },
   {
     "fecha": "2024-09-21",
-    "nombre": "Día de la Región de Magallanes y la Antártica Chilena",
+    "nombre": "Toma de posesión del Estrecho de Magallanes",
     "tipo": "regional",
     "irrenunciable": false,
     "ambito": "regional",

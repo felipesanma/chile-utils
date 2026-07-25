@@ -13,6 +13,7 @@ COUNTRY = "CL"
 SOURCE = "https://feriados.io/docs"
 SOURCE_API = "https://api.feriados.io/v1/CL/holidays/{year}"
 START_YEAR = 2000
+DEFAULT_FUTURE_YEARS = 3
 OUTPUT_DIR = Path(__file__).resolve().parents[1] / "feriados"
 DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -31,7 +32,7 @@ def get_api_key() -> str:
 def get_end_year() -> int:
     raw_end_year = os.environ.get("FERIADOS_END_YEAR", "").strip()
     if not raw_end_year:
-        return datetime.now().year
+        return datetime.now().year + DEFAULT_FUTURE_YEARS
 
     try:
         end_year = int(raw_end_year)
@@ -223,6 +224,12 @@ def write_json(path: Path, data: Any) -> None:
     )
 
 
+def remove_stale_annual_files(expected_files: set[str]) -> None:
+    for path in OUTPUT_DIR.glob("feriados-*.json"):
+        if path.name not in expected_files:
+            path.unlink()
+
+
 def utc_now_iso() -> str:
     return (
         datetime.now(timezone.utc)
@@ -271,8 +278,10 @@ def main() -> None:
 
     write_json(OUTPUT_DIR / "feriados.json", all_holidays)
     write_json(OUTPUT_DIR / "metadata.json", metadata)
+    remove_stale_annual_files(set(files))
 
     print(f"Feriados descargados: {len(all_holidays)}")
+    print(f"Años generados: {START_YEAR}-{end_year}")
     print(f"Archivos generados en {OUTPUT_DIR}")
 
 

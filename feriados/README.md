@@ -1,6 +1,6 @@
 # Feriados
 
-Datasets de feriados de Chile desde el año 2000 en adelante, generados desde feriados.io y normalizados en JSON.
+Datasets de feriados de Chile desde el año 2000 hasta tres años hacia adelante, generados desde feriados.io y normalizados en JSON.
 
 Fuente de datos:
 
@@ -31,7 +31,7 @@ feriados/
   README.md
 ```
 
-`feriados.json` contiene el consolidado ordenado por fecha ascendente. Los archivos `feriados-YYYY.json` contienen solo los feriados de ese año.
+`feriados.json` contiene el consolidado ordenado por fecha ascendente. Los archivos `feriados-YYYY.json` contienen solo los feriados de ese año. Por defecto, el generador descarga desde 2000 hasta el año actual más 3 años.
 
 ---
 
@@ -114,7 +114,7 @@ set +a
 python scripts/build_feriados.py
 ```
 
-Ejemplo con año final:
+Ejemplo con año final personalizado:
 
 ```bash
 set -a

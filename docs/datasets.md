@@ -81,7 +81,7 @@ municipalidades/README.md
 
 # Feriados
 
-Datasets de feriados de Chile desde el año 2000 en adelante, generados desde feriados.io y normalizados en JSON.
+Datasets de feriados de Chile desde el año 2000 hasta tres años hacia adelante, generados desde feriados.io y normalizados en JSON.
 
 Archivos:
 
